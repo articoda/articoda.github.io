@@ -53,6 +53,7 @@ main {
   width: 40%;
   margin: 1%;
   padding: 1.5rem;
-  background: #f5f7fa;
+  color: black;
+  background: #FFC1CC;
   border-radius: 10px;
 }
