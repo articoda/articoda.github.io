@@ -41,8 +41,8 @@ main {
 }
 
 .button.secondary {
-  color: black;
-  background: white;
+  color: white;
+  background: black;
   border: 1px solid white;
 }
 
