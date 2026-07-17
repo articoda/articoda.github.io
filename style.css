@@ -47,6 +47,11 @@ main {
   border: 1px solid white;
 }
 
+.button:hover {
+  transform: scale(1.2);
+}
+
+
 .card {
   display: inline-block;
   vertical-align: top;
