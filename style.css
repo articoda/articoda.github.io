@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  color: #172033;
+  color: white;
   line-height: 1.6;
 }
 
@@ -15,7 +15,7 @@ header {
 
 nav a {
   margin-left: 1.5rem;
-  color: #172033;
+  color: white;
   text-decoration: none;
 }
 
@@ -34,16 +34,16 @@ main {
   display: inline-block;
   margin: 1rem 0.5rem 0 0;
   padding: 0.8rem 1.2rem;
-  color: white;
-  background: #164fc9;
+  color: black;
+  background: white;
   border-radius: 6px;
   text-decoration: none;
 }
 
 .button.secondary {
-  color: #164fc9;
+  color: black;
   background: white;
-  border: 1px solid #164fc9;
+  border: 1px solid white;
 }
 
 .card {
