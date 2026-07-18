@@ -67,7 +67,8 @@ main {
   min-height: 180px;
 
   color: black;
-  background-color: #ffc1cc;
+  background-color: #ffffff;
+  /*background-color: #ffc1cc;*/
   border-radius: 10px;
 
   scroll-snap-align: start;
@@ -121,7 +122,6 @@ main {
   content: "";
   position: absolute;
   inset: 0;
-  background-color: white;
   background-image:
   url("https://www.compadre.org/nexusph/course/images/Electricity/Debye.png");
 
