@@ -63,6 +63,7 @@ main {
   padding: 1.5rem;
   color: black;
   background: #ffc1cc;
+  background-image: url('https://www.compadre.org/nexusph/course/images/Electricity/Debye.png');
   border-radius: 10px;
 
   /* Optional carousel behaviour */
