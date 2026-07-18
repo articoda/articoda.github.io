@@ -59,14 +59,38 @@ main {
 }
 
 .card {
-  margin: 0; /* The grid gap already creates spacing */
-  padding: 1.5rem;
+  position: relative;
+  overflow: hidden;
+
+  margin: 0;
+  padding: 0;
+  min-height: 280px;
+
   color: black;
-  background: #ffc1cc;
+  background-color: #ffc1cc;
   border-radius: 10px;
 
-  /* Optional carousel behaviour */
   scroll-snap-align: start;
+}
+
+.card-text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+
+  padding: 1rem 1.5rem;
+
+  background: rgba(190, 190, 190, 0.9);
+  box-sizing: border-box;
+}
+
+.card-text h3 {
+  margin: 0 0 0.3rem;
+}
+
+.card-text p {
+  margin: 0;
 }
 
 /* Background only for this specific card */
@@ -82,6 +106,9 @@ main {
   min-height: 260px;
 }
 
+.card:hover {
+  background-image: none;
+}
 
 .cards {
   display: grid;
