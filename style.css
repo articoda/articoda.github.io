@@ -55,7 +55,7 @@ main {
 .card {
   display: inline-block;
   vertical-align: top;
-  width: 40%;
+  width: 70%;
   margin: 1%;
   padding: 1.5rem;
   color: black;
@@ -63,6 +63,11 @@ main {
   border-radius: 10px;
 }
 
+.container {
+  max-width: 1400px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
 
 .cards {
   display: grid;
