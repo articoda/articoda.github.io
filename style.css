@@ -81,7 +81,8 @@ main {
 
   padding: 1rem 1.5rem;
 
-  background: rgba(190, 190, 190, 0.9);
+  background: rgba(40, 40, 40, 0.8);
+  color: white;
   box-sizing: border-box;
 }
 
@@ -98,12 +99,9 @@ main {
   background-image: url("https://www.compadre.org/nexusph/course/images/Electricity/Debye.png");
 
   /* Zoom the image out */
-  background-size: 90%;
+  background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
-
-  /* Make the text easier to read */
-  min-height: 260px;
 }
 
 .card:hover {
