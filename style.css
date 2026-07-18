@@ -70,6 +70,9 @@ main {
   grid-auto-columns: 100%;
   grid-column-gap: 10px;
   grid-auto-flow: column;
+  color: black;
+  background: #FFC1CC;
+  border-radius: 10px;
 }
 
 @media (min-width: 500px) {
