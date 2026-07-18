@@ -63,12 +63,25 @@ main {
   padding: 1.5rem;
   color: black;
   background: #ffc1cc;
-  background-image: url('https://www.compadre.org/nexusph/course/images/Electricity/Debye.png');
   border-radius: 10px;
 
   /* Optional carousel behaviour */
   scroll-snap-align: start;
 }
+
+/* Background only for this specific card */
+.wilson-card {
+  background-image: url("https://www.compadre.org/nexusph/course/images/Electricity/Debye.png");
+
+  /* Zoom the image out */
+  background-size: 70%;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  /* Make the text easier to read */
+  min-height: 260px;
+}
+
 
 .cards {
   display: grid;
