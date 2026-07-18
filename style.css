@@ -95,13 +95,22 @@ main {
 }
 
 /* Background only for this specific card */
-.wilson-card {
-  background-image: url("https://www.compadre.org/nexusph/course/images/Electricity/Debye.png");
+.wilson-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
 
-  /* Zoom the image out */
-  background-size: 100%;
-  background-position: center;
+  background-image:
+  url("https://www.compadre.org/nexusph/course/images/Electricity/Debye.png");
+
+  background-size: 70%;
   background-repeat: no-repeat;
+
+  /* Move the image slightly downward */
+  background-position: center calc(50% + 20px);
+
+  /* Image transparency */
+  opacity: 0.7;
 }
 
 .card:hover {
