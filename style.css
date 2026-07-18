@@ -97,7 +97,7 @@ main {
 
 .card::after {
   content: "Section coming soon";
-
+  background-color: #ffc1cc;
   position: absolute;
   inset: 0;
   z-index: 2;
