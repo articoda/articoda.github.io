@@ -129,7 +129,7 @@ main {
   background-repeat: no-repeat;
 
   /* Move the image slightly downward */
-  background-position: calc(50% + 40px) calc(50% + 30px);
+  background-position: calc(50% + 60px) calc(50% + 30px);
 
   /* Image transparency */
   opacity: 0.7;
