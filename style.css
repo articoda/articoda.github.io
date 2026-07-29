@@ -125,7 +125,7 @@ main {
   background-image: url("./assets/images/thumbnail_RG.png");
 
 
-  background-size: 20%;
+  background-size: 100%;
   background-repeat: no-repeat;
 
   /* Move the image slightly downward */
