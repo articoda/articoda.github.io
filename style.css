@@ -122,8 +122,8 @@ main {
   content: "";
   position: absolute;
   inset: 0;
-  background-image:
-  url("https://www.compadre.org/nexusph/course/images/Electricity/Debye.png");
+  background-image: url("./assets/images/thumbnail_RG.png");
+}
 
   background-size: 120%;
   background-repeat: no-repeat;
