@@ -135,7 +135,7 @@ main {
   opacity: 0.7;
 }
 
-.multipoint-card::before {
+.parameters-card::before {
   content: "";
   position: absolute;
   inset: 0;
