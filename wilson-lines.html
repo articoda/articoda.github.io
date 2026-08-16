@@ -7,15 +7,19 @@
 
 
   <title>Wilson Lines in General Representations | Daniele Artico</title>
+  <script>
+  const savedTheme = localStorage.getItem("theme");
+
+  if (savedTheme === "day") {
+    document.documentElement.dataset.theme = "day";
+  }
+</script>
 
   <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-  <!-- Theme targets -->
-  <span id="day"></span>
-  <span id="night"></span>
 
   <header>
     <div class="site-name">
@@ -23,13 +27,9 @@
     </div>
 
     <nav>
-      <a href="#day"
-         class="theme-toggle theme-day"
-         aria-label="Day theme">☀</a>
-
-      <a href="#night"
-         class="theme-toggle theme-night"
-         aria-label="Night theme">☾</a>
+    <a href="#" id="theme-toggle"
+        class="theme-toggle"
+        aria-label="Switch theme">☀</a>
     </nav>
   </header>
 
@@ -43,7 +43,7 @@
     <p>
     This project started when I moved to Parma to join <a href="https://inspirehep.net/authors/1066252" target="_blank" rel="noopener noreferrer">
   Carlo Meneghelli
-</a>'s group. Together with Carlo, <a href="https://inspirehep.net/authors/2143725" target="_blank" rel="noopener noreferrer">
+</a>'s group in 2025. Together with Carlo, <a href="https://inspirehep.net/authors/2143725" target="_blank" rel="noopener noreferrer">
   Rudolfs Treilis
 </a>, and <a href="https://inspirehep.net/authors/3167492" target="_blank" rel="noopener noreferrer">
   Michele Savi
@@ -77,6 +77,34 @@
     </section>
 
   </main>
+<script>
+  const toggle = document.getElementById("theme-toggle");
 
+  function updateThemeIcon() {
+    const isDay =
+      document.documentElement.dataset.theme === "day";
+
+    toggle.textContent = isDay ? "☾" : "☀";
+  }
+
+  updateThemeIcon();
+
+  toggle.addEventListener("click", function(event) {
+    event.preventDefault();
+
+    const isDay =
+      document.documentElement.dataset.theme === "day";
+
+    if (isDay) {
+      document.documentElement.removeAttribute("data-theme");
+      localStorage.setItem("theme", "night");
+    } else {
+      document.documentElement.dataset.theme = "day";
+      localStorage.setItem("theme", "day");
+    }
+
+    updateThemeIcon();
+  });
+</script>
 </body>
 </html>

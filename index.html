@@ -3,12 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Daniele Artico | Theoretical Physicis and Other Things</title>
+  <title>Daniele Artico | Theoretical Physics and Other Things</title>
+  <script>
+  const savedTheme = localStorage.getItem("theme");
+
+  if (savedTheme === "day") {
+    document.documentElement.dataset.theme = "day";
+  }
+</script>
   <link rel="stylesheet" href="style.css">
 </head>
 
-<span id="day"></span>
-<span id="night"></span>
 
 <body>
   <header>
@@ -18,14 +23,13 @@
     <nav>
       <a href="#publications">Publications</a>
       <a href="#talks">Talks</a>
-      <a href="#day" class="theme-toggle theme-day" aria-label="Day theme">☀</a>
-      <a href="#night" class="theme-toggle theme-night" aria-label="Night theme">☾</a>
+      <a href="#" id="theme-toggle" class="theme-toggle" aria-label="Switch theme">☀</a>
     </nav>
   </header>
 
   <main>
     <section class="intro">
-      <h2>Theoretical Physicis and Other Things I Like</h2>
+      <h2>Theoretical Physics and Other Things I Like</h2>
 
       <p>
         Here you can find my work on perturbative Quantum Field Theory, defect CFT, operator mixing, and more.
@@ -80,5 +84,34 @@
         </div>
     </section>
   </main>
+  <script>
+  const toggle = document.getElementById("theme-toggle");
+
+  function updateThemeIcon() {
+    const isDay =
+      document.documentElement.dataset.theme === "day";
+
+    toggle.textContent = isDay ? "☾" : "☀";
+  }
+
+  updateThemeIcon();
+
+  toggle.addEventListener("click", function(event) {
+    event.preventDefault();
+
+    const isDay =
+      document.documentElement.dataset.theme === "day";
+
+    if (isDay) {
+      document.documentElement.removeAttribute("data-theme");
+      localStorage.setItem("theme", "night");
+    } else {
+      document.documentElement.dataset.theme = "day";
+      localStorage.setItem("theme", "day");
+    }
+
+    updateThemeIcon();
+  });
+</script>
 </body>
 </html>

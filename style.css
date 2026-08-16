@@ -10,7 +10,7 @@
 }
 
 /* Day theme: Paul Allen card-inspired */
-html:has(#day:target) {
+[data-theme="day"] {
   --bg: #eee9dc;
   --text: #191816;
   --border: #c8c2b5;
@@ -101,19 +101,6 @@ main {
   transform: scale(1.15);
 }
 
-/* Night is the default: show the sun */
-.theme-night {
-  display: none;
-}
-
-/* Day mode: show the moon instead */
-html:has(#day:target) .theme-day {
-  display: none;
-}
-
-html:has(#day:target) .theme-night {
-  display: inline;
-}
 
 .card {
   position: relative;
