@@ -327,3 +327,9 @@ html:has(#day:target) .theme-night {
   font-size: 0.9rem;
   margin: 0;
 }
+
+.research-project a {
+  color: var(--text);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
