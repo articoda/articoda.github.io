@@ -1,9 +1,32 @@
+/* --------------------------------------------------
+ *  Colour themes
+ *  -------------------------------------------------- */
+
+/* Default: current black-and-white night theme */
+:root {
+  --bg: #000000;
+  --text: #ffffff;
+  --border: #dddddd;
+}
+
+/* Day theme: Paul Allen card-inspired */
+[data-theme="day"] {
+  --bg: #eee9dc;
+  --text: #191816;
+  --border: #c8c2b5;
+}
+
+
+/* --------------------------------------------------
+ *  General layout
+ *  -------------------------------------------------- */
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  color: white;
+  color: var(--text);
   line-height: 1.6;
-  background-color: black;
+  background-color: var(--bg);
 }
 
 header {
@@ -11,12 +34,12 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 6%;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid var(--border);
 }
 
 nav a {
   margin-left: 1.5rem;
-  color: white;
+  color: var(--text);
   text-decoration: none;
 }
 
@@ -35,16 +58,18 @@ main {
   display: inline-block;
   margin: 1rem 0.5rem 0 0;
   padding: 0.8rem 1.2rem;
-  color: black;
-  background: white;
+
+  color: var(--bg);
+  background: var(--text);
+
   border-radius: 6px;
   text-decoration: none;
 }
 
 .button.secondary {
-  color: white;
-  background: black;
-  border: 1px solid white;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--text);
 }
 
 .button:hover {
