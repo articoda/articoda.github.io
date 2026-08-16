@@ -302,3 +302,23 @@ html:has(#day:target) .theme-night {
 .card:visited {
   color: inherit;
 }
+
+.paper_gen_rep-card {
+  background-image: url("images/paper_gen_rep.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: white;
+
+  height: 300px;
+  text-decoration: none;
+}
+
+.paper_gen_rep-card .card-text {
+  padding: 0.6rem 0.8rem;
+}
+
+.paper_gen_rep-card .card-text h3 {
+  font-size: 0.9rem;
+  margin: 0;
+}
