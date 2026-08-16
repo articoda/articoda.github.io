@@ -290,3 +290,11 @@ html:has(#day:target) .theme-night {
   color: var(--text);
   text-decoration: none;
 }
+
+.card {
+  text-decoration: none;
+}
+
+.card:visited {
+  color: inherit;
+}
