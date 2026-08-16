@@ -178,6 +178,10 @@ html:has(#day:target) .theme-night {
   content: "Read more";
 }
 
+.paper_gen_rep-card::after {
+  content: "Read the paper";
+}
+
 /* Background only for specific card */
 .wilson-card::before {
   content: "";
@@ -304,7 +308,7 @@ html:has(#day:target) .theme-night {
 }
 
 .paper_gen_rep-card {
-  background-image: url("images/paper_gen_rep.png");
+  background-image: url(""./assets/images/paper_gen_rep.png"");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
