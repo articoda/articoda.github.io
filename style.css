@@ -315,7 +315,7 @@ html:has(#day:target) .theme-night {
   background-color: white;
 
   height: 300px;
-  width: 220px;
+  width: 250px;
   text-decoration: none;
 }
 
