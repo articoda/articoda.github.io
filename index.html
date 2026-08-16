@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="day">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,13 +7,47 @@
   <link rel="stylesheet" href="style.css">
 </head>
 
+<script>
+  const toggle = document.getElementById("theme-toggle");
+
+  const savedTheme = localStorage.getItem("theme");
+
+  if (savedTheme === "day") {
+    document.documentElement.dataset.theme = "day";
+  }
+
+  function updateIcon() {
+    const isDay = document.documentElement.dataset.theme === "day";
+    toggle.textContent = isDay ? "☾" : "☀";
+  }
+
+  updateIcon();
+
+  toggle.addEventListener("click", () => {
+    const isDay = document.documentElement.dataset.theme === "day";
+
+    if (isDay) {
+      delete document.documentElement.dataset.theme;
+      localStorage.setItem("theme", "night");
+    } else {
+      document.documentElement.dataset.theme = "day";
+      localStorage.setItem("theme", "day");
+    }
+
+    updateIcon();
+  });
+</script>
+
 <body>
   <header>
-    <h1>Daniele Artico</h1>
+    <h1 class="site-name">Daniele Artico</h1>
     <nav>
       <a href="#intro">Home</a>
       <a href="#publications">Publications</a>
       <a href="#talks">Talks</a>
+      <button id="theme-toggle" class="theme-toggle" aria-label="Switch theme">
+      ☀
+      </button>
     </nav>
   </header>
 

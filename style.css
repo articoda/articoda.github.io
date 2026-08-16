@@ -83,6 +83,28 @@ main {
   box-sizing: border-box;
 }
 
+.site-name {
+  font-family: "Copperplate Gothic Light", "Copperplate", "URW Gothic", serif;
+  font-weight: normal;
+  letter-spacing: 0.08em;
+}
+
+.theme-toggle {
+  margin-left: 1.5rem;
+  padding: 0;
+
+  background: none;
+  border: none;
+  color: var(--text);
+
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.theme-toggle:hover {
+  transform: scale(1.15);
+}
+
 .card {
   position: relative;
   overflow: hidden;
