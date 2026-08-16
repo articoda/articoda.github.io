@@ -7,36 +7,8 @@
   <link rel="stylesheet" href="style.css">
 </head>
 
-<script>
-  const toggle = document.getElementById("theme-toggle");
-
-  const savedTheme = localStorage.getItem("theme");
-
-  if (savedTheme === "day") {
-    document.documentElement.dataset.theme = "day";
-  }
-
-  function updateIcon() {
-    const isDay = document.documentElement.dataset.theme === "day";
-    toggle.textContent = isDay ? "☾" : "☀";
-  }
-
-  updateIcon();
-
-  toggle.addEventListener("click", () => {
-    const isDay = document.documentElement.dataset.theme === "day";
-
-    if (isDay) {
-      delete document.documentElement.dataset.theme;
-      localStorage.setItem("theme", "night");
-    } else {
-      document.documentElement.dataset.theme = "day";
-      localStorage.setItem("theme", "day");
-    }
-
-    updateIcon();
-  });
-</script>
+<span id="day"></span>
+<span id="night"></span>
 
 <body>
   <header>
@@ -45,9 +17,8 @@
       <a href="#intro">Home</a>
       <a href="#publications">Publications</a>
       <a href="#talks">Talks</a>
-      <button id="theme-toggle" class="theme-toggle" aria-label="Switch theme">
-      ☀
-      </button>
+      <a href="#day" class="theme-toggle theme-day" aria-label="Day theme">☀</a>
+      <a href="#night" class="theme-toggle theme-night" aria-label="Night theme">☾</a>
     </nav>
   </header>
 
