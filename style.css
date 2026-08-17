@@ -173,6 +173,14 @@ main {
   content: "Read the paper";
 }
 
+.paper_feynpar1::after {
+  content: "Read the paper";
+}
+
+.paper_feynpar2::after {
+  content: "Read the paper";
+}
+
 /* Background only for specific card */
 .wilson-card::before {
   content: "";
