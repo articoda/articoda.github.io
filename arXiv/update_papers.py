@@ -59,7 +59,7 @@ all_entries = []
 for author_chunk in chunk_list(author_list, batch_size):
 
     authors_query = "+OR+".join(
-        ["au:" + author for author in author_chunk]
+    ['au:%22' + a.replace(" ", "+") + '%22' for a in author_chunk]
     )
 
     query_url = (

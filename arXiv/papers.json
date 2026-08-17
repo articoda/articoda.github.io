@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:56:31.512061+00:00",
+  "generated_at": "2026-08-17T20:07:49.742431+02:00",
   "papers": [
     {
       "title": "A pion-driven near-threshold enhancement in the $π\\,T_{cc}$ system",
@@ -27,81 +27,6 @@
       ],
       "link": "https://arxiv.org/abs/2608.14419v1",
       "published": "2026-08-14T16:00:09Z"
-    },
-    {
-      "title": "Exploring the chiral magnetic effect in Au+Au collisions at $\\sqrt{s_{NN}}=7.7-200$ GeV through Chiral Anomaly Transport",
-      "authors": [
-        "Zilin Yuan",
-        "Anping Huang",
-        "Guo-Liang Ma",
-        "Mei Huang",
-        "Guannan Xie"
-      ],
-      "categories": [
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2608.14188v1",
-      "published": "2026-08-14T11:06:41Z"
-    },
-    {
-      "title": "Enhanced Three-Particle Contribution to Electroweak Penguin $B$-Meson Decays",
-      "authors": [
-        "Yong-Kang Huang",
-        "Yu-Ming Wang",
-        "Xue-Chen Zhao"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex",
-        "hep-lat"
-      ],
-      "link": "https://arxiv.org/abs/2608.14341v1",
-      "published": "2026-08-14T14:28:42Z"
-    },
-    {
-      "title": "Neural network maximum entropy framework for distribution reconstruction in heavy-ion collisions",
-      "authors": [
-        "Qian-Ru Lin",
-        "Fu-Peng Li",
-        "YiGe Huang",
-        "Long-Gang Pang"
-      ],
-      "categories": [
-        "nucl-th",
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2608.14056v1",
-      "published": "2026-08-14T07:59:59Z"
-    },
-    {
-      "title": "Bayesian inference of event-by-event collision geometry from charged-particle multiplicity in heavy-ion collisions",
-      "authors": [
-        "Yige Huang",
-        "Fu-Peng Li",
-        "Hanwen Feng",
-        "Nu Xu"
-      ],
-      "categories": [
-        "nucl-th",
-        "hep-ph",
-        "physics.data-an"
-      ],
-      "link": "https://arxiv.org/abs/2608.14045v1",
-      "published": "2026-08-14T07:46:09Z"
-    },
-    {
-      "title": "Nonstandard Solution for Anomaly Cancellation as Seesaw Neutrino Origin in the SM",
-      "authors": [
-        "Zi-Yue Zou",
-        "Chia-Wei Liu",
-        "Zhong-Lv Huang",
-        "Xiao-Gang He"
-      ],
-      "categories": [
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2608.14269v1",
-      "published": "2026-08-14T12:52:04Z"
     },
     {
       "title": "Classical gravitational scattering with a massive scalar mediator",
