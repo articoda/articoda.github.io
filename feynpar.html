@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+  <title>Integration by parts identities in Feynman parametrisation | Daniele Artico</title>
+  <script>
+  const savedTheme = localStorage.getItem("theme");
+
+  if (savedTheme === "day") {
+    document.documentElement.dataset.theme = "day";
+  }
+</script>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+
+  <header>
+    <div class="site-name">
+      <a href="index.html">Daniele Artico</a>
+    </div>
+
+    <nav>
+    <a href="#" id="theme-toggle"
+        class="theme-toggle"
+        aria-label="Switch theme">☀</a>
+    </nav>
+  </header>
+
+
+  <main>
+
+    <section class="research-project">
+
+      <h1>Integration by parts identities in Feynman parametrisation</h1>
+
+      <p>
+      This project started as my first approach to research. My master's advisor at the time,
+      <a href="https://inspirehep.net/authors/999255" target="_blank" rel="noopener noreferrer">
+        Lorenzo Magnea
+      </a>, told me that, while preparing a lecture in honour of the late
+      <a href="https://inspirehep.net/authors/992075" target="_blank" rel="noopener noreferrer">
+        Tullio Regge
+      </a>, he had come across some interesting old articles related to a problem that is still relevant today.
+    </p>
+
+    <p>
+      When computing scattering amplitudes in weakly coupled theories, perturbation theory allows us to express
+      S-matrix elements in terms of integrals, commonly known as Feynman integrals. These integrals form a vector
+      space: integration-by-parts identities provide relations among them that can be used to reduce any integral
+      to a linear combination of basis elements. Integral reduction, however, is a notoriously difficult problem
+      and remains one of the major bottlenecks in the computation of scattering amplitudes.
+    </p>
+
+    <p>
+      Together with Lorenzo, we decided to explore what happens to integration-by-parts identities and to the
+      reduction problem when the integrals are written in a different parametrisation: Feynman parameters instead
+      of momentum space. The resulting reduction algorithm is still far from being as optimised as more established
+      methods, but it offers fascinating insights into the algebraic structure of Feynman integrals. We continue
+      to work on incorporating modern algebraic tools, such as Gröbner bases, into Feynman-integral reduction.
+    </p>
+
+    </section>
+
+    <section id="research">
+        <h2>The research papers</h2>
+
+        <div class="cards">
+            <a href="https://inspirehep.net/files/bf3af99286d2614199aad96a2e3dfe1f"
+                class="card paper_gen_rep-card"
+                target="_blank"
+                rel="noopener noreferrer">
+                <div class="card-text">
+                <h3>Integration-by-parts identities and differential equations for parametrised Feynman integrals</h3>
+                </div>
+            </a>
+        </div>
+    </section>
+
+  </main>
+<script>
+  const toggle = document.getElementById("theme-toggle");
+
+  function updateThemeIcon() {
+    const isDay =
+      document.documentElement.dataset.theme === "day";
+
+    toggle.textContent = isDay ? "☾" : "☀";
+  }
+
+  updateThemeIcon();
+
+  toggle.addEventListener("click", function(event) {
+    event.preventDefault();
+
+    const isDay =
+      document.documentElement.dataset.theme === "day";
+
+    if (isDay) {
+      document.documentElement.removeAttribute("data-theme");
+      localStorage.setItem("theme", "night");
+    } else {
+      document.documentElement.dataset.theme = "day";
+      localStorage.setItem("theme", "day");
+    }
+
+    updateThemeIcon();
+  });
+</script>
+</body>
+</html>

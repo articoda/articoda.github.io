@@ -165,6 +165,10 @@ main {
   content: "Read more";
 }
 
+.parameter-card::after {
+  content: "Read more";
+}
+
 .paper_gen_rep-card::after {
   content: "Read the paper";
 }
@@ -314,6 +318,28 @@ main {
   font-size: 0.9rem;
   margin: 0;
 }
+
+.paper_feynpar1-card {
+  background-image: url("./assets/images/paper_fp1.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: white;
+
+  height: 300px;
+  width: 250px;
+  text-decoration: none;
+}
+
+.paper_feynpar1-card .card-text {
+  padding: 0.6rem 0.8rem;
+}
+
+.paper_feynpar1-card .card-text h3 {
+  font-size: 0.9rem;
+  margin: 0;
+}
+
 
 .research-project a {
   color: var(--text);
