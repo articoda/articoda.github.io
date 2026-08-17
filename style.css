@@ -173,11 +173,11 @@ main {
   content: "Read the paper";
 }
 
-.paper_feynpar1::after {
+.paper_feynpar1-card::after {
   content: "Read the paper";
 }
 
-.paper_feynpar2::after {
+.paper_feynpar2-card::after {
   content: "Read the paper";
 }
 
