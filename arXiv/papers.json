@@ -1,46 +1,4 @@
 {
-  "generated_at": "2026-08-17T20:07:49.742431+02:00",
-  "papers": [
-    {
-      "title": "A pion-driven near-threshold enhancement in the $π\\,T_{cc}$ system",
-      "authors": [
-        "Pedro Brandão",
-        "Jorgivan Morais Dias",
-        "Luciano M. Abreu"
-      ],
-      "categories": [
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2608.13525v1",
-      "published": "2026-08-13T17:43:57Z"
-    },
-    {
-      "title": "NNLO QCD corrections to $WWγ$ production at the LHC",
-      "authors": [
-        "Paolo Garbarino",
-        "Massimiliano Grazzini",
-        "Stefan Kallweit"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex"
-      ],
-      "link": "https://arxiv.org/abs/2608.14419v1",
-      "published": "2026-08-14T16:00:09Z"
-    },
-    {
-      "title": "Classical gravitational scattering with a massive scalar mediator",
-      "authors": [
-        "Birgitta Biendarra",
-        "Kays Haddad",
-        "Jan Plefka"
-      ],
-      "categories": [
-        "hep-th",
-        "gr-qc"
-      ],
-      "link": "https://arxiv.org/abs/2608.14267v1",
-      "published": "2026-08-14T12:43:41Z"
-    }
-  ]
+  "generated_at": "2026-08-18T07:42:09.489779+00:00",
+  "papers": []
 }
