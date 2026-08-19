@@ -1,4 +1,31 @@
 {
-  "generated_at": "2026-08-18T07:42:09.489779+00:00",
-  "papers": []
+  "generated_at": "2026-08-19T07:42:57.371313+00:00",
+  "papers": [
+    {
+      "title": "A compact analytic formula for the one-loop triangle cosmological correlator",
+      "authors": [
+        "Johannes Henn",
+        "Jiajie Mei",
+        "Qinglin Yang"
+      ],
+      "categories": [
+        "hep-th",
+        "astro-ph.CO"
+      ],
+      "link": "https://arxiv.org/abs/2608.17877v1",
+      "published": "2026-08-18T15:11:13Z"
+    },
+    {
+      "title": "Two-loop tensor integral reduction for automated tools",
+      "authors": [
+        "Fabian Lange",
+        "Max F. Zoller"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2608.16744v1",
+      "published": "2026-08-17T15:55:36Z"
+    }
+  ]
 }
