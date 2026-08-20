@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-08-19T07:42:57.371313+00:00",
+  "generated_at": "2026-08-20T07:45:54.477692+00:00",
   "papers": [
+    {
+      "title": "Quantifying uncertainty in the neutron-star equation of state using point estimates and posterior distributions",
+      "authors": [
+        "André Gonçalves da Silva",
+        "Ricardo Luciano Sonego Farias"
+      ],
+      "categories": [
+        "astro-ph.HE",
+        "hep-ph",
+        "hep-th",
+        "nucl-th"
+      ],
+      "link": "https://arxiv.org/abs/2608.19019v1",
+      "published": "2026-08-19T15:15:38Z"
+    },
     {
       "title": "A compact analytic formula for the one-loop triangle cosmological correlator",
       "authors": [
@@ -16,16 +31,19 @@
       "published": "2026-08-18T15:11:13Z"
     },
     {
-      "title": "Two-loop tensor integral reduction for automated tools",
+      "title": "Comparative study of nonperturbative electron-positron pair production by intense laser fields colliding with either bremsstrahlung $γ$-rays or relativistic ions",
       "authors": [
-        "Fabian Lange",
-        "Max F. Zoller"
+        "S. Remme",
+        "A. B. Voitkiv",
+        "S. Villalba-Chávez",
+        "C. Müller"
       ],
       "categories": [
+        "physics.atom-ph",
         "hep-ph"
       ],
-      "link": "https://arxiv.org/abs/2608.16744v1",
-      "published": "2026-08-17T15:55:36Z"
+      "link": "https://arxiv.org/abs/2608.18718v1",
+      "published": "2026-08-19T09:19:07Z"
     }
   ]
 }
