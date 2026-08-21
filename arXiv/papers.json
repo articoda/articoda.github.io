@@ -1,31 +1,64 @@
 {
-  "generated_at": "2026-08-19T07:42:57.371313+00:00",
+  "generated_at": "2026-08-21T07:47:42.779940+00:00",
   "papers": [
     {
-      "title": "A compact analytic formula for the one-loop triangle cosmological correlator",
+      "title": "BCFW recursion for light-like Wilson loop correlators",
       "authors": [
-        "Johannes Henn",
-        "Jiajie Mei",
-        "Qinglin Yang"
+        "James Drummond",
+        "Matthew Rochford",
+        "Rowan Wright"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2608.19418v1",
+      "published": "2026-08-19T20:08:19Z"
+    },
+    {
+      "title": "3D Einstein action from 6D Kodaira-Spencer gravity",
+      "authors": [
+        "Johanna Erdmenger",
+        "Jonathan Karl",
+        "Jani Kastikainen",
+        "Henri Scheppach"
       ],
       "categories": [
         "hep-th",
-        "astro-ph.CO"
+        "gr-qc",
+        "math-ph"
       ],
-      "link": "https://arxiv.org/abs/2608.17877v1",
-      "published": "2026-08-18T15:11:13Z"
+      "link": "https://arxiv.org/abs/2608.19309v1",
+      "published": "2026-08-19T18:00:00Z"
     },
     {
-      "title": "Two-loop tensor integral reduction for automated tools",
+      "title": "Quantifying uncertainty in the neutron-star equation of state using point estimates and posterior distributions",
       "authors": [
-        "Fabian Lange",
-        "Max F. Zoller"
+        "André Gonçalves da Silva",
+        "Ricardo Luciano Sonego Farias"
       ],
       "categories": [
+        "astro-ph.HE",
+        "hep-ph",
+        "hep-th",
+        "nucl-th"
+      ],
+      "link": "https://arxiv.org/abs/2608.19019v1",
+      "published": "2026-08-19T15:15:38Z"
+    },
+    {
+      "title": "Comparative study of nonperturbative electron-positron pair production by intense laser fields colliding with either bremsstrahlung $γ$-rays or relativistic ions",
+      "authors": [
+        "S. Remme",
+        "A. B. Voitkiv",
+        "S. Villalba-Chávez",
+        "C. Müller"
+      ],
+      "categories": [
+        "physics.atom-ph",
         "hep-ph"
       ],
-      "link": "https://arxiv.org/abs/2608.16744v1",
-      "published": "2026-08-17T15:55:36Z"
+      "link": "https://arxiv.org/abs/2608.18718v1",
+      "published": "2026-08-19T09:19:07Z"
     }
   ]
 }
