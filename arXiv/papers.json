@@ -1,4 +1,57 @@
 {
-  "generated_at": "2026-08-24T08:00:36.259451+00:00",
-  "papers": []
+  "generated_at": "2026-08-25T07:50:54.072005+00:00",
+  "papers": [
+    {
+      "title": "The ETH matrix model for DSSYK: non-perturbative corrections and intersection theory",
+      "authors": [
+        "Eleonora Alfinito",
+        "Matteo Beccaria"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2608.23298v1",
+      "published": "2026-08-24T14:22:27Z"
+    },
+    {
+      "title": "Electroweak and Single Top-Quark Conspiracy in Current LHC Data",
+      "authors": [
+        "Christoph Englert",
+        "Roman Kogler",
+        "Michael Spannowsky"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "link": "https://arxiv.org/abs/2608.21510v1",
+      "published": "2026-08-21T18:00:01Z"
+    },
+    {
+      "title": "Revisiting the $Λ(1405)$ pole structure with convolutional neural networks",
+      "authors": [
+        "Julius B. Pagayon",
+        "Vince Angelo A. Chavez",
+        "Denny Lane B. Sombillo"
+      ],
+      "categories": [
+        "hep-ph",
+        "nucl-th"
+      ],
+      "link": "https://arxiv.org/abs/2608.22747v1",
+      "published": "2026-08-24T03:15:11Z"
+    },
+    {
+      "title": "Energy of toroidal M2 brane in flat 11d background",
+      "authors": [
+        "Arkady A. Tseytlin",
+        "Zihan Wang"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2608.23517v1",
+      "published": "2026-08-24T17:22:34Z"
+    }
+  ]
 }
