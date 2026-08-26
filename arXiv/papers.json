@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:50:54.072005+00:00",
+  "generated_at": "2026-08-26T07:51:56.078300+00:00",
   "papers": [
     {
       "title": "The ETH matrix model for DSSYK: non-perturbative corrections and intersection theory",
@@ -14,18 +14,31 @@
       "published": "2026-08-24T14:22:27Z"
     },
     {
-      "title": "Electroweak and Single Top-Quark Conspiracy in Current LHC Data",
+      "title": "Three-Reggeon exchange in $\\mathcal{N}=4$ SYM to leading logarithmic accuracy",
       "authors": [
-        "Christoph Englert",
-        "Roman Kogler",
-        "Michael Spannowsky"
+        "Claude Duhr",
+        "Zhenjie Li",
+        "Chi Zhang"
       ],
       "categories": [
-        "hep-ph",
-        "hep-ex"
+        "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2608.21510v1",
-      "published": "2026-08-21T18:00:01Z"
+      "link": "https://arxiv.org/abs/2608.23975v1",
+      "published": "2026-08-25T02:07:19Z"
+    },
+    {
+      "title": "Bremsstrahlung function from Goldstone bosons in AdS$_2$",
+      "authors": [
+        "Federico Castellani",
+        "Lorenzo Di Pietro",
+        "Valentina Forini",
+        "Roman Stemplowski"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2608.23697v1",
+      "published": "2026-08-24T18:00:04Z"
     },
     {
       "title": "Revisiting the $Λ(1405)$ pole structure with convolutional neural networks",
