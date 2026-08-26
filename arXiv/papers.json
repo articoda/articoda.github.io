@@ -1,64 +1,70 @@
 {
-  "generated_at": "2026-08-21T07:47:42.779940+00:00",
+  "generated_at": "2026-08-26T07:51:56.078300+00:00",
   "papers": [
     {
-      "title": "BCFW recursion for light-like Wilson loop correlators",
+      "title": "The ETH matrix model for DSSYK: non-perturbative corrections and intersection theory",
       "authors": [
-        "James Drummond",
-        "Matthew Rochford",
-        "Rowan Wright"
+        "Eleonora Alfinito",
+        "Matteo Beccaria"
       ],
       "categories": [
         "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2608.19418v1",
-      "published": "2026-08-19T20:08:19Z"
+      "link": "https://arxiv.org/abs/2608.23298v1",
+      "published": "2026-08-24T14:22:27Z"
     },
     {
-      "title": "3D Einstein action from 6D Kodaira-Spencer gravity",
+      "title": "Three-Reggeon exchange in $\\mathcal{N}=4$ SYM to leading logarithmic accuracy",
       "authors": [
-        "Johanna Erdmenger",
-        "Jonathan Karl",
-        "Jani Kastikainen",
-        "Henri Scheppach"
+        "Claude Duhr",
+        "Zhenjie Li",
+        "Chi Zhang"
       ],
       "categories": [
-        "hep-th",
-        "gr-qc",
-        "math-ph"
+        "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2608.19309v1",
-      "published": "2026-08-19T18:00:00Z"
+      "link": "https://arxiv.org/abs/2608.23975v1",
+      "published": "2026-08-25T02:07:19Z"
     },
     {
-      "title": "Quantifying uncertainty in the neutron-star equation of state using point estimates and posterior distributions",
+      "title": "Bremsstrahlung function from Goldstone bosons in AdS$_2$",
       "authors": [
-        "André Gonçalves da Silva",
-        "Ricardo Luciano Sonego Farias"
+        "Federico Castellani",
+        "Lorenzo Di Pietro",
+        "Valentina Forini",
+        "Roman Stemplowski"
       ],
       "categories": [
-        "astro-ph.HE",
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2608.23697v1",
+      "published": "2026-08-24T18:00:04Z"
+    },
+    {
+      "title": "Revisiting the $Λ(1405)$ pole structure with convolutional neural networks",
+      "authors": [
+        "Julius B. Pagayon",
+        "Vince Angelo A. Chavez",
+        "Denny Lane B. Sombillo"
+      ],
+      "categories": [
         "hep-ph",
-        "hep-th",
         "nucl-th"
       ],
-      "link": "https://arxiv.org/abs/2608.19019v1",
-      "published": "2026-08-19T15:15:38Z"
+      "link": "https://arxiv.org/abs/2608.22747v1",
+      "published": "2026-08-24T03:15:11Z"
     },
     {
-      "title": "Comparative study of nonperturbative electron-positron pair production by intense laser fields colliding with either bremsstrahlung $γ$-rays or relativistic ions",
+      "title": "Energy of toroidal M2 brane in flat 11d background",
       "authors": [
-        "S. Remme",
-        "A. B. Voitkiv",
-        "S. Villalba-Chávez",
-        "C. Müller"
+        "Arkady A. Tseytlin",
+        "Zihan Wang"
       ],
       "categories": [
-        "physics.atom-ph",
-        "hep-ph"
+        "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2608.18718v1",
-      "published": "2026-08-19T09:19:07Z"
+      "link": "https://arxiv.org/abs/2608.23517v1",
+      "published": "2026-08-24T17:22:34Z"
     }
   ]
 }
