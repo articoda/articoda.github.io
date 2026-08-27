@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-08-26T07:51:56.078300+00:00",
+  "generated_at": "2026-08-27T18:10:29.470782+00:00",
   "papers": [
-    {
-      "title": "The ETH matrix model for DSSYK: non-perturbative corrections and intersection theory",
-      "authors": [
-        "Eleonora Alfinito",
-        "Matteo Beccaria"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2608.23298v1",
-      "published": "2026-08-24T14:22:27Z"
-    },
     {
       "title": "Three-Reggeon exchange in $\\mathcal{N}=4$ SYM to leading logarithmic accuracy",
       "authors": [
@@ -27,44 +15,51 @@
       "published": "2026-08-25T02:07:19Z"
     },
     {
-      "title": "Bremsstrahlung function from Goldstone bosons in AdS$_2$",
+      "title": "Low-Frequency Gravitational Bremsstrahlung and Memory in a Medium",
       "authors": [
-        "Federico Castellani",
-        "Lorenzo Di Pietro",
-        "Valentina Forini",
-        "Roman Stemplowski"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2608.23697v1",
-      "published": "2026-08-24T18:00:04Z"
-    },
-    {
-      "title": "Revisiting the $Λ(1405)$ pole structure with convolutional neural networks",
-      "authors": [
-        "Julius B. Pagayon",
-        "Vince Angelo A. Chavez",
-        "Denny Lane B. Sombillo"
+        "Diego Blas",
+        "Silvia Gasparotto",
+        "Hitoshi Murayama",
+        "Jan Schütte-Engel",
+        "Jann Zosso"
       ],
       "categories": [
         "hep-ph",
-        "nucl-th"
-      ],
-      "link": "https://arxiv.org/abs/2608.22747v1",
-      "published": "2026-08-24T03:15:11Z"
-    },
-    {
-      "title": "Energy of toroidal M2 brane in flat 11d background",
-      "authors": [
-        "Arkady A. Tseytlin",
-        "Zihan Wang"
-      ],
-      "categories": [
+        "gr-qc",
         "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2608.23517v1",
-      "published": "2026-08-24T17:22:34Z"
+      "link": "https://arxiv.org/abs/2608.24994v1",
+      "published": "2026-08-25T18:00:01Z"
+    },
+    {
+      "title": "Single-Minus Graviton Amplitudes from Matrix Theory",
+      "authors": [
+        "Alfredo Guevara",
+        "Alexandru Lupsasca",
+        "Juan Maldacena",
+        "Andrew Strominger"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "link": "https://arxiv.org/abs/2608.25239v1",
+      "published": "2026-08-25T23:58:47Z"
+    },
+    {
+      "title": "Anomalous behavior of Wilson fermions in the presence of monopoles",
+      "authors": [
+        "Manuel Cortina",
+        "Rajamani Narayanan",
+        "Ray Romero"
+      ],
+      "categories": [
+        "hep-lat",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2608.25143v1",
+      "published": "2026-08-25T20:48:13Z"
     }
   ]
 }
