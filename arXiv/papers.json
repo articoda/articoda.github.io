@@ -1,65 +1,70 @@
 {
-  "generated_at": "2026-08-27T18:10:29.470782+00:00",
+  "generated_at": "2026-08-28T19:20:52.490841+00:00",
   "papers": [
     {
-      "title": "Three-Reggeon exchange in $\\mathcal{N}=4$ SYM to leading logarithmic accuracy",
+      "title": "Enigmatic properties of $Ξ(1620)$ and $Ξ(1690)$",
       "authors": [
-        "Claude Duhr",
-        "Zhenjie Li",
-        "Chi Zhang"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2608.23975v1",
-      "published": "2026-08-25T02:07:19Z"
-    },
-    {
-      "title": "Low-Frequency Gravitational Bremsstrahlung and Memory in a Medium",
-      "authors": [
-        "Diego Blas",
-        "Silvia Gasparotto",
-        "Hitoshi Murayama",
-        "Jan Schütte-Engel",
-        "Jann Zosso"
+        "Taísa Veloso",
+        "K. P. Khemchandani",
+        "A. Martinez Torres",
+        "Luciano M. Abreu",
+        "Li-Sheng Geng"
       ],
       "categories": [
         "hep-ph",
-        "gr-qc",
-        "hep-th"
+        "nucl-th"
       ],
-      "link": "https://arxiv.org/abs/2608.24994v1",
-      "published": "2026-08-25T18:00:01Z"
+      "link": "https://arxiv.org/abs/2608.27236v1",
+      "published": "2026-08-27T15:20:28Z"
     },
     {
-      "title": "Single-Minus Graviton Amplitudes from Matrix Theory",
+      "title": "Positivity in energy correlators and the event distribution formula",
       "authors": [
-        "Alfredo Guevara",
-        "Alexandru Lupsasca",
-        "Juan Maldacena",
-        "Andrew Strominger"
+        "Alexandre Belin",
+        "Nathan Borak",
+        "Johan Henriksson",
+        "Romain Piron",
+        "Alexander Zhiboedov"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2608.26246v1",
+      "published": "2026-08-26T18:00:00Z"
+    },
+    {
+      "title": "Simulations and flavour-scheme studies for Higgs-boson production in association with charm quarks",
+      "authors": [
+        "Tiziano Bevilacqua",
+        "Christian Biello",
+        "Lea Michela Caminada",
+        "Clemens Lange",
+        "Marino Missiroli",
+        "Davide Pagani",
+        "Michele Selvaggi",
+        "Marco Zaro"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "link": "https://arxiv.org/abs/2608.26863v1",
+      "published": "2026-08-27T09:29:03Z"
+    },
+    {
+      "title": "Renormalization in Liouville gravity and stochastic inflation",
+      "authors": [
+        "Jordan Cotler",
+        "Victor Ivo",
+        "Juan Maldacena"
       ],
       "categories": [
         "hep-th",
         "gr-qc"
       ],
-      "link": "https://arxiv.org/abs/2608.25239v1",
-      "published": "2026-08-25T23:58:47Z"
-    },
-    {
-      "title": "Anomalous behavior of Wilson fermions in the presence of monopoles",
-      "authors": [
-        "Manuel Cortina",
-        "Rajamani Narayanan",
-        "Ray Romero"
-      ],
-      "categories": [
-        "hep-lat",
-        "cond-mat.str-el",
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2608.25143v1",
-      "published": "2026-08-25T20:48:13Z"
+      "link": "https://arxiv.org/abs/2608.26244v1",
+      "published": "2026-08-26T18:00:00Z"
     }
   ]
 }
