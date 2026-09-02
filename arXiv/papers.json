@@ -1,62 +1,22 @@
 {
-  "generated_at": "2026-09-01T12:28:14.662915+00:00",
+  "generated_at": "2026-09-02T12:02:44.805948+00:00",
   "papers": [
     {
-      "title": "Higgs boson pair production in SMEFT: shape and truncation studies",
+      "title": "Radiative Corrections and Reheating in Supergravity Models of Inflation",
       "authors": [
-        "Manosch Bär",
-        "Bakar Chargeishvili",
-        "Ramona Gröber",
-        "Gudrun Heinrich",
-        "Konstantin Schmid"
+        "John Ellis",
+        "Tony Gherghetta",
+        "Kunio Kaneta",
+        "Wenqi Ke",
+        "Keith A. Olive"
       ],
       "categories": [
         "hep-ph",
-        "hep-ex"
+        "astro-ph.CO",
+        "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2608.29132v1",
-      "published": "2026-08-29T08:20:41Z"
-    },
-    {
-      "title": "Three-loop QCD corrections to heavy-to-light form factors and applications to inclusive $B$ decays",
-      "authors": [
-        "Matteo Fael",
-        "Tobias Huber",
-        "Fabian Lange",
-        "Jakob Müller",
-        "Kay Schönwald",
-        "Matthias Steinhauser"
-      ],
-      "categories": [
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2608.28172v1",
-      "published": "2026-08-28T10:39:43Z"
-    },
-    {
-      "title": "The inclusive $\\bar B \\to X_s γ$ decay rate with higher precision",
-      "authors": [
-        "M. Misiak",
-        "H. M. Asatrian",
-        "K. Brune",
-        "M. Czaja",
-        "M. Czakon",
-        "M. Fael",
-        "C. Greub",
-        "T. Huber",
-        "F. Lange",
-        "L. T. Moos",
-        "M. Niggetiedt",
-        "A. Rehman",
-        "K. Schönwald",
-        "M. Steinhauser"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex"
-      ],
-      "link": "https://arxiv.org/abs/2608.29863v1",
-      "published": "2026-08-30T15:46:50Z"
+      "link": "https://arxiv.org/abs/2609.00221v1",
+      "published": "2026-08-31T18:32:35Z"
     }
   ]
 }
