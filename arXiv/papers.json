@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-09-02T12:02:44.805948+00:00",
+  "generated_at": "2026-09-03T12:01:16.775078+00:00",
   "papers": [
     {
-      "title": "Radiative Corrections and Reheating in Supergravity Models of Inflation",
+      "title": "Unfolded Krylov complexity: universal chaotic dynamics without false positives",
       "authors": [
-        "John Ellis",
-        "Tony Gherghetta",
-        "Kunio Kaneta",
-        "Wenqi Ke",
-        "Keith A. Olive"
+        "Johanna Erdmenger",
+        "Kyoung-Bum Huh",
+        "Hyun-Sik Jeong",
+        "Juan F. Pedraza"
       ],
       "categories": [
-        "hep-ph",
-        "astro-ph.CO",
-        "hep-th"
+        "hep-th",
+        "nlin.CD",
+        "quant-ph"
       ],
-      "link": "https://arxiv.org/abs/2609.00221v1",
-      "published": "2026-08-31T18:32:35Z"
+      "link": "https://arxiv.org/abs/2609.02228v1",
+      "published": "2026-09-02T07:39:12Z"
     }
   ]
 }
