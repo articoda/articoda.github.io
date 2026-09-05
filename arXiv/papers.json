@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T12:03:13.514463+00:00",
+  "generated_at": "2026-09-05T11:12:28.972195+00:00",
   "papers": [
     {
       "title": "Cusped Defects: Cusp Operator Expansion, Conformal Properties and Bootstrap Applications",
@@ -32,41 +32,6 @@
       ],
       "link": "https://arxiv.org/abs/2609.04039v1",
       "published": "2026-09-03T16:15:09Z"
-    },
-    {
-      "title": "Unfolded Krylov complexity: universal chaotic dynamics without false positives",
-      "authors": [
-        "Johanna Erdmenger",
-        "Kyoung-Bum Huh",
-        "Hyun-Sik Jeong",
-        "Juan F. Pedraza"
-      ],
-      "categories": [
-        "hep-th",
-        "nlin.CD",
-        "quant-ph"
-      ],
-      "link": "https://arxiv.org/abs/2609.02228v1",
-      "published": "2026-09-02T07:39:12Z"
-    },
-    {
-      "title": "From $Z$ to $a$: High-temperature relations, subleading semi-universality, and conformal anomalies",
-      "authors": [
-        "Arnav Advant",
-        "Harsh Anand",
-        "Nathan Benjamin",
-        "Vipul Kumar",
-        "Shiraz Minwalla",
-        "Jyotirmoy Mukherjee",
-        "Sridip Pal",
-        "Asikur Rahaman",
-        "Pabitra Ray"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2609.03013v1",
-      "published": "2026-09-02T18:00:03Z"
     }
   ]
 }
