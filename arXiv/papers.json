@@ -1,37 +1,4 @@
 {
-  "generated_at": "2026-09-05T11:12:28.972195+00:00",
-  "papers": [
-    {
-      "title": "Cusped Defects: Cusp Operator Expansion, Conformal Properties and Bootstrap Applications",
-      "authors": [
-        "Lorenzo Bianchi",
-        "Andrea Cavaglià",
-        "A. David Gutiérrez",
-        "Stefanos R. Kousvos",
-        "Marco Meineri"
-      ],
-      "categories": [
-        "hep-th",
-        "cond-mat.str-el",
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2609.04035v1",
-      "published": "2026-09-03T16:11:20Z"
-    },
-    {
-      "title": "Exploring Extended Higgs Dynamics via Higgsstrahlung at FCC-ee",
-      "authors": [
-        "Anisha",
-        "Francisco Arco",
-        "Stefano Di Noi",
-        "Christoph Englert",
-        "Margarete Mühlleitner"
-      ],
-      "categories": [
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2609.04039v1",
-      "published": "2026-09-03T16:15:09Z"
-    }
-  ]
+  "generated_at": "2026-09-06T11:35:27.227304+00:00",
+  "papers": []
 }
