@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-09-08T12:03:52.853984+00:00",
+  "generated_at": "2026-09-09T12:15:14.838077+00:00",
   "papers": [
     {
-      "title": "Decompactification and the Flat-Space Limit of AdS$_5\\times$ S$^5$ Master Correlators",
+      "title": "Stationary states for a particle in a box with slanted walls",
       "authors": [
-        "Burkhard Eden",
-        "Paul Heslop",
-        "Harshal Kulkarni",
-        "Arthur Lipstein",
-        "Romain Ruzziconi",
-        "Akshay Yelleshpur Srikant"
+        "Nivaldo A. Lemos"
       ],
       "categories": [
+        "quant-ph",
+        "gr-qc",
         "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2609.05409v1",
-      "published": "2026-09-04T17:57:05Z"
+      "link": "https://arxiv.org/abs/2609.07505v1",
+      "published": "2026-09-07T13:51:57Z"
+    },
+    {
+      "title": "Hot QCD: transport coefficients in strong and weak coupling regimes",
+      "authors": [
+        "Gabriele Parisi"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2609.08521v1",
+      "published": "2026-09-08T10:09:25Z"
     }
   ]
 }
