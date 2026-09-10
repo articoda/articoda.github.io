@@ -123,7 +123,7 @@ main {
   overflow: hidden;
 
   margin: 0;
-  padding: 6px;
+  padding: 0;
   min-height: 120px;
 
   color: black;
@@ -275,6 +275,39 @@ main {
   /* Make only this section scroll horizontally */
   overflow-x: auto;
   overflow-y: hidden;
+
+  /* Keep horizontal overscroll inside this element */
+  overscroll-behavior-inline: contain;
+
+  /* Optional smooth carousel-style snapping */
+  scroll-snap-type: inline mandatory;
+  scroll-behavior: smooth;
+
+  /* Space for the scrollbar */
+  padding-bottom: 1rem;
+}
+
+/* Two cards visible on larger screens */
+@media (min-width: 800px) {
+  .cards {
+    grid-auto-columns: calc((100% - 1.5rem) / 2);
+  }
+}
+
+.event-cards {
+  display: grid;
+  grid-auto-flow: row;
+
+  /* One card visible on small screens */
+  grid-auto-columns: 100%;
+
+  gap: 1.5rem;
+  width: 100%;
+  max-width: 100%;
+
+  /* Make only this section scroll horizontally */
+  overflow-x: hidden;
+  overflow-y: auto;
 
   /* Keep horizontal overscroll inside this element */
   overscroll-behavior-inline: contain;
