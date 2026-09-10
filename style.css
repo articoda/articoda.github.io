@@ -118,6 +118,21 @@ main {
   scroll-snap-align: start;
 }
 
+.event-card {
+  position: relative;
+  overflow: hidden;
+
+  margin: 0;
+  padding: 6px;
+  min-height: 120px;
+
+  color: black;
+  background-color: #ffc1cc;
+  border-radius: 10px;
+
+  scroll-snap-align: start;
+}
+
 .card-text {
   position: absolute;
   bottom: 0;
