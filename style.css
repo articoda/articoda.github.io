@@ -300,7 +300,7 @@ main {
   gap: 1.5rem;
 
   /* This MUST resolve to an actual constrained height */
-  max-height: 300px;
+  max-height: 200px;
   /* or e.g. max-height: 70vh; */
 
   overflow-x: hidden;
