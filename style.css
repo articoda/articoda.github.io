@@ -297,25 +297,24 @@ main {
 
 .event-cards {
   display: grid;
-  grid-auto-flow: row;
-
   gap: 1.5rem;
-  height: 100%;
-  max-height: 100%;
 
-  /* Make only this section scroll vertically */
+  /* This MUST resolve to an actual constrained height */
+  max-height: 300px;
+  /* or e.g. max-height: 70vh; */
+
   overflow-x: hidden;
   overflow-y: auto;
 
-  /* Keep overscroll inside this element */
-  overscroll-behavior-inline: contain;
+  overscroll-behavior-y: contain;
 
-  /* Optional smooth carousel-style snapping */
-  scroll-snap-type: inline mandatory;
+  scroll-snap-type: y mandatory;
   scroll-behavior: smooth;
+
+  /* Important if .event-cards itself is inside a flex/grid container */
+  min-height: 0;
 }
 
-}
 
 .cards.paper-cards {
   grid-auto-columns: 250px;
