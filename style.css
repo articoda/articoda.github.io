@@ -134,6 +134,7 @@ main {
   scroll-snap-align: start;
 }
 
+
 .card-text {
   position: absolute;
   bottom: 0;
