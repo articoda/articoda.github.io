@@ -1,16 +1,20 @@
 {
-  "generated_at": "2026-09-10T12:08:48.036000+00:00",
+  "generated_at": "2026-09-11T12:06:46.825606+00:00",
   "papers": [
     {
-      "title": "Hot QCD: transport coefficients in strong and weak coupling regimes",
+      "title": "On the Numerical Integration of One-Loop Cosmological Collider Signals",
       "authors": [
-        "Gabriele Parisi"
+        "Michael Borinsky",
+        "Aidan Herderschee",
+        "Qianshu Lu"
       ],
       "categories": [
-        "hep-ph"
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2609.08521v1",
-      "published": "2026-09-08T10:09:25Z"
+      "link": "https://arxiv.org/abs/2609.10673v1",
+      "published": "2026-09-09T18:00:00Z"
     }
   ]
 }
