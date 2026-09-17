@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-16T12:31:07.228656+00:00",
+  "generated_at": "2026-09-17T12:30:49.604826+00:00",
   "papers": [
-    {
-      "title": "Argon as the test of two interpretations of the LZ 248 keV recoil",
-      "authors": [
-        "Howard Baer",
-        "Vernon Barger"
-      ],
-      "categories": [
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2609.15782v1",
-      "published": "2026-09-14T16:04:11Z"
-    },
     {
       "title": "Non-singlet splitting functions at four loops",
       "authors": [
@@ -28,47 +16,18 @@
       "published": "2026-09-15T14:47:29Z"
     },
     {
-      "title": "When the gravity path integral describes a statistical average",
+      "title": "The production of bottom-flavoured jets at the LHC through bottom-quark pair production at NNLO+PS",
       "authors": [
-        "Gabriele Di Ubaldo",
-        "Luca V. Iliesiu",
-        "Henry W. Lin",
-        "Cynthia Yan"
+        "Rhorry Gauld",
+        "Marius Wiesemann",
+        "Giulia Zanderighi"
       ],
       "categories": [
-        "hep-th",
-        "gr-qc"
+        "hep-ph",
+        "hep-ex"
       ],
-      "link": "https://arxiv.org/abs/2609.16113v1",
-      "published": "2026-09-14T18:00:00Z"
-    },
-    {
-      "title": "Classification of c=1 CFTs",
-      "authors": [
-        "Lorenz Eberhardt",
-        "Nat Levine"
-      ],
-      "categories": [
-        "hep-th",
-        "math-ph",
-        "math.FA"
-      ],
-      "link": "https://arxiv.org/abs/2609.16111v1",
-      "published": "2026-09-14T18:00:00Z"
-    },
-    {
-      "title": "On the commuting charges and the Bethe ansatz for the quantised Kadomtsev-Petviashvili equation",
-      "authors": [
-        "Chiara Paletta",
-        "Alessandro Torrielli"
-      ],
-      "categories": [
-        "hep-th",
-        "math-ph",
-        "nlin.SI"
-      ],
-      "link": "https://arxiv.org/abs/2609.15316v1",
-      "published": "2026-09-14T10:05:03Z"
+      "link": "https://arxiv.org/abs/2609.17812v1",
+      "published": "2026-09-15T20:29:07Z"
     }
   ]
 }
