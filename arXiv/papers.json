@@ -1,48 +1,6 @@
 {
-  "generated_at": "2026-09-18T12:09:05.823653+00:00",
+  "generated_at": "2026-09-19T11:52:19.714606+00:00",
   "papers": [
-    {
-      "title": "Strong coupling spectrum of $\\mathrm{AdS}_3\\times \\mathrm{S}^3$ from string field theory",
-      "authors": [
-        "Luis F. Alday",
-        "Shai M. Chester",
-        "Kiarash Naderi",
-        "De-liang Zhong"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2609.19266v1",
-      "published": "2026-09-16T18:00:02Z"
-    },
-    {
-      "title": "Bosonic stars with dark electroweak fields",
-      "authors": [
-        "Etevaldo dos Santos Costa Filho",
-        "Romain Gervalle"
-      ],
-      "categories": [
-        "gr-qc",
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2609.19273v1",
-      "published": "2026-09-16T18:00:05Z"
-    },
-    {
-      "title": "A phenomenological profile of Higgs portals at future colliders",
-      "authors": [
-        "Maximilian Detering",
-        "Christoph Englert",
-        "Victor Maura",
-        "Tevong You"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex"
-      ],
-      "link": "https://arxiv.org/abs/2609.19258v1",
-      "published": "2026-09-16T18:00:01Z"
-    },
     {
       "title": "Young Gerard storming high energy physics",
       "authors": [
