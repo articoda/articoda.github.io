@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+  <title>Multipoint Correlators for the Maldacena-Wilson line | Daniele Artico</title>
+  <script>
+  const savedTheme = localStorage.getItem("theme");
+
+  if (savedTheme === "day") {
+    document.documentElement.dataset.theme = "day";
+  }
+</script>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+
+  <header>
+    <div class="site-name">
+      <a href="index.html">Daniele Artico</a>
+    </div>
+
+    <nav>
+    <a href="#" id="theme-toggle"
+        class="theme-toggle"
+        aria-label="Switch theme">☀</a>
+    </nav>
+  </header>
+
+
+  <main>
+
+    <section class="research-project">
+
+      <h1>Multipoint Correlators for the Maldacena-Wilson line</h1>
+
+      <p>
+      I started this project together with
+      <a href="https://inspirehep.net/authors/1831295" target="_blank" rel="noopener noreferrer">
+        Julien Barrat
+      </a> and
+      <a href="https://inspirehep.net/authors/1867684" target="_blank" rel="noopener noreferrer">
+        Giulia Peveri
+      </a> during our time as PhD students in the
+      <a href="https://www2.hu-berlin.de/rtg2575/" target="_blank" rel="noopener noreferrer">
+       Research and Training Group 2575 - Rethinking Quantum Field Theory
+      </a> at Humboldt-Universität zu Berlin.
+      What started as a side project developed into a full research program, giving rise to two papers published in JHEP and contributing to three PhD theses.
+    </p>
+
+    <p>
+      Maldacena-Wilson lines describe heavy charged particles in N=4 Supersymmetric Yang-Mills theory. Their preserved super-conformal symmetry implies that its excitations form a 1-dimensional CFT. Our original scope was to study the first non-trivial correlation function, the 4-point correlator, up to next-to-next-to-leading order at weak coupling; it was then extended to 5- and 6- point once we realized that our method could be applied beyond the simplest multipoint correlator.
+    </p>
+
+    <p>
+      We called the method we developed during the project <em>perturbative bootstrap</em>: it consists in applying all non-perturbative constraints coming from super-conformal Ward identities, conformal symmetry, and crossing, to then compute the remaining necessary information via Feynman diagrams. The perturbative bootstrap approach allowed us to push beyond state-of-the-art results as it heavily reduced the amount of diagrams we needed to compute.
+    </p>
+
+
+    <p>
+      Together with
+      <a href="https://inspirehep.net/authors/1817608" target="_blank" rel="noopener noreferrer">
+        Yinxuan Xu
+      </a>, Julien and I applied the perturbative bootstrap to correlation functions including one bulk and two defect operators, with results both at weak and strong coupling.
+    </p>
+
+    </section>
+
+    <section id="research">
+        <h2>The research papers</h2>
+
+        <div class="cards paper-cards">
+            <a href="https://inspirehep.net/files/d891ce9dda1f832ec50bcf7074be33f7"
+                class="card paper_mp1-card"
+                target="_blank"
+                rel="noopener noreferrer">
+                <div class="card-text">
+                <h3>Perturbative bootstrap of the Wilson-line defect CFT: multipoint correlators</h3>
+                </div>
+            </a>
+            <a href="https://inspirehep.net/files/90da6fd41778e4f4bcb0445d05f1ad2b"
+                class="card paper_mp2-card"
+                target="_blank"
+                rel="noopener noreferrer">
+                <div class="card-text">
+                <h3>Perturbative bootstrap of the Wilson-line defect CFT: Bulk-defect-defect correlators</h3>
+                </div>
+            </a>
+            <a href="https://inspirehep.net/files/1cc0910101b9bb1b5c72d811c26a4018"
+                class="card paper_mp3-card"
+                target="_blank"
+                rel="noopener noreferrer">
+                <div class="card-text">
+                <h3>From Loop Integrals to Defect Correlators</h3>
+                </div>
+            </a>
+        </div>
+    </section>
+
+  </main>
+<script>
+  const toggle = document.getElementById("theme-toggle");
+
+  function updateThemeIcon() {
+    const isDay =
+      document.documentElement.dataset.theme === "day";
+
+    toggle.textContent = isDay ? "☾" : "☀";
+  }
+
+  updateThemeIcon();
+
+  toggle.addEventListener("click", function(event) {
+    event.preventDefault();
+
+    const isDay =
+      document.documentElement.dataset.theme === "day";
+
+    if (isDay) {
+      document.documentElement.removeAttribute("data-theme");
+      localStorage.setItem("theme", "night");
+    } else {
+      document.documentElement.dataset.theme = "day";
+      localStorage.setItem("theme", "day");
+    }
+
+    updateThemeIcon();
+  });
+</script>
+</body>
+</html>

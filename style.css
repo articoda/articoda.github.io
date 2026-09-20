@@ -248,6 +248,10 @@ main {
   content: "Read more";
 }
 
+.multipoint-card::after {
+  content: "Read more";
+}
+
 .paper_gen_rep-card::after {
   content: "Read the paper";
 }
@@ -259,6 +263,19 @@ main {
 .paper_feynpar2-card::after {
   content: "Read the paper";
 }
+
+.paper_mp1-card::after {
+  content: "Read the paper";
+}
+
+.paper_mp2-card::after {
+  content: "Read the paper";
+}
+
+.paper_mp3-card::after {
+  content: "Read my PhD thesis";
+}
+
 
 /* Background only for specific card */
 .wilson-card::before {
@@ -432,7 +449,10 @@ main {
 }
 
 .paper_feynpar1-card,
-.paper_feynpar2-card {
+.paper_feynpar2-card,
+.paper_mp1-card,
+.paper_mp2-card,
+.paper_mp3-card {
   height: 300px;
   background-size: contain;
   background-position: center;
@@ -449,6 +469,16 @@ main {
   background-image: url("./assets/images/paper_fp2.png");
 }
 
+.paper_mp1-card {
+  background-image: url("./assets/images/paper_mp1.png");
+}
+
+.paper_mp2-card {
+  background-image: url("./assets/images/paper_mp2.png");
+}
+.paper_mp3-card {
+  background-image: url("./assets/images/paper_mp2.png");
+}
 
 .research-project a {
   color: var(--text);
