@@ -1,4 +1,43 @@
 {
-  "generated_at": "2026-09-20T12:09:13.793853+00:00",
-  "papers": []
+  "generated_at": "2026-09-21T13:47:43.829864+00:00",
+  "papers": [
+    {
+      "title": "Analytic results on the massive three-loop form factors: gluonic contributions",
+      "authors": [
+        "J. Blümlein",
+        "A. De Freitas",
+        "P. Marquard",
+        "J. Obrovsky",
+        "C. Schneider"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2609.22034v1",
+      "published": "2026-09-18T17:27:52Z"
+    },
+    {
+      "title": "Young Gerard storming high energy physics",
+      "authors": [
+        "John Iliopoulos"
+      ],
+      "categories": [
+        "hep-th",
+        "physics.hist-ph"
+      ],
+      "link": "https://arxiv.org/abs/2609.20695v1",
+      "published": "2026-09-17T16:59:39Z"
+    },
+    {
+      "title": "The Chern-Simons Function and the Quantum Hall Effect",
+      "authors": [
+        "Edward Witten"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2609.21182v1",
+      "published": "2026-09-18T01:04:40Z"
+    }
+  ]
 }
