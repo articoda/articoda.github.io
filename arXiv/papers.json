@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-09-21T13:47:43.829864+00:00",
+  "generated_at": "2026-09-22T12:29:24.633602+00:00",
   "papers": [
+    {
+      "title": "Non-Perturbative Modulus Decay and Multi-Component Dark Matter",
+      "authors": [
+        "Gordon Kane",
+        "Leia Price",
+        "Luis Rufino",
+        "Scott Watson",
+        "Fred Adams"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2609.22438v1",
+      "published": "2026-09-18T18:01:06Z"
+    },
+    {
+      "title": "Holonomic techniques for massive 3-loop form factors: the gluonic case",
+      "authors": [
+        "J. Blümlein",
+        "A. De Freitas",
+        "P. Marquard",
+        "J. Obrovsky",
+        "C. Schneider"
+      ],
+      "categories": [
+        "hep-ph",
+        "cs.SC"
+      ],
+      "link": "https://arxiv.org/abs/2609.24279v1",
+      "published": "2026-09-21T08:43:24Z"
+    },
     {
       "title": "Analytic results on the massive three-loop form factors: gluonic contributions",
       "authors": [
@@ -17,16 +49,16 @@
       "published": "2026-09-18T17:27:52Z"
     },
     {
-      "title": "Young Gerard storming high energy physics",
+      "title": "Dynamical Schwinger Production of Dipole--Antidipole Pairs in a Fractonic Lattice",
       "authors": [
-        "John Iliopoulos"
+        "Celio R. Muniz",
+        "R. N. Costa Filho"
       ],
       "categories": [
-        "hep-th",
-        "physics.hist-ph"
+        "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2609.20695v1",
-      "published": "2026-09-17T16:59:39Z"
+      "link": "https://arxiv.org/abs/2609.24415v1",
+      "published": "2026-09-21T11:06:35Z"
     },
     {
       "title": "The Chern-Simons Function and the Quantum Hall Effect",
