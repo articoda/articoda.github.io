@@ -1,66 +1,19 @@
 {
-  "generated_at": "2026-09-23T12:40:10.652710+00:00",
+  "generated_at": "2026-09-24T12:38:16.541523+00:00",
   "papers": [
     {
-      "title": "Holonomic techniques for massive 3-loop form factors: the gluonic case",
+      "title": "Exclusive photoproduction of vector toponium within the color dipole picture",
       "authors": [
-        "J. Blümlein",
-        "A. De Freitas",
-        "P. Marquard",
-        "J. Obrovsky",
-        "C. Schneider"
-      ],
-      "categories": [
-        "hep-ph",
-        "cs.SC"
-      ],
-      "link": "https://arxiv.org/abs/2609.24279v1",
-      "published": "2026-09-21T08:43:24Z"
-    },
-    {
-      "title": "Dynamical Schwinger Production of Dipole--Antidipole Pairs in a Fractonic Lattice",
-      "authors": [
-        "Celio R. Muniz",
-        "R. N. Costa Filho"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2609.24415v1",
-      "published": "2026-09-21T11:06:35Z"
-    },
-    {
-      "title": "Anyon Crystallization by Statistics",
-      "authors": [
-        "Zohar Komargodski",
-        "Xuzixiang Lou",
-        "Ivri Nagar",
-        "Domenico Orlando",
-        "Susanne Reffert",
-        "Amit Sever"
-      ],
-      "categories": [
-        "hep-th",
-        "cond-mat.quant-gas",
-        "cond-mat.str-el"
-      ],
-      "link": "https://arxiv.org/abs/2609.25249v1",
-      "published": "2026-09-21T18:04:15Z"
-    },
-    {
-      "title": "Limitations of quantum tomography in Higgs-boson decays to four leptons",
-      "authors": [
-        "Morgan Del Gratta",
-        "Fabio Maltoni",
-        "Davide Pagani",
-        "Giovanni Pelliccioli"
+        "Victor P. Goncalves",
+        "Bruno D. Moreira",
+        "Haimon Trebien"
       ],
       "categories": [
         "hep-ph",
         "hep-ex"
       ],
-      "link": "https://arxiv.org/abs/2609.25217v1",
-      "published": "2026-09-21T18:00:02Z"
+      "link": "https://arxiv.org/abs/2609.28223v1",
+      "published": "2026-09-23T14:52:19Z"
     },
     {
       "title": "The Super-Composite Higgs",
@@ -76,6 +29,20 @@
       ],
       "link": "https://arxiv.org/abs/2609.26413v1",
       "published": "2026-09-22T13:45:44Z"
+    },
+    {
+      "title": "Benchmark Dark SMEFT Scenarios from the Interplay of Flavor Physics and Dark Matter Searches",
+      "authors": [
+        "Lipika Kolay",
+        "Soumitra Nandi",
+        "Ipsita Ray"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "link": "https://arxiv.org/abs/2609.26886v1",
+      "published": "2026-09-22T18:00:03Z"
     }
   ]
 }
