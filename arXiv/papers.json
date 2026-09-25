@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T12:38:16.541523+00:00",
+  "generated_at": "2026-09-25T12:39:52.097436+00:00",
   "papers": [
     {
       "title": "Exclusive photoproduction of vector toponium within the color dipole picture",
@@ -16,33 +16,19 @@
       "published": "2026-09-23T14:52:19Z"
     },
     {
-      "title": "The Super-Composite Higgs",
+      "title": "Climate, Science, and the FCC: Think Clearly, Choose Wisely, Act Swiftly",
       "authors": [
-        "Kaustubh Agashe",
-        "Gian F. Giudice",
-        "Riccardo Rattazzi",
-        "Raman Sundrum"
+        "Patrick Janot",
+        "Christophe Grojean"
       ],
       "categories": [
+        "hep-ex",
         "hep-ph",
-        "hep-th"
+        "physics.acc-ph",
+        "physics.soc-ph"
       ],
-      "link": "https://arxiv.org/abs/2609.26413v1",
-      "published": "2026-09-22T13:45:44Z"
-    },
-    {
-      "title": "Benchmark Dark SMEFT Scenarios from the Interplay of Flavor Physics and Dark Matter Searches",
-      "authors": [
-        "Lipika Kolay",
-        "Soumitra Nandi",
-        "Ipsita Ray"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex"
-      ],
-      "link": "https://arxiv.org/abs/2609.26886v1",
-      "published": "2026-09-22T18:00:03Z"
+      "link": "https://arxiv.org/abs/2609.30180v1",
+      "published": "2026-09-24T17:27:56Z"
     }
   ]
 }
