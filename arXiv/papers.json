@@ -1,4 +1,31 @@
 {
-  "generated_at": "2026-09-27T12:53:33.574884+00:00",
-  "papers": []
+  "generated_at": "2026-09-28T15:09:48.744713+00:00",
+  "papers": [
+    {
+      "title": "Climate, Science, and the FCC: Think Clearly, Choose Wisely, Act Swiftly",
+      "authors": [
+        "Patrick Janot",
+        "Christophe Grojean"
+      ],
+      "categories": [
+        "hep-ex",
+        "hep-ph",
+        "physics.acc-ph",
+        "physics.soc-ph"
+      ],
+      "link": "https://arxiv.org/abs/2609.30180v1",
+      "published": "2026-09-24T17:27:56Z"
+    },
+    {
+      "title": "Fate of Bouncing Singularities at Finite $G_N$",
+      "authors": [
+        "Zohar Komargodski"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2609.31309v1",
+      "published": "2026-09-25T14:17:01Z"
+    }
+  ]
 }
