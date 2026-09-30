@@ -1,50 +1,64 @@
 {
-  "generated_at": "2026-09-29T13:54:06.903492+00:00",
+  "generated_at": "2026-09-30T13:28:54.925834+00:00",
   "papers": [
     {
-      "title": "Prompting Particle Physics: Tokenized Multi-modal Foundation Models for Combinatorially Many Tasks",
+      "title": "Boundaries and defects in conformal field theories at finite temperature",
       "authors": [
-        "Nilotpal Kakati",
-        "Daniel Murnane",
-        "Baran Hashemi",
-        "Samuel Klein",
-        "Jeffrey Krupa",
-        "Eilam Gross",
-        "Lukas Heinrich",
-        "Michael Kagan"
+        "Daniele Artico",
+        "Adam Chalabi"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2609.38130v1",
+      "published": "2026-09-29T17:52:46Z"
+    },
+    {
+      "title": "The four-loop quark-to-quark splitting function in QCD",
+      "authors": [
+        "Thomas Gehrmann",
+        "Andreas von Manteuffel",
+        "Vasily Sotnikov",
+        "Tong-Zhi Yang"
       ],
       "categories": [
         "hep-ph",
-        "cs.LG",
-        "hep-ex",
-        "physics.data-an"
-      ],
-      "link": "https://arxiv.org/abs/2609.31862v1",
-      "published": "2026-09-25T18:07:14Z"
-    },
-    {
-      "title": "Fate of Bouncing Singularities at Finite $G_N$",
-      "authors": [
-        "Zohar Komargodski"
-      ],
-      "categories": [
         "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2609.31309v1",
-      "published": "2026-09-25T14:17:01Z"
+      "link": "https://arxiv.org/abs/2609.37563v1",
+      "published": "2026-09-29T13:33:52Z"
     },
     {
-      "title": "A backreacted bouncing geodesic in 2D",
+      "title": "The Stieltjes Bootstrap for Feynman Integrals",
       "authors": [
-        "Gauri Batra",
-        "Adam Levine",
-        "Stephen H. Shenker"
+        "Hadrien Brochet",
+        "Maximilian Haensch",
+        "Johannes Henn",
+        "Benjamin Hollering",
+        "Prashanth Raman",
+        "Qinglin Yang",
+        "Simone Zoia"
       ],
       "categories": [
-        "hep-th"
+        "hep-th",
+        "hep-ph"
       ],
-      "link": "https://arxiv.org/abs/2609.32071v1",
-      "published": "2026-09-25T23:13:08Z"
+      "link": "https://arxiv.org/abs/2609.37536v1",
+      "published": "2026-09-29T13:21:10Z"
+    },
+    {
+      "title": "Effective Field Theory for Holographic Compact Objects",
+      "authors": [
+        "Miguel Correia",
+        "Vasco Gonçalves",
+        "Filipe Serrano"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "link": "https://arxiv.org/abs/2609.37806v1",
+      "published": "2026-09-29T15:24:30Z"
     },
     {
       "title": "Regge in Wonderland",
@@ -58,6 +72,20 @@
       ],
       "link": "https://arxiv.org/abs/2609.35455v1",
       "published": "2026-09-28T15:46:11Z"
+    },
+    {
+      "title": "Logarithmic gravity from a very slow roll limit of inflation",
+      "authors": [
+        "Jordan Cotler",
+        "Victor Ivo",
+        "Juan Maldacena"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "link": "https://arxiv.org/abs/2609.38052v1",
+      "published": "2026-09-29T17:21:27Z"
     },
     {
       "title": "M2 brane $S^3/\\mathbb Z_k$ instanton partition function in ${\\rm AdS}_4\\times S^7/\\mathbb Z_k$: 2-loop correction",
