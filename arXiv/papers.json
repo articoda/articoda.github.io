@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:28:54.925834+00:00",
+  "generated_at": "2026-10-01T14:20:40.713478+00:00",
   "papers": [
     {
       "title": "Boundaries and defects in conformal field theories at finite temperature",
@@ -12,6 +12,34 @@
       ],
       "link": "https://arxiv.org/abs/2609.38130v1",
       "published": "2026-09-29T17:52:46Z"
+    },
+    {
+      "title": "Bootstrapping Weakly Broken Gauge Theories in (A)dS",
+      "authors": [
+        "Daniel Baumann",
+        "Kurt Hinterbichler",
+        "Callum R. T. Jones",
+        "Nathan Meurrens"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2609.38308v1",
+      "published": "2026-09-29T18:00:01Z"
+    },
+    {
+      "title": "Explicit Analytical Representations for the Schwarzschild Radial Equation via Hypergeometric and Frobenius Expansions",
+      "authors": [
+        "J. G. R. Valangelis",
+        "Ailton C. Nascimento",
+        "Helder A. S. Costa"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2609.38461v1",
+      "published": "2026-09-29T19:49:39Z"
     },
     {
       "title": "The four-loop quark-to-quark splitting function in QCD",
@@ -27,6 +55,32 @@
       ],
       "link": "https://arxiv.org/abs/2609.37563v1",
       "published": "2026-09-29T13:33:52Z"
+    },
+    {
+      "title": "$K_{\\mathfrak{q}}$-algebras",
+      "authors": [
+        "Davide Gaiotto"
+      ],
+      "categories": [
+        "math.QA",
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2609.38702v1",
+      "published": "2026-09-30T00:30:33Z"
+    },
+    {
+      "title": "Effective Field Theory for Holographic Compact Objects",
+      "authors": [
+        "Miguel Correia",
+        "Vasco Gonçalves",
+        "Filipe Serrano"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "link": "https://arxiv.org/abs/2609.37806v1",
+      "published": "2026-09-29T15:24:30Z"
     },
     {
       "title": "The Stieltjes Bootstrap for Feynman Integrals",
@@ -47,33 +101,6 @@
       "published": "2026-09-29T13:21:10Z"
     },
     {
-      "title": "Effective Field Theory for Holographic Compact Objects",
-      "authors": [
-        "Miguel Correia",
-        "Vasco Gonçalves",
-        "Filipe Serrano"
-      ],
-      "categories": [
-        "hep-th",
-        "gr-qc"
-      ],
-      "link": "https://arxiv.org/abs/2609.37806v1",
-      "published": "2026-09-29T15:24:30Z"
-    },
-    {
-      "title": "Regge in Wonderland",
-      "authors": [
-        "Alessio Miscioscia",
-        "Dmitrii Pavshinkin",
-        "Fedor K. Popov"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2609.35455v1",
-      "published": "2026-09-28T15:46:11Z"
-    },
-    {
       "title": "Logarithmic gravity from a very slow roll limit of inflation",
       "authors": [
         "Jordan Cotler",
@@ -86,17 +113,6 @@
       ],
       "link": "https://arxiv.org/abs/2609.38052v1",
       "published": "2026-09-29T17:21:27Z"
-    },
-    {
-      "title": "M2 brane $S^3/\\mathbb Z_k$ instanton partition function in ${\\rm AdS}_4\\times S^7/\\mathbb Z_k$: 2-loop correction",
-      "authors": [
-        "Arkady A. Tseytlin"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2609.34777v1",
-      "published": "2026-09-28T09:51:56Z"
     }
   ]
 }
