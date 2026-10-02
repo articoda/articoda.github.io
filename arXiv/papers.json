@@ -1,60 +1,35 @@
 {
-  "generated_at": "2026-10-01T14:20:40.713478+00:00",
+  "generated_at": "2026-10-02T13:42:26.483888+00:00",
   "papers": [
     {
-      "title": "Boundaries and defects in conformal field theories at finite temperature",
+      "title": "Supermoduli spaces are non-projected in every genus $g\\geq 3$",
       "authors": [
-        "Daniele Artico",
-        "Adam Chalabi"
+        "Mauricio Corrêa",
+        "Ron Donagi",
+        "Simone Noja"
       ],
       "categories": [
-        "hep-th"
+        "math.AG",
+        "hep-th",
+        "math-ph"
       ],
-      "link": "https://arxiv.org/abs/2609.38130v1",
-      "published": "2026-09-29T17:52:46Z"
+      "link": "https://arxiv.org/abs/2610.00490v1",
+      "published": "2026-09-30T18:00:43Z"
     },
     {
-      "title": "Bootstrapping Weakly Broken Gauge Theories in (A)dS",
+      "title": "Antipodal Self-Duality for Generalized Fishnets from Integrability",
       "authors": [
-        "Daniel Baumann",
-        "Kurt Hinterbichler",
-        "Callum R. T. Jones",
-        "Nathan Meurrens"
+        "Lance J. Dixon",
+        "Claude Duhr",
+        "Francesca C. Fernandes",
+        "Victor Mishnyakov"
       ],
       "categories": [
-        "hep-th"
+        "hep-th",
+        "math-ph"
       ],
-      "link": "https://arxiv.org/abs/2609.38308v1",
-      "published": "2026-09-29T18:00:01Z"
-    },
-    {
-      "title": "Explicit Analytical Representations for the Schwarzschild Radial Equation via Hypergeometric and Frobenius Expansions",
-      "authors": [
-        "J. G. R. Valangelis",
-        "Ailton C. Nascimento",
-        "Helder A. S. Costa"
-      ],
-      "categories": [
-        "gr-qc",
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2609.38461v1",
-      "published": "2026-09-29T19:49:39Z"
-    },
-    {
-      "title": "The four-loop quark-to-quark splitting function in QCD",
-      "authors": [
-        "Thomas Gehrmann",
-        "Andreas von Manteuffel",
-        "Vasily Sotnikov",
-        "Tong-Zhi Yang"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2609.37563v1",
-      "published": "2026-09-29T13:33:52Z"
+      "link": "https://arxiv.org/abs/2610.00803v1",
+      "published": "2026-09-30T22:55:13Z"
     },
     {
       "title": "$K_{\\mathfrak{q}}$-algebras",
@@ -69,50 +44,43 @@
       "published": "2026-09-30T00:30:33Z"
     },
     {
-      "title": "Effective Field Theory for Holographic Compact Objects",
+      "title": "Neutrino trident process at a muon collider",
       "authors": [
-        "Miguel Correia",
-        "Vasco Gonçalves",
-        "Filipe Serrano"
+        "Reinaldo Francener",
+        "Victor P. Goncalves"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "link": "https://arxiv.org/abs/2610.00723v1",
+      "published": "2026-09-30T21:15:18Z"
+    },
+    {
+      "title": "Supersymmetric quantum mechanics on a Kähler space",
+      "authors": [
+        "Olaf Lechtenfeld",
+        "Fin Müller"
       ],
       "categories": [
         "hep-th",
-        "gr-qc"
+        "math-ph"
       ],
-      "link": "https://arxiv.org/abs/2609.37806v1",
-      "published": "2026-09-29T15:24:30Z"
+      "link": "https://arxiv.org/abs/2610.00476v1",
+      "published": "2026-09-30T18:00:10Z"
     },
     {
-      "title": "The Stieltjes Bootstrap for Feynman Integrals",
+      "title": "A celestial viewpoint on infrared divergences in QCD",
       "authors": [
-        "Hadrien Brochet",
-        "Maximilian Haensch",
-        "Johannes Henn",
-        "Benjamin Hollering",
-        "Prashanth Raman",
-        "Qinglin Yang",
-        "Simone Zoia"
+        "Lorenzo Magnea",
+        "Enrico Zunino"
       ],
       "categories": [
         "hep-th",
         "hep-ph"
       ],
-      "link": "https://arxiv.org/abs/2609.37536v1",
-      "published": "2026-09-29T13:21:10Z"
-    },
-    {
-      "title": "Logarithmic gravity from a very slow roll limit of inflation",
-      "authors": [
-        "Jordan Cotler",
-        "Victor Ivo",
-        "Juan Maldacena"
-      ],
-      "categories": [
-        "hep-th",
-        "gr-qc"
-      ],
-      "link": "https://arxiv.org/abs/2609.38052v1",
-      "published": "2026-09-29T17:21:27Z"
+      "link": "https://arxiv.org/abs/2610.01366v1",
+      "published": "2026-10-01T09:36:30Z"
     }
   ]
 }
