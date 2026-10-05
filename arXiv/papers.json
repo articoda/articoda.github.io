@@ -1,4 +1,91 @@
 {
-  "generated_at": "2026-10-04T13:07:08.040789+00:00",
-  "papers": []
+  "generated_at": "2026-10-05T15:43:38.280351+00:00",
+  "papers": [
+    {
+      "title": "Third-Order Logarithmic Resummation for Jet-Vetoed Higgs Production",
+      "authors": [
+        "Samuel Abreu",
+        "Jonathan R. Gaunt",
+        "Pier Francesco Monni",
+        "Luca Rottoli",
+        "Robert Szafron"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "link": "https://arxiv.org/abs/2610.03687v1",
+      "published": "2026-10-02T17:51:35Z"
+    },
+    {
+      "title": "Three-loop rapidity anomalous dimension for jet-veto cross sections",
+      "authors": [
+        "Samuel Abreu",
+        "Jonathan R. Gaunt",
+        "Pier Francesco Monni",
+        "Luca Rottoli",
+        "Robert Szafron"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2610.03472v1",
+      "published": "2026-10-02T15:45:28Z"
+    },
+    {
+      "title": "Final-state interactions in the $B^{\\mp}\\to K^+K^- π^{\\mp} $ decays: traces of the $X(3700)$ state and CP asymmetry",
+      "authors": [
+        "Luciano M. Abreu",
+        "Eduardo Almeida",
+        "Patrícia C. Magalhães",
+        "Vinícius S. Silva"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2610.03294v1",
+      "published": "2026-10-02T13:36:38Z"
+    },
+    {
+      "title": "Non-Renormalizability Properties of Quarter-BPS Correlators in $\\mathcal{N}$=4 SYM",
+      "authors": [
+        "Agnese Bissi",
+        "Giulia Fardelli",
+        "Hector Puerta-Ramisa"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2610.03606v1",
+      "published": "2026-10-02T17:07:11Z"
+    },
+    {
+      "title": "Distinguishing the origin of cosmic birefringence: dark energy, dark matter, and neutrino asymmetry",
+      "authors": [
+        "Lu Yin",
+        "Eiichiro Komatsu"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-ph",
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2610.02667v1",
+      "published": "2026-10-02T01:40:43Z"
+    },
+    {
+      "title": "A celestial viewpoint on infrared divergences in QCD",
+      "authors": [
+        "Lorenzo Magnea",
+        "Enrico Zunino"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2610.01366v1",
+      "published": "2026-10-01T09:36:30Z"
+    }
+  ]
 }
