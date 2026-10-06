@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:43:38.280351+00:00",
+  "generated_at": "2026-10-06T14:03:04.238808+00:00",
   "papers": [
     {
       "title": "Third-Order Logarithmic Resummation for Jet-Vetoed Higgs Production",
@@ -33,6 +33,17 @@
       "published": "2026-10-02T15:45:28Z"
     },
     {
+      "title": "Exact effective central charges for a family of 3d superconformal field theories",
+      "authors": [
+        "Griffen Adams"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2610.03950v1",
+      "published": "2026-10-02T19:09:25Z"
+    },
+    {
       "title": "Final-state interactions in the $B^{\\mp}\\to K^+K^- π^{\\mp} $ decays: traces of the $X(3700)$ state and CP asymmetry",
       "authors": [
         "Luciano M. Abreu",
@@ -47,6 +58,22 @@
       "published": "2026-10-02T13:36:38Z"
     },
     {
+      "title": "Likelihood \\& Correlation Analysis of $π^o$ Electroproduction for Proton Tensor Charge Extraction",
+      "authors": [
+        "Saraswati Pandey",
+        "Douglas Q. Adams",
+        "Simonetta Liuti",
+        "Zaki Panjsheeri",
+        "Brannon Semp",
+        "Kemal Tezgin"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2610.05594v1",
+      "published": "2026-10-04T22:59:53Z"
+    },
+    {
       "title": "Non-Renormalizability Properties of Quarter-BPS Correlators in $\\mathcal{N}$=4 SYM",
       "authors": [
         "Agnese Bissi",
@@ -58,6 +85,27 @@
       ],
       "link": "https://arxiv.org/abs/2610.03606v1",
       "published": "2026-10-02T17:07:11Z"
+    },
+    {
+      "title": "How to scale your HEP ML models: A recipe for robust architecture comparisons at scale",
+      "authors": [
+        "Matthias Vigl",
+        "Nikita Pond",
+        "Jackson Barr",
+        "Alexander Froch",
+        "Dan Guest",
+        "Nicole Hartman",
+        "Michael Kagan",
+        "Lukas Heinrich"
+      ],
+      "categories": [
+        "hep-ex",
+        "cs.LG",
+        "hep-ph",
+        "physics.data-an"
+      ],
+      "link": "https://arxiv.org/abs/2610.06784v1",
+      "published": "2026-10-05T17:44:43Z"
     },
     {
       "title": "Distinguishing the origin of cosmic birefringence: dark energy, dark matter, and neutrino asymmetry",
@@ -75,17 +123,15 @@
       "published": "2026-10-02T01:40:43Z"
     },
     {
-      "title": "A celestial viewpoint on infrared divergences in QCD",
+      "title": "An Observer in de Sitter Space, and Rereading Everett",
       "authors": [
-        "Lorenzo Magnea",
-        "Enrico Zunino"
+        "Edward Witten"
       ],
       "categories": [
-        "hep-th",
-        "hep-ph"
+        "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2610.01366v1",
-      "published": "2026-10-01T09:36:30Z"
+      "link": "https://arxiv.org/abs/2610.04804v1",
+      "published": "2026-10-03T23:20:46Z"
     }
   ]
 }
