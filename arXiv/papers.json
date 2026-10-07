@@ -1,90 +1,36 @@
 {
-  "generated_at": "2026-10-06T14:03:04.238808+00:00",
+  "generated_at": "2026-10-07T14:20:46.272633+00:00",
   "papers": [
     {
-      "title": "Third-Order Logarithmic Resummation for Jet-Vetoed Higgs Production",
+      "title": "Multi-Point Affine Bialgebras for AdS/CFT Integrability",
       "authors": [
-        "Samuel Abreu",
-        "Jonathan R. Gaunt",
-        "Pier Francesco Monni",
-        "Luca Rottoli",
-        "Robert Szafron"
+        "Niklas Beisert",
+        "Egor Im",
+        "Hannes Malcha"
       ],
       "categories": [
-        "hep-ph",
-        "hep-ex"
+        "hep-th",
+        "math-ph",
+        "math.QA"
       ],
-      "link": "https://arxiv.org/abs/2610.03687v1",
-      "published": "2026-10-02T17:51:35Z"
+      "link": "https://arxiv.org/abs/2610.07170v1",
+      "published": "2026-10-05T18:00:23Z"
     },
     {
-      "title": "Three-loop rapidity anomalous dimension for jet-veto cross sections",
+      "title": "Deriving the $\\text{AdS}_3\\times\\text{S}^3\\times \\text{T}^4$ Quantum Spectral Curve II: T-system and QSC",
       "authors": [
-        "Samuel Abreu",
-        "Jonathan R. Gaunt",
-        "Pier Francesco Monni",
-        "Luca Rottoli",
-        "Robert Szafron"
+        "Andrea Cavaglià",
+        "Davide Polvara",
+        "Nicolò Primi",
+        "Alessandro Sfondrini",
+        "Roberto Tateo"
       ],
       "categories": [
-        "hep-ph"
+        "hep-th",
+        "nlin.SI"
       ],
-      "link": "https://arxiv.org/abs/2610.03472v1",
-      "published": "2026-10-02T15:45:28Z"
-    },
-    {
-      "title": "Exact effective central charges for a family of 3d superconformal field theories",
-      "authors": [
-        "Griffen Adams"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2610.03950v1",
-      "published": "2026-10-02T19:09:25Z"
-    },
-    {
-      "title": "Final-state interactions in the $B^{\\mp}\\to K^+K^- π^{\\mp} $ decays: traces of the $X(3700)$ state and CP asymmetry",
-      "authors": [
-        "Luciano M. Abreu",
-        "Eduardo Almeida",
-        "Patrícia C. Magalhães",
-        "Vinícius S. Silva"
-      ],
-      "categories": [
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2610.03294v1",
-      "published": "2026-10-02T13:36:38Z"
-    },
-    {
-      "title": "Likelihood \\& Correlation Analysis of $π^o$ Electroproduction for Proton Tensor Charge Extraction",
-      "authors": [
-        "Saraswati Pandey",
-        "Douglas Q. Adams",
-        "Simonetta Liuti",
-        "Zaki Panjsheeri",
-        "Brannon Semp",
-        "Kemal Tezgin"
-      ],
-      "categories": [
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2610.05594v1",
-      "published": "2026-10-04T22:59:53Z"
-    },
-    {
-      "title": "Non-Renormalizability Properties of Quarter-BPS Correlators in $\\mathcal{N}$=4 SYM",
-      "authors": [
-        "Agnese Bissi",
-        "Giulia Fardelli",
-        "Hector Puerta-Ramisa"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2610.03606v1",
-      "published": "2026-10-02T17:07:11Z"
+      "link": "https://arxiv.org/abs/2610.07147v1",
+      "published": "2026-10-05T18:00:01Z"
     },
     {
       "title": "How to scale your HEP ML models: A recipe for robust architecture comparisons at scale",
@@ -108,30 +54,16 @@
       "published": "2026-10-05T17:44:43Z"
     },
     {
-      "title": "Distinguishing the origin of cosmic birefringence: dark energy, dark matter, and neutrino asymmetry",
+      "title": "Relations between electroweak parameters to order $α_s^3$",
       "authors": [
-        "Lu Yin",
-        "Eiichiro Komatsu"
+        "Andreas Maier",
+        "Peter Marquard"
       ],
       "categories": [
-        "astro-ph.CO",
-        "astro-ph.HE",
-        "hep-ph",
-        "hep-th"
+        "hep-ph"
       ],
-      "link": "https://arxiv.org/abs/2610.02667v1",
-      "published": "2026-10-02T01:40:43Z"
-    },
-    {
-      "title": "An Observer in de Sitter Space, and Rereading Everett",
-      "authors": [
-        "Edward Witten"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2610.04804v1",
-      "published": "2026-10-03T23:20:46Z"
+      "link": "https://arxiv.org/abs/2610.08282v1",
+      "published": "2026-10-06T12:53:09Z"
     }
   ]
 }
