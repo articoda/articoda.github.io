@@ -1,58 +1,6 @@
 {
-  "generated_at": "2026-10-07T14:20:46.272633+00:00",
+  "generated_at": "2026-10-08T14:28:42.666477+00:00",
   "papers": [
-    {
-      "title": "Multi-Point Affine Bialgebras for AdS/CFT Integrability",
-      "authors": [
-        "Niklas Beisert",
-        "Egor Im",
-        "Hannes Malcha"
-      ],
-      "categories": [
-        "hep-th",
-        "math-ph",
-        "math.QA"
-      ],
-      "link": "https://arxiv.org/abs/2610.07170v1",
-      "published": "2026-10-05T18:00:23Z"
-    },
-    {
-      "title": "Deriving the $\\text{AdS}_3\\times\\text{S}^3\\times \\text{T}^4$ Quantum Spectral Curve II: T-system and QSC",
-      "authors": [
-        "Andrea Cavaglià",
-        "Davide Polvara",
-        "Nicolò Primi",
-        "Alessandro Sfondrini",
-        "Roberto Tateo"
-      ],
-      "categories": [
-        "hep-th",
-        "nlin.SI"
-      ],
-      "link": "https://arxiv.org/abs/2610.07147v1",
-      "published": "2026-10-05T18:00:01Z"
-    },
-    {
-      "title": "How to scale your HEP ML models: A recipe for robust architecture comparisons at scale",
-      "authors": [
-        "Matthias Vigl",
-        "Nikita Pond",
-        "Jackson Barr",
-        "Alexander Froch",
-        "Dan Guest",
-        "Nicole Hartman",
-        "Michael Kagan",
-        "Lukas Heinrich"
-      ],
-      "categories": [
-        "hep-ex",
-        "cs.LG",
-        "hep-ph",
-        "physics.data-an"
-      ],
-      "link": "https://arxiv.org/abs/2610.06784v1",
-      "published": "2026-10-05T17:44:43Z"
-    },
     {
       "title": "Relations between electroweak parameters to order $α_s^3$",
       "authors": [
