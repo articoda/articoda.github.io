@@ -1,17 +1,112 @@
 {
-  "generated_at": "2026-10-08T14:28:42.666477+00:00",
+  "generated_at": "2026-10-09T14:15:39.826947+00:00",
   "papers": [
     {
-      "title": "Relations between electroweak parameters to order $α_s^3$",
+      "title": "Beyond gauge-parameter dependence: Further evidence for asymptotic safety in Scalar-Tensor theories",
       "authors": [
-        "Andreas Maier",
-        "Peter Marquard"
+        "Samuel M. P. Antunes",
+        "Antonio D. Pereira"
       ],
       "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "link": "https://arxiv.org/abs/2610.10791v1",
+      "published": "2026-10-07T18:50:40Z"
+    },
+    {
+      "title": "Surface defects in $\\mathcal{N}=4$ Super Yang-Mills: exact results and holographic bootstrap",
+      "authors": [
+        "Lorenzo Bianchi",
+        "Davide Bonomi",
+        "Maddalena Ferragatta",
+        "Valentina Forini"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2610.10723v1",
+      "published": "2026-10-07T18:04:37Z"
+    },
+    {
+      "title": "Prescriptive Master Integrals of Maximal Weight at Two Loops",
+      "authors": [
+        "Jacob L. Bourjaily"
+      ],
+      "categories": [
+        "hep-th",
         "hep-ph"
       ],
-      "link": "https://arxiv.org/abs/2610.08282v1",
-      "published": "2026-10-06T12:53:09Z"
+      "link": "https://arxiv.org/abs/2610.10672v1",
+      "published": "2026-10-07T18:00:00Z"
+    },
+    {
+      "title": "Stringy resolution of bouncing singularities",
+      "authors": [
+        "Ilija Burić",
+        "Ivan Gusev",
+        "Andrei Parnachev"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2610.12311v1",
+      "published": "2026-10-08T16:59:32Z"
+    },
+    {
+      "title": "Covariant BCFW for All Masses",
+      "authors": [
+        "Jacob L. Bourjaily",
+        "Michael Plesser"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2610.10686v1",
+      "published": "2026-10-07T18:00:02Z"
+    },
+    {
+      "title": "Hawking Amplitudes: Subtle Points About Saddle Points",
+      "authors": [
+        "Owen Lear",
+        "Daniel McLoughlin",
+        "Sebastian Mizera",
+        "John Staunton"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2610.10678v1",
+      "published": "2026-10-07T18:00:00Z"
+    },
+    {
+      "title": "Equal-mass sunset integrals and genus-zero local Gromov--Witten theory of Calabi--Yau $n$-folds",
+      "authors": [
+        "Hartmut Maennel",
+        "Pierre Vanhove"
+      ],
+      "categories": [
+        "math.AG",
+        "hep-th",
+        "math-ph"
+      ],
+      "link": "https://arxiv.org/abs/2610.10828v1",
+      "published": "2026-10-07T19:31:52Z"
+    },
+    {
+      "title": "The three- and four-loop equal-mass sunset integrals and local Calabi--Yau fourfolds and fivefolds",
+      "authors": [
+        "Hartmut Maennel",
+        "Pierre Vanhove"
+      ],
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.AG"
+      ],
+      "link": "https://arxiv.org/abs/2610.10821v1",
+      "published": "2026-10-07T19:25:06Z"
     }
   ]
 }
