@@ -1,117 +1,19 @@
 {
-  "generated_at": "2026-10-12T16:37:08.816787+00:00",
+  "generated_at": "2026-10-14T12:45:35.049978+00:00",
   "papers": [
     {
-      "title": "Complete four-loop pressure of cold QED",
+      "title": "Late-time electric screening in dS from EAdS loops",
       "authors": [
-        "Aapeli Kärkkäinen",
-        "Pablo Navarrete",
-        "Mika Nurmela",
-        "Kaapo Seppänen",
-        "Samuel Abreu",
-        "Maximilian Delto",
-        "Aleksi Kurkela",
-        "Risto Paatelainen",
-        "Aleksi Vuorinen"
-      ],
-      "categories": [
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2610.13873v1",
-      "published": "2026-10-09T17:21:49Z"
-    },
-    {
-      "title": "Tropical QFT and the sine-Gordon model",
-      "authors": [
-        "Michael Borinsky",
-        "Jury Radkovski",
-        "Suriyah Rajalingam Kannagi"
-      ],
-      "categories": [
-        "hep-th",
-        "cond-mat.stat-mech",
-        "math-ph"
-      ],
-      "link": "https://arxiv.org/abs/2610.12653v1",
-      "published": "2026-10-08T19:21:25Z"
-    },
-    {
-      "title": "Stringy resolution of bouncing singularities",
-      "authors": [
-        "Ilija Burić",
-        "Ivan Gusev",
-        "Andrei Parnachev"
+        "Ernesto Bianchi",
+        "Sacha Ployet",
+        "Charlotte Sleight",
+        "Massimo Taronna"
       ],
       "categories": [
         "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2610.12311v1",
-      "published": "2026-10-08T16:59:32Z"
-    },
-    {
-      "title": "Precision Tokenization for Multi-Modal Data in High Energy Physics",
-      "authors": [
-        "Jeffrey Krupa",
-        "Samuel Klein",
-        "Nilotpal Kakati",
-        "Daniel Murnane",
-        "Baran Hashemi",
-        "Eilam Gross",
-        "Lukas Heinrich",
-        "Michael Kagan"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex",
-        "physics.data-an"
-      ],
-      "link": "https://arxiv.org/abs/2610.13876v1",
-      "published": "2026-10-09T17:23:30Z"
-    },
-    {
-      "title": "Proving the OSV conjecture with the gravitational path integral",
-      "authors": [
-        "Nikolay Bobev",
-        "Jan Boruch",
-        "Luca V. Iliesiu",
-        "Dawid Maskalaniec"
-      ],
-      "categories": [
-        "hep-th",
-        "gr-qc"
-      ],
-      "link": "https://arxiv.org/abs/2610.12550v1",
-      "published": "2026-10-08T18:00:00Z"
-    },
-    {
-      "title": "Probing $τ$ lepton dipole moments at FCC-ee",
-      "authors": [
-        "Dario Buttazzo",
-        "Gabriele Levati",
-        "Yang Ma",
-        "Fabio Maltoni",
-        "Paride Paradisi",
-        "ZeQiang Wang"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex"
-      ],
-      "link": "https://arxiv.org/abs/2610.12623v1",
-      "published": "2026-10-08T18:41:57Z"
-    },
-    {
-      "title": "The Quasiparticle Ansatz for Relativistic Continuous Matrix Product States",
-      "authors": [
-        "Silviu S. Pufu",
-        "Benjamin T. Søgaard",
-        "Spyros Terlemes"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2610.13824v1",
-      "published": "2026-10-09T16:34:48Z"
+      "link": "https://arxiv.org/abs/2610.18782v1",
+      "published": "2026-10-13T17:34:50Z"
     }
   ]
 }
