@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-14T12:45:35.049978+00:00",
+  "generated_at": "2026-10-15T12:32:54.908699+00:00",
   "papers": [
+    {
+      "title": "Brownian GPDs: A Stochastic Calculus Approach to Generalized Parton Distributions from Integral Constraints",
+      "authors": [
+        "Douglas Q. Adams",
+        "Simonetta Liuti",
+        "Zaki Panjsheeri",
+        "Brannon Semp"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2610.20458v1",
+      "published": "2026-10-14T16:42:33Z"
+    },
+    {
+      "title": "The simplest event shape in $\\mathcal{N}=4$ super Yang--Mills",
+      "authors": [
+        "Carlos Bercini",
+        "Sidhaarth Kumar"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2610.18963v1",
+      "published": "2026-10-13T18:00:01Z"
+    },
     {
       "title": "Late-time electric screening in dS from EAdS loops",
       "authors": [
@@ -14,6 +40,66 @@
       ],
       "link": "https://arxiv.org/abs/2610.18782v1",
       "published": "2026-10-13T17:34:50Z"
+    },
+    {
+      "title": "Direct Detection of Solar Neutrinos to Probe Tensions and Break Degeneracies in Long-Baseline Neutrino Experiments",
+      "authors": [
+        "Dorian W. P. Amaral",
+        "David Cerdeño",
+        "Andrew Cheek",
+        "Valeria Costa",
+        "Peter B. Denton",
+        "Patrick Foldenauer"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2610.18971v1",
+      "published": "2026-10-13T18:00:03Z"
+    },
+    {
+      "title": "Heavy-Heavy-Light-Light correlators from holography on the worldsheet",
+      "authors": [
+        "Matías Colaneri",
+        "Diego H. Correa",
+        "Víctor I. Giraldo-Rivera",
+        "Nicolás A. Ivanovich"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2610.20602v1",
+      "published": "2026-10-14T17:59:46Z"
+    },
+    {
+      "title": "MoEDAL-MAPP: the first dedicated search experiment at the LHC",
+      "authors": [
+        "John R. Ellis",
+        "Nick E. Mavromatos",
+        "Vasiliki A. Mitsou",
+        "James L. Pinfold"
+      ],
+      "categories": [
+        "hep-ex",
+        "hep-ph",
+        "hep-th",
+        "physics.ins-det"
+      ],
+      "link": "https://arxiv.org/abs/2610.19959v1",
+      "published": "2026-10-14T10:45:21Z"
+    },
+    {
+      "title": "Giant Wilson loops from Fredholm determinants",
+      "authors": [
+        "Ludvig Chen",
+        "Victor Mishnyakov",
+        "Konstantin Zarembo"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2610.20493v1",
+      "published": "2026-10-14T17:03:28Z"
     }
   ]
 }
