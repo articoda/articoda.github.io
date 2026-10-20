@@ -1,6 +1,35 @@
 {
-  "generated_at": "2026-10-19T14:28:52.465718+00:00",
+  "generated_at": "2026-10-20T12:37:36.754654+00:00",
   "papers": [
+    {
+      "title": "Field theory guides Monte Carlo in the one-dimensional long-range Ising model",
+      "authors": [
+        "António Antunes",
+        "José Matos"
+      ],
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "hep-lat"
+      ],
+      "link": "https://arxiv.org/abs/2610.26838v1",
+      "published": "2026-10-19T17:58:25Z"
+    },
+    {
+      "title": "Holomorphic extremal surfaces for pseudoentropy in dS/CFT",
+      "authors": [
+        "Giorgos Anastasiou",
+        "Ignacio J. Araya",
+        "Avijit Das",
+        "Javier Moreno"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "link": "https://arxiv.org/abs/2610.24698v1",
+      "published": "2026-10-17T13:56:17Z"
+    },
     {
       "title": "Neural Network Representation of Generalized Parton Distributions (NNGPD)",
       "authors": [
@@ -38,21 +67,36 @@
       "published": "2026-10-16T01:33:33Z"
     },
     {
-      "title": "Identification of ultra-high-energy neutrinos in vertical air showers with surface detectors",
+      "title": "Mechanical angular momentum loss at $\\mathcal{O}(G^4)$ from static and radiative gravitons",
       "authors": [
-        "Jaime Alvarez-Muñiz",
-        "Ruben Conceição",
-        "Pedro J. Costa",
-        "David Dias",
-        "Mário Pimenta"
+        "Lara Bohnenblust",
+        "Carl Jordan Eriksen",
+        "Gustav Uhre Jakobsen",
+        "Kathrin Stoldt",
+        "Andrii Yanovets"
       ],
       "categories": [
-        "astro-ph.HE",
-        "hep-ex",
+        "hep-th",
+        "gr-qc"
+      ],
+      "link": "https://arxiv.org/abs/2610.26822v1",
+      "published": "2026-10-19T17:54:15Z"
+    },
+    {
+      "title": "Angular Momentum Loss at Fourth Post-Minkowskian Order",
+      "authors": [
+        "Alessandro Georgoudis",
+        "Carlo Heissenberg",
+        "Gustav Mogull",
+        "Rodolfo Russo"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc",
         "hep-ph"
       ],
-      "link": "https://arxiv.org/abs/2610.21495v1",
-      "published": "2026-10-15T08:32:23Z"
+      "link": "https://arxiv.org/abs/2610.24072v1",
+      "published": "2026-10-16T18:00:12Z"
     }
   ]
 }
