@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T12:37:36.754654+00:00",
+  "generated_at": "2026-10-21T12:49:22.386721+00:00",
   "papers": [
     {
       "title": "Field theory guides Monte Carlo in the one-dimensional long-range Ising model",
@@ -16,55 +16,50 @@
       "published": "2026-10-19T17:58:25Z"
     },
     {
-      "title": "Holomorphic extremal surfaces for pseudoentropy in dS/CFT",
+      "title": "Boundary One-Point Functions in the Open XXZ Spin Chain with Generic Integrable Boundaries",
       "authors": [
-        "Giorgos Anastasiou",
-        "Ignacio J. Araya",
-        "Avijit Das",
-        "Javier Moreno"
+        "Till Bargheer",
+        "Tengis Batmunkh",
+        "Paul Ryan"
+      ],
+      "categories": [
+        "math-ph",
+        "hep-th",
+        "nlin.SI"
+      ],
+      "link": "https://arxiv.org/abs/2610.27062v1",
+      "published": "2026-10-19T18:00:01Z"
+    },
+    {
+      "title": "Bilocal flows and universality with field-dependent regulators",
+      "authors": [
+        "Alfio M. Bonanno",
+        "Renata Ferrero"
       ],
       "categories": [
         "hep-th",
+        "cond-mat.stat-mech",
         "gr-qc"
       ],
-      "link": "https://arxiv.org/abs/2610.24698v1",
-      "published": "2026-10-17T13:56:17Z"
+      "link": "https://arxiv.org/abs/2610.27063v1",
+      "published": "2026-10-19T18:00:01Z"
     },
     {
-      "title": "Neural Network Representation of Generalized Parton Distributions (NNGPD)",
+      "title": "The $b\\bar{b}c\\bar{c}$ Fully Heavy Tetraquark at the LHC and the FCC: Multimodal Fragmentation and Observability",
       "authors": [
-        "Simonetta Liuti",
-        "Jitao Xu",
-        "Ho Jang",
-        "Zaki Panjsheeri",
-        "Gia-Wei Chern",
-        "Yaohang Li",
-        "Douglas Q. Adams",
-        "Michael Engelhardt",
-        "Gary R. Goldstein",
-        "Adil Khawaja",
-        "Huey-Wen Lin",
-        "Saraswati Pandey",
-        "Kemal Tezgin"
+        "João V. Bulhões",
+        "Francesco G. Celiberto",
+        "Victor P. Gonçalves"
       ],
       "categories": [
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2610.23390v1",
-      "published": "2026-10-16T12:49:58Z"
-    },
-    {
-      "title": "Hidden Supersymmetry in AdS/QCD models for Fermions",
-      "authors": [
-        "Rafael A. Costa-Silva",
-        "Henrique Boschi-Filho"
-      ],
-      "categories": [
+        "hep-ph",
+        "hep-ex",
         "hep-th",
-        "hep-ph"
+        "nucl-ex",
+        "nucl-th"
       ],
-      "link": "https://arxiv.org/abs/2610.22806v1",
-      "published": "2026-10-16T01:33:33Z"
+      "link": "https://arxiv.org/abs/2610.27396v1",
+      "published": "2026-10-19T23:43:03Z"
     },
     {
       "title": "Mechanical angular momentum loss at $\\mathcal{O}(G^4)$ from static and radiative gravitons",
@@ -81,22 +76,6 @@
       ],
       "link": "https://arxiv.org/abs/2610.26822v1",
       "published": "2026-10-19T17:54:15Z"
-    },
-    {
-      "title": "Angular Momentum Loss at Fourth Post-Minkowskian Order",
-      "authors": [
-        "Alessandro Georgoudis",
-        "Carlo Heissenberg",
-        "Gustav Mogull",
-        "Rodolfo Russo"
-      ],
-      "categories": [
-        "hep-th",
-        "gr-qc",
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2610.24072v1",
-      "published": "2026-10-16T18:00:12Z"
     }
   ]
 }
