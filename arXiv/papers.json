@@ -1,81 +1,33 @@
 {
-  "generated_at": "2026-10-21T12:49:22.386721+00:00",
+  "generated_at": "2026-10-22T12:52:31.308667+00:00",
   "papers": [
     {
-      "title": "Field theory guides Monte Carlo in the one-dimensional long-range Ising model",
+      "title": "String phenomenology from the landscape",
       "authors": [
-        "António Antunes",
-        "José Matos"
+        "Howard Baer",
+        "Vernon Barger",
+        "Shadman Salam",
+        "Kairui Zhang"
       ],
       "categories": [
-        "hep-th",
-        "cond-mat.stat-mech",
-        "hep-lat"
+        "hep-ph"
       ],
-      "link": "https://arxiv.org/abs/2610.26838v1",
-      "published": "2026-10-19T17:58:25Z"
+      "link": "https://arxiv.org/abs/2610.29978v1",
+      "published": "2026-10-21T16:24:47Z"
     },
     {
-      "title": "Boundary One-Point Functions in the Open XXZ Spin Chain with Generic Integrable Boundaries",
+      "title": "Orientifold and Integrability: $\\mathcal{N}=4$ Super-Yang-Mills on $\\mathbb{RP}^4$",
       "authors": [
-        "Till Bargheer",
-        "Tengis Batmunkh",
-        "Paul Ryan"
+        "Joao Caetano",
+        "Shota Komatsu",
+        "Paolo Soresina",
+        "Anders Wallberg"
       ],
       "categories": [
-        "math-ph",
-        "hep-th",
-        "nlin.SI"
+        "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2610.27062v1",
-      "published": "2026-10-19T18:00:01Z"
-    },
-    {
-      "title": "Bilocal flows and universality with field-dependent regulators",
-      "authors": [
-        "Alfio M. Bonanno",
-        "Renata Ferrero"
-      ],
-      "categories": [
-        "hep-th",
-        "cond-mat.stat-mech",
-        "gr-qc"
-      ],
-      "link": "https://arxiv.org/abs/2610.27063v1",
-      "published": "2026-10-19T18:00:01Z"
-    },
-    {
-      "title": "The $b\\bar{b}c\\bar{c}$ Fully Heavy Tetraquark at the LHC and the FCC: Multimodal Fragmentation and Observability",
-      "authors": [
-        "João V. Bulhões",
-        "Francesco G. Celiberto",
-        "Victor P. Gonçalves"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex",
-        "hep-th",
-        "nucl-ex",
-        "nucl-th"
-      ],
-      "link": "https://arxiv.org/abs/2610.27396v1",
-      "published": "2026-10-19T23:43:03Z"
-    },
-    {
-      "title": "Mechanical angular momentum loss at $\\mathcal{O}(G^4)$ from static and radiative gravitons",
-      "authors": [
-        "Lara Bohnenblust",
-        "Carl Jordan Eriksen",
-        "Gustav Uhre Jakobsen",
-        "Kathrin Stoldt",
-        "Andrii Yanovets"
-      ],
-      "categories": [
-        "hep-th",
-        "gr-qc"
-      ],
-      "link": "https://arxiv.org/abs/2610.26822v1",
-      "published": "2026-10-19T17:54:15Z"
+      "link": "https://arxiv.org/abs/2610.28725v1",
+      "published": "2026-10-20T18:00:01Z"
     }
   ]
 }
