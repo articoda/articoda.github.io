@@ -1,61 +1,36 @@
 {
-  "generated_at": "2026-10-26T14:02:43.541511+00:00",
+  "generated_at": "2026-10-27T13:04:47.379702+00:00",
   "papers": [
     {
-      "title": "Semi-Analytic Predictions for Strong-Lensing Perturbers in Cold and Self-Interacting Dark Matter",
+      "title": "Muon Tridents at FASER and NA64$μ$: Motivation, Predictions, and Prospects for Precision Measurements",
       "authors": [
-        "Jonathan Tekverk",
-        "Duncan K. Adams",
-        "Simon Birrer",
-        "Rouven Essig",
-        "Daniel Gilman"
+        "Reinaldo Francener",
+        "Victor P. Goncalves",
+        "Felix Kling",
+        "Gabriel Rabelo-Soares"
       ],
       "categories": [
-        "astro-ph.CO",
+        "hep-ph",
+        "hep-ex",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "link": "https://arxiv.org/abs/2610.33153v1",
+      "published": "2026-10-23T18:00:00Z"
+    },
+    {
+      "title": "Four-loop $\\overline{\\rm MS}$-pole quark mass relation with two different masses",
+      "authors": [
+        "Matteo Fael",
+        "Fabian Lange",
+        "Kay Schönwald",
+        "Matthias Steinhauser"
+      ],
+      "categories": [
         "hep-ph"
       ],
-      "link": "https://arxiv.org/abs/2610.31881v1",
-      "published": "2026-10-22T20:22:44Z"
-    },
-    {
-      "title": "Gauge It or Break It: Lectures on Global Symmetries and the Cobordism Conjecture",
-      "authors": [
-        "Matilda Delgado",
-        "Corinne Englert",
-        "Guillermo Mera Álvarez",
-        "Eduardo Velasco-Aja"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2610.31749v1",
-      "published": "2026-10-22T18:00:00Z"
-    },
-    {
-      "title": "Quantum gravity on the bulk cone",
-      "authors": [
-        "Ahmed Almheiri",
-        "Matthew Dodelson",
-        "Zohar Komargodski"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2610.31610v1",
-      "published": "2026-10-22T17:39:05Z"
-    },
-    {
-      "title": "Six and seven dimensional extrema of Non-SUSY heterotic theory with non-maximal enhancements",
-      "authors": [
-        "Stevell Muller",
-        "Daniel Robbins",
-        "Hassaan Saleem"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2610.31750v1",
-      "published": "2026-10-22T18:00:00Z"
+      "link": "https://arxiv.org/abs/2610.33164v1",
+      "published": "2026-10-23T18:00:12Z"
     },
     {
       "title": "Analytic two-loop corrections to top-quark pair production at hadron colliders",
@@ -75,16 +50,45 @@
       "published": "2026-10-23T12:22:05Z"
     },
     {
-      "title": "High precision black hole scattering",
+      "title": "Direct tests of conformal symmetry with Rydberg atoms: assessment and proposals",
       "authors": [
-        "Benjamin Sauer"
+        "Junchen Rong",
+        "Slava Rychkov"
       ],
       "categories": [
+        "quant-ph",
+        "cond-mat.quant-gas",
         "hep-th",
-        "gr-qc"
+        "physics.atom-ph"
       ],
-      "link": "https://arxiv.org/abs/2610.31238v1",
-      "published": "2026-10-22T13:19:53Z"
+      "link": "https://arxiv.org/abs/2610.33156v1",
+      "published": "2026-10-23T18:00:01Z"
+    },
+    {
+      "title": "Axions from Betelgeuse: Probing Axion Couplings with $^{23}\\rm{Na}$ and $^{55}\\rm{Mn}$",
+      "authors": [
+        "Nicholas A. M. Revel",
+        "Baldeep Grewal",
+        "Anupam Ray",
+        "Aaron C. Vincent"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2610.34540v1",
+      "published": "2026-10-25T20:01:23Z"
+    },
+    {
+      "title": "The Free Scalar as a Thermal Envelope for Three-Dimensional CFTs",
+      "authors": [
+        "Christopher P. Herzog",
+        "Andreas Stergiou"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2610.33179v1",
+      "published": "2026-10-23T18:22:20Z"
     }
   ]
 }
