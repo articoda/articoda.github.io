@@ -485,3 +485,14 @@ main {
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
 }
+
+
+/* Talks archive navigation and compact header on small screens. */
+.all-talks-link { color: var(--text); text-underline-offset: .2em; }
+.site-header nav a[aria-current="page"] { text-decoration: underline; text-underline-offset: .25em; }
+@media (max-width: 600px) {
+  .site-header { flex-wrap: wrap; gap: .4rem 1rem; }
+  .site-header .site-name { font-size: clamp(1.25rem, 6vw, 2rem); margin: .35rem 0; }
+  .site-header nav { display: flex; flex-wrap: wrap; align-items: center; gap: 1.1rem; margin-left: auto; }
+  .site-header nav a { margin-left: 0; }
+}

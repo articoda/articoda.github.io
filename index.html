@@ -16,13 +16,13 @@
 
 
 <body>
-  <header>
+  <header class="site-header">
   <h1 class="site-name">
     <a href="index.html">Daniele Artico</a>
   </h1>
     <nav>
  <!--     <a href="#publications">Publications</a> -->
- <!--     <a href="#talks">Talks</a> -->
+      <a href="talks.html">Talks &amp; slides</a>
       <a href="#" id="theme-toggle" class="theme-toggle" aria-label="Switch theme">☀</a>
     </nav>
   </header>
@@ -48,90 +48,24 @@
     </section>
 
     <section id="events">
-    <h2>Upcoming seminars</h2>
-
-    <div class="event-cards">
-
+      <h2>Upcoming seminars</h2>
+      <div class="event-cards" id="home-upcoming-list">
       <div class="event-card">
-        <div class="event-date">
-          <span class="event-day">7–9</span>
-          <span class="event-month">OCT</span>
-          <span class="event-year">2026</span>
-        </div>
-
-        <div class="event-info">
-          <h3>Boundaries and defects in thermal conformal field theories</h3>
-
-          <a href="https://sites.google.com/view/hmiworkshop/home"
-            target="_blank"
-            rel="noopener noreferrer">
-            <i>CFT on Non-Trivial Geometries</i>
-          </a>
-
-          <p>Hamilton Mathematics Institute, Trinity College Dublin</p>
-
-          <a href="assets/dublin.pdf"
-            target="_blank"
-            rel="noopener noreferrer">
-            <i>See the slides</i>
-          </a>
-        </div>
+        <div class="event-date"><span class="event-day">29</span><span class="event-month">OCT</span><span class="event-year">2026</span></div>
+        <div class="event-info"><h3>Boundaries and defects in thermal conformal field theories</h3><p>Technische Universität Wien, Austria</p></div>
+      </div><div class="event-card">
+        <div class="event-date"><span class="event-day">19</span><span class="event-month">NOV</span><span class="event-year">2026</span></div>
+        <div class="event-info"><h3>New operators and RG flows on Wilson lines in general representations</h3><p>Università di Milano-Bicocca, Italy</p></div>
+      </div><div class="event-card">
+        <div class="event-date"><span class="event-day">15</span><span class="event-month">DEC</span><span class="event-year">2026</span></div>
+        <div class="event-info"><h3>Title to be announced</h3><p>Thermal Seminars · Online</p><p>On boundaries and defects in conformal field theories at finite temperature.</p><a href="https://sites.google.com/view/thermalseminars/home">Event page</a></div>
+      </div><div class="event-card">
+        <div class="event-date"><span class="event-day">16</span><span class="event-month">DEC</span><span class="event-year">2026</span></div>
+        <div class="event-info"><h3>New operators and RG flows on Wilson lines in general representations</h3><p>SISSA, Trieste, Italy</p></div>
       </div>
-
-
-      <div class="event-card">
-        <div class="event-date">
-          <span class="event-day">27</span>
-          <span class="event-month">OCT</span>
-          <span class="event-year">2026</span>
-        </div>
-
-        <div class="event-info">
-          <h3>New operators and RG flows on Wilson lines in general representations</h3>
-          <p>University of Vienna</p>
-        </div>
       </div>
-
-      <div class="event-card">
-        <div class="event-date">
-          <span class="event-day">29</span>
-          <span class="event-month">OCT</span>
-          <span class="event-year">2026</span>
-        </div>
-
-        <div class="event-info">
-          <h3>Boundaries and defects in thermal conformal field theories</h3>
-          <p>Technische Universität Wien</p>
-        </div>
-      </div>
-
-      <div class="event-card">
-        <div class="event-date">
-          <span class="event-day">19</span>
-          <span class="event-month">NOV</span>
-          <span class="event-year">2026</span>
-        </div>
-
-        <div class="event-info">
-          <h3>New operators and RG flows on Wilson lines in general representations</h3>
-          <p>Università Milano Bicocca</p>
-        </div>
-      </div>
-
-      <div class="event-card">
-        <div class="event-date">
-          <span class="event-day">16</span>
-          <span class="event-month">DEC</span>
-          <span class="event-year">2026</span>
-        </div>
-
-        <div class="event-info">
-          <h3>New operators and RG flows on Wilson lines in general representations</h3>
-          <p>SISSA, Trieste</p>
-        </div>
-      </div>
-
-    </div>
+      <p id="home-no-upcoming" hidden>No talks are currently scheduled.</p>
+      <p><a class="all-talks-link" href="talks.html">All talks and slides →</a></p>
     </section>
 
     <section id="research">
@@ -200,5 +134,7 @@
     updateThemeIcon();
   });
 </script>
+  <script src="talks.js" defer></script>
 </body>
 </html>
+
