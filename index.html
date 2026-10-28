@@ -4,27 +4,32 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Daniele Artico | Theoretical Physics and Other Things</title>
+  <script>
+  const savedTheme = localStorage.getItem("theme");
+
+  if (savedTheme === "day") {
+    document.documentElement.dataset.theme = "day";
+  }
+</script>
   <link rel="stylesheet" href="style.css">
 </head>
 
 
 <body>
-  <header>
-    <div class="site-name">
-      <a href="index.html">Daniele Artico</a>
-    </div>
-    <nav aria-label="Display settings">
-      <label class="theme-toggle">
-        <input type="checkbox" id="theme-toggle" aria-label="Use light theme">
-        <span class="theme-icon-day" aria-hidden="true">☀</span>
-        <span class="theme-icon-night" aria-hidden="true">☾</span>
-      </label>
+  <header class="site-header">
+  <h1 class="site-name">
+    <a href="index.html">Daniele Artico</a>
+  </h1>
+    <nav>
+ <!--     <a href="#publications">Publications</a> -->
+      <a href="talks.html">Talks &amp; slides</a>
+      <a href="#" id="theme-toggle" class="theme-toggle" aria-label="Switch theme">☀</a>
     </nav>
   </header>
 
   <main>
     <section class="intro">
-      <h1>Theoretical Physics and Other Things I Like</h1>
+      <h2>Theoretical Physics and Other Things I Like</h2>
 
       <p>
         Here you can find my work on perturbative Quantum Field Theory, defect CFT, operator mixing, and more.
@@ -44,8 +49,7 @@
 
     <section id="events">
       <h2>Upcoming seminars</h2>
-      <!-- Keep scheduled seminars in sync with talks.html when updating the archive. -->
-      <div class="event-cards">
+      <div class="event-cards" id="home-upcoming-list">
       <div class="event-card">
         <div class="event-date"><span class="event-day">29</span><span class="event-month">OCT</span><span class="event-year">2026</span></div>
         <div class="event-info"><h3>Boundaries and defects in thermal conformal field theories</h3><p>Technische Universität Wien, Austria</p></div>
@@ -60,6 +64,7 @@
         <div class="event-info"><h3>New operators and RG flows on Wilson lines in general representations</h3><p>SISSA, Trieste, Italy</p></div>
       </div>
       </div>
+      <p id="home-no-upcoming" hidden>No talks are currently scheduled.</p>
       <p><a class="all-talks-link" href="talks.html">All talks and slides →</a></p>
     </section>
 
@@ -100,7 +105,36 @@
         </div>
     </section>
   </main>
+  <script>
+  const toggle = document.getElementById("theme-toggle");
+
+  function updateThemeIcon() {
+    const isDay =
+      document.documentElement.dataset.theme === "day";
+
+    toggle.textContent = isDay ? "☾" : "☀";
+  }
+
+  updateThemeIcon();
+
+  toggle.addEventListener("click", function(event) {
+    event.preventDefault();
+
+    const isDay =
+      document.documentElement.dataset.theme === "day";
+
+    if (isDay) {
+      document.documentElement.removeAttribute("data-theme");
+      localStorage.setItem("theme", "night");
+    } else {
+      document.documentElement.dataset.theme = "day";
+      localStorage.setItem("theme", "day");
+    }
+
+    updateThemeIcon();
+  });
+</script>
+  <script src="talks.js" defer></script>
 </body>
 </html>
-
 

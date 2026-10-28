@@ -1,11 +1,18 @@
-.talks-page a { color: var(--text); text-underline-offset: .2em; }
-.talks-intro { margin-bottom: 3.25rem; }
+.talks-page {
+  --archive-accent: #ffc1cc;
+  max-width: 980px;
+  padding-top: 2.8rem;
+}
+[data-theme="day"] .talks-page { --archive-accent: #920632; }
+.talks-page a { color: var(--archive-accent); text-underline-offset: .2em; }
+.talks-intro { max-width: 680px; margin-bottom: 2.5rem; }
+.talks-intro h2 { font-size: clamp(2rem, 5vw, 2.8rem); line-height: 1.15; margin: 0 0 1rem; }
 .talks-intro p { margin: 0 0 1.25rem; }
 .archive-nav { display: flex; flex-wrap: wrap; gap: .5rem 1.4rem; }
-.archive-nav a { margin-left: 0; font-size: .95rem; text-decoration: underline; }
+.archive-nav a { font-size: .95rem; }
 .talks-page section { margin-bottom: 3.25rem; }
 .talks-page section > h2 { font-size: 1.4rem; margin: 0 0 .5rem; }
-.talk-year { font-size: 1.05rem; margin: 1.8rem 0 0; color: var(--text); }
+.talk-year { font-size: 1.05rem; margin: 1.8rem 0 0; color: var(--archive-accent); }
 .talk-list { list-style: none; margin: 0; padding: 0; }
 .talk-entry { display: grid; grid-template-columns: 8.3rem minmax(0, 1fr); gap: 1.2rem; padding: 1.2rem 0; border-bottom: 1px solid var(--border); }
 .talk-date { font-size: .9rem; padding-top: .15rem; }
@@ -17,10 +24,10 @@
 .materials-list { padding-left: 1.2rem; }
 .materials-list li { margin-bottom: .6rem; }
 .archive-footer { margin-top: 2rem; font-size: .95rem; }
-.talks-page a:focus-visible { outline: 2px solid var(--text); outline-offset: 4px; }
+.talks-page a:focus-visible { outline: 2px solid var(--archive-accent); outline-offset: 4px; }
 @media (max-width: 600px) {
+  .talks-page { padding-top: 2rem; }
   .talk-entry { grid-template-columns: minmax(0, 1fr); gap: .35rem; }
   .talk-date { font-size: .82rem; }
   .talk-status { margin: 0 0 0 .5rem; }
 }
-

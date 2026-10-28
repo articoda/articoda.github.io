@@ -7,6 +7,13 @@
 
 
   <title>Wilson Lines in General Representations | Daniele Artico</title>
+  <script>
+  const savedTheme = localStorage.getItem("theme");
+
+  if (savedTheme === "day") {
+    document.documentElement.dataset.theme = "day";
+  }
+</script>
 
   <link rel="stylesheet" href="style.css">
 </head>
@@ -18,12 +25,11 @@
     <div class="site-name">
       <a href="index.html">Daniele Artico</a>
     </div>
-    <nav aria-label="Display settings">
-      <label class="theme-toggle">
-        <input type="checkbox" id="theme-toggle" aria-label="Use light theme">
-        <span class="theme-icon-day" aria-hidden="true">☀</span>
-        <span class="theme-icon-night" aria-hidden="true">☾</span>
-      </label>
+
+    <nav>
+    <a href="#" id="theme-toggle"
+        class="theme-toggle"
+        aria-label="Switch theme">☀</a>
     </nav>
   </header>
 
@@ -71,6 +77,34 @@
     </section>
 
   </main>
+<script>
+  const toggle = document.getElementById("theme-toggle");
+
+  function updateThemeIcon() {
+    const isDay =
+      document.documentElement.dataset.theme === "day";
+
+    toggle.textContent = isDay ? "☾" : "☀";
+  }
+
+  updateThemeIcon();
+
+  toggle.addEventListener("click", function(event) {
+    event.preventDefault();
+
+    const isDay =
+      document.documentElement.dataset.theme === "day";
+
+    if (isDay) {
+      document.documentElement.removeAttribute("data-theme");
+      localStorage.setItem("theme", "night");
+    } else {
+      document.documentElement.dataset.theme = "day";
+      localStorage.setItem("theme", "day");
+    }
+
+    updateThemeIcon();
+  });
+</script>
 </body>
 </html>
-

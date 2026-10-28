@@ -5,20 +5,52 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Past and scheduled talks by Daniele Artico on defect CFT, Wilson lines, thermal field theory and Feynman integrals, with available slides and posters.">
   <title>Talks and slides | Daniele Artico</title>
+  <script>
+  const savedTheme = localStorage.getItem("theme");
+
+  if (savedTheme === "day") {
+    document.documentElement.dataset.theme = "day";
+  }
+</script>
   <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="talks.css">
+  <style>
+.talks-page a { color: var(--text); text-underline-offset: .2em; }
+.talks-intro { margin-bottom: 3.25rem; }
+.talks-intro p { margin: 0 0 1.25rem; }
+.archive-nav { display: flex; flex-wrap: wrap; gap: .5rem 1.4rem; }
+.archive-nav a { margin-left: 0; font-size: .95rem; text-decoration: underline; }
+.talks-page section { margin-bottom: 3.25rem; }
+.talks-page section > h2 { font-size: 1.4rem; margin: 0 0 .5rem; }
+.talk-year { font-size: 1.05rem; margin: 1.8rem 0 0; color: var(--text); }
+.talk-list { list-style: none; margin: 0; padding: 0; }
+.talk-entry { display: grid; grid-template-columns: 8.3rem minmax(0, 1fr); gap: 1.2rem; padding: 1.2rem 0; border-bottom: 1px solid var(--border); }
+.talk-date { font-size: .9rem; padding-top: .15rem; }
+.talk-details { min-width: 0; }
+.talk-details h3, .talk-details h4 { font-size: 1.03rem; line-height: 1.4; margin: 0 0 .3rem; font-weight: 600; }
+.talk-details p { font-size: .95rem; margin: .2rem 0; }
+.talk-status { display: inline-block; font-size: .75rem; margin: .45rem 0 0; padding: .05rem .5rem; border: 1px solid var(--border); border-radius: 3px; }
+.talk-links { display: flex; flex-wrap: wrap; gap: .35rem 1.2rem; margin-top: .45rem; font-size: .9rem; }
+.materials-list { padding-left: 1.2rem; }
+.materials-list li { margin-bottom: .6rem; }
+.archive-footer { margin-top: 2rem; font-size: .95rem; }
+.talks-page a:focus-visible { outline: 2px solid var(--text); outline-offset: 4px; }
+@media (max-width: 600px) {
+  .talk-entry { grid-template-columns: minmax(0, 1fr); gap: .35rem; }
+  .talk-date { font-size: .82rem; }
+  .talk-status { margin: 0 0 0 .5rem; }
+}
+  </style>
 </head>
 <body>
   <header>
     <div class="site-name">
       <a href="index.html">Daniele Artico</a>
     </div>
-    <nav aria-label="Display settings">
-      <label class="theme-toggle">
-        <input type="checkbox" id="theme-toggle" aria-label="Use light theme">
-        <span class="theme-icon-day" aria-hidden="true">☀</span>
-        <span class="theme-icon-night" aria-hidden="true">☾</span>
-      </label>
+
+    <nav>
+    <a href="#" id="theme-toggle"
+        class="theme-toggle"
+        aria-label="Switch theme">☀</a>
     </nav>
   </header>
   <main class="talks-page">
@@ -128,6 +160,36 @@
     </section>
     <p class="archive-footer"><a href="index.html">← Back to the homepage</a></p>
   </main>
+  <script>
+  const toggle = document.getElementById("theme-toggle");
+
+  function updateThemeIcon() {
+    const isDay =
+      document.documentElement.dataset.theme === "day";
+
+    toggle.textContent = isDay ? "☾" : "☀";
+  }
+
+  updateThemeIcon();
+
+  toggle.addEventListener("click", function(event) {
+    event.preventDefault();
+
+    const isDay =
+      document.documentElement.dataset.theme === "day";
+
+    if (isDay) {
+      document.documentElement.removeAttribute("data-theme");
+      localStorage.setItem("theme", "night");
+    } else {
+      document.documentElement.dataset.theme = "day";
+      localStorage.setItem("theme", "day");
+    }
+
+    updateThemeIcon();
+  });
+</script>
 </body>
 </html>
+
 
