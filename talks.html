@@ -5,26 +5,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Past and scheduled talks by Daniele Artico on defect CFT, Wilson lines, thermal field theory and Feynman integrals, with available slides and posters.">
   <title>Talks and slides | Daniele Artico</title>
-  <script>
-    try {
-      if (localStorage.getItem('theme') === 'day') document.documentElement.dataset.theme = 'day';
-    } catch (error) {}
-  </script>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="talks.css">
 </head>
 <body>
-  <header class="site-header">
-    <h1 class="site-name"><a href="index.html">Daniele Artico</a></h1>
-    <nav aria-label="Main navigation">
-      <a href="index.html">Home</a>
-      <a href="talks.html" aria-current="page">Talks &amp; slides</a>
-      <a href="#" id="theme-toggle" class="theme-toggle" aria-label="Switch theme">☀</a>
+  <header>
+    <div class="site-name">
+      <a href="index.html">Daniele Artico</a>
+    </div>
+    <nav aria-label="Display settings">
+      <label class="theme-toggle">
+        <input type="checkbox" id="theme-toggle" aria-label="Use light theme">
+        <span class="theme-icon-day" aria-hidden="true">☀</span>
+        <span class="theme-icon-night" aria-hidden="true">☾</span>
+      </label>
     </nav>
   </header>
   <main class="talks-page">
-    <div class="talks-intro">
-      <h2>Talks and slides</h2>
+    <div class="talks-intro research-project">
+      <h1>Talks and slides</h1>
       <p>Seminars, conference presentations and posters. Slides are linked where available.</p>
       <nav class="archive-nav" aria-label="On this page">
         <a href="#upcoming">Scheduled talks</a>
@@ -35,42 +34,100 @@
     </div>
     <section id="upcoming" aria-labelledby="upcoming-heading">
       <h2 id="upcoming-heading">Scheduled talks</h2>
-      <p id="no-upcoming-talks" hidden>No talks are currently scheduled.</p>
-      <ol class="talk-list" id="talks-upcoming-list"><li class="talk-entry"><div class="talk-date"><time datetime="2026-10-29">29 October 2026</time><span class="talk-status">Scheduled</span></div><div class="talk-details"><h3>Boundaries and defects in thermal conformal field theories</h3><p>Technische Universität Wien, Austria</p></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2026-11-19">19 November 2026</time><span class="talk-status">Scheduled</span></div><div class="talk-details"><h3>New operators and RG flows on Wilson lines in general representations</h3><p>Università di Milano-Bicocca, Italy</p></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2026-12-15">15 December 2026</time><span class="talk-status">Scheduled</span></div><div class="talk-details"><h3>Title to be announced</h3><p>Thermal Seminars · Online</p><p>On boundaries and defects in conformal field theories at finite temperature.</p><div class="talk-links"><a href="https://sites.google.com/view/thermalseminars/home">Event page</a></div></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2026-12-16">16 December 2026</time><span class="talk-status">Scheduled</span></div><div class="talk-details"><h3>New operators and RG flows on Wilson lines in general representations</h3><p>SISSA, Trieste, Italy</p></div></li></ol>
+      <!-- Move completed talks to the archive and update index.html at the same time. -->
+      <ol class="talk-list">
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2026-10-29">29 October 2026</time><span class="talk-status">Scheduled</span></div><div class="talk-details"><h3>Boundaries and defects in thermal conformal field theories</h3><p>Technische Universität Wien, Austria</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2026-11-19">19 November 2026</time><span class="talk-status">Scheduled</span></div><div class="talk-details"><h3>New operators and RG flows on Wilson lines in general representations</h3><p>Università di Milano-Bicocca, Italy</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2026-12-15">15 December 2026</time><span class="talk-status">Scheduled</span></div><div class="talk-details"><h3>Title to be announced</h3><p>Thermal Seminars · Online</p><p>On boundaries and defects in conformal field theories at finite temperature.</p><div class="talk-links"><a href="https://sites.google.com/view/thermalseminars/home">Event page</a></div></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2026-12-16">16 December 2026</time><span class="talk-status">Scheduled</span></div><div class="talk-details"><h3>New operators and RG flows on Wilson lines in general representations</h3><p>SISSA, Trieste, Italy</p></div></li>
+      </ol>
     </section>
     <section id="past" aria-labelledby="past-heading">
       <h2 id="past-heading">Past talks</h2>
-      <div id="talks-past-list"><h3 class="talk-year">2026</h3><ol class="talk-list"><li class="talk-entry"><div class="talk-date"><time datetime="2026-10-27">27 October 2026</time></div><div class="talk-details"><h4>New operators and RG flows on Wilson lines in general representations</h4><p>University of Vienna, Austria</p><div class="talk-links"><a href="https://mathphys.univie.ac.at/seminars/detailansicht/new-operators-and-rg-flows-on-wilson-lines-in-general-representations">Event page</a></div></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2026-10-07">7–9 October 2026</time></div><div class="talk-details"><h4>Boundaries and defects in conformal field theories at finite temperature</h4><p>CFT on Non-Trivial Geometries · Hamilton Mathematics Institute, Trinity College Dublin, Ireland</p><div class="talk-links"><a href="assets/dublin.pdf">Slides (PDF)</a><a href="https://sites.google.com/view/hmiworkshop/home">Event page</a></div></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2026-06-12">12 June 2026</time></div><div class="talk-details"><h4>New Exotic Operators in the Spectrum of Wilson Lines in General Representations</h4><p>Humboldt-Universität zu Berlin, Germany</p></div></li></ol><h3 class="talk-year">2025</h3><ol class="talk-list"><li class="talk-entry"><div class="talk-date"><time datetime="2025-12-02">2 December 2025</time></div><div class="talk-details"><h4>The perturbative bootstrap of the Wilson-line defect CFT</h4><p>Isaac Newton Institute, Cambridge, United Kingdom</p></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2025-06-12">12 June 2025</time></div><div class="talk-details"><h4>The perturbative bootstrap of the Wilson-line defect CFT</h4><p>Università di Parma, Italy</p></div></li></ol><h3 class="talk-year">2024</h3><ol class="talk-list"><li class="talk-entry"><div class="talk-date"><time datetime="2024-12-09">9 December 2024</time></div><div class="talk-details"><h4>The perturbative bootstrap of the Wilson-line defect CFT</h4><p>Humboldt-Universität zu Berlin, Germany</p></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2024-11-20">20 November 2024</time></div><div class="talk-details"><h4>The perturbative bootstrap of the Wilson-line defect CFT</h4><p>DESY, Hamburg, Germany</p></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2024-11-12">12 November 2024</time></div><div class="talk-details"><h4>The perturbative bootstrap of the Wilson-line defect CFT</h4><p>École normale supérieure, Paris, France</p><div class="talk-links"><a href="assets/talks/defect-bootstrap-ens-2024.pdf">Slides (PDF)</a></div></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2024-11-07">7 November 2024</time></div><div class="talk-details"><h4>Integration by parts identities for parametrized Feynman integrals</h4><p>Niels Bohr Institute, Copenhagen, Denmark</p><div class="talk-links"><a href="assets/talks/feynman-parameter-integrals.pdf">Slides (PDF)</a></div></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2024-11-05">5 November 2024</time></div><div class="talk-details"><h4>The perturbative bootstrap of the Wilson-line defect CFT</h4><p>Niels Bohr Institute, Copenhagen, Denmark</p></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2024-09-11">11 September 2024</time></div><div class="talk-details"><h4>The perturbative bootstrap of the Wilson-line defect CFT</h4><p>Università di Torino, Italy</p></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2024-04-16">16 April 2024</time></div><div class="talk-details"><h4>Loop Tree Duality with generalized propagator powers: numerical UV subtraction for two-loop Feynman integrals</h4><p>Loops and Legs in Quantum Field Theory, Wittenberg, Germany</p></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2024-01-05">5 January 2024</time></div><div class="talk-details"><h4>Integration by parts identities for parametrized Feynman integrals</h4><p>Technische Universität München, Germany</p></div></li></ol><h3 class="talk-year">2023</h3><ol class="talk-list"><li class="talk-entry"><div class="talk-date"><time datetime="2023-06-21">21 June 2023</time></div><div class="talk-details"><h4>Four point functions in the Wilson line defect CFT</h4><p>Humboldt-Universität zu Berlin, Germany</p></div></li></ol></div>
+      <div>
+      <h3 class="talk-year">2026</h3>
+      <ol class="talk-list">
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2026-10-27">27 October 2026</time></div><div class="talk-details"><h4>New operators and RG flows on Wilson lines in general representations</h4><p>University of Vienna, Austria</p><div class="talk-links"><a href="https://mathphys.univie.ac.at/seminars/detailansicht/new-operators-and-rg-flows-on-wilson-lines-in-general-representations">Event page</a></div></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2026-10-07">7–9 October 2026</time></div><div class="talk-details"><h4>Boundaries and defects in conformal field theories at finite temperature</h4><p>CFT on Non-Trivial Geometries · Hamilton Mathematics Institute, Trinity College Dublin, Ireland</p><div class="talk-links"><a href="assets/dublin.pdf">Slides (PDF)</a><a href="https://sites.google.com/view/hmiworkshop/home">Event page</a></div></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2026-06-12">12 June 2026</time></div><div class="talk-details"><h4>New Exotic Operators in the Spectrum of Wilson Lines in General Representations</h4><p>Humboldt-Universität zu Berlin, Germany</p></div></li>
+      </ol>
+      <h3 class="talk-year">2025</h3>
+      <ol class="talk-list">
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2025-12-02">2 December 2025</time></div><div class="talk-details"><h4>The perturbative bootstrap of the Wilson-line defect CFT</h4><p>Isaac Newton Institute, Cambridge, United Kingdom</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2025-06-12">12 June 2025</time></div><div class="talk-details"><h4>The perturbative bootstrap of the Wilson-line defect CFT</h4><p>Università di Parma, Italy</p></div></li>
+      </ol>
+      <h3 class="talk-year">2024</h3>
+      <ol class="talk-list">
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2024-12-09">9 December 2024</time></div><div class="talk-details"><h4>The perturbative bootstrap of the Wilson-line defect CFT</h4><p>Humboldt-Universität zu Berlin, Germany</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2024-11-20">20 November 2024</time></div><div class="talk-details"><h4>The perturbative bootstrap of the Wilson-line defect CFT</h4><p>DESY, Hamburg, Germany</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2024-11-12">12 November 2024</time></div><div class="talk-details"><h4>The perturbative bootstrap of the Wilson-line defect CFT</h4><p>École normale supérieure, Paris, France</p><div class="talk-links"><a href="assets/talks/defect-bootstrap-ens-2024.pdf">Slides (PDF)</a></div></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2024-11-07">7 November 2024</time></div><div class="talk-details"><h4>Integration by parts identities for parametrized Feynman integrals</h4><p>Niels Bohr Institute, Copenhagen, Denmark</p><div class="talk-links"><a href="assets/talks/feynman-parameter-integrals.pdf">Slides (PDF)</a></div></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2024-11-05">5 November 2024</time></div><div class="talk-details"><h4>The perturbative bootstrap of the Wilson-line defect CFT</h4><p>Niels Bohr Institute, Copenhagen, Denmark</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2024-09-11">11 September 2024</time></div><div class="talk-details"><h4>The perturbative bootstrap of the Wilson-line defect CFT</h4><p>Università di Torino, Italy</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2024-04-16">16 April 2024</time></div><div class="talk-details"><h4>Loop Tree Duality with generalized propagator powers: numerical UV subtraction for two-loop Feynman integrals</h4><p>Loops and Legs in Quantum Field Theory, Wittenberg, Germany</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2024-01-05">5 January 2024</time></div><div class="talk-details"><h4>Integration by parts identities for parametrized Feynman integrals</h4><p>Technische Universität München, Germany</p></div></li>
+      </ol>
+      <h3 class="talk-year">2023</h3>
+      <ol class="talk-list">
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2023-06-21">21 June 2023</time></div><div class="talk-details"><h4>Four point functions in the Wilson line defect CFT</h4><p>Humboldt-Universität zu Berlin, Germany</p></div></li>
+      </ol>
+      </div>
     </section>
     <section id="short-talks" aria-labelledby="short-heading">
       <h2 id="short-heading">Short conference talks</h2>
-      <ol class="talk-list" id="short-talks-list"><li class="talk-entry"><div class="talk-date">Short talk</div><div class="talk-details"><h3>Conformal Boundaries and Defects at Finite Temperature</h3><p>Thermal CFTs and Black Hole Physics, Kolymvari, Crete</p></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2024">2024</time></div><div class="talk-details"><h3>IBP identities in Feynman parameter space</h3><p>QCD Masterclass, Saint-Jacut-de-la-Mer, France</p></div></li><li class="talk-entry"><div class="talk-date">Short talk</div><div class="talk-details"><h3>IBP identities in Feynman parameter space</h3><p>Positive Geometry in Particle Physics and Cosmology, Leipzig, Germany</p></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2022">2022</time></div><div class="talk-details"><h3>Numerical UV subtraction for two-loop Feynman integrals</h3><p>Amplitudes, Prague, Czech Republic</p></div></li></ol>
+      <ol class="talk-list">
+        <li class="talk-entry">
+          <div class="talk-date">Short talk</div><div class="talk-details"><h3>Conformal Boundaries and Defects at Finite Temperature</h3><p>Thermal CFTs and Black Hole Physics, Kolymvari, Crete</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2024">2024</time></div><div class="talk-details"><h3>IBP identities in Feynman parameter space</h3><p>QCD Masterclass, Saint-Jacut-de-la-Mer, France</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date">Short talk</div><div class="talk-details"><h3>IBP identities in Feynman parameter space</h3><p>Positive Geometry in Particle Physics and Cosmology, Leipzig, Germany</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2022">2022</time></div><div class="talk-details"><h3>Numerical UV subtraction for two-loop Feynman integrals</h3><p>Amplitudes, Prague, Czech Republic</p></div></li>
+      </ol>
     </section>
     <section id="posters" aria-labelledby="posters-heading">
       <h2 id="posters-heading">Posters</h2>
-      <ol class="talk-list" id="posters-list"><li class="talk-entry"><div class="talk-date"><time datetime="2026-06">June 2026</time></div><div class="talk-details"><h3>New Exotic Operators in the Spectrum of Wilson Lines in General Representations</h3><p>Integrability in Gauge and String Theory, King&#x27;s College London, United Kingdom</p></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2025-07">July 2025</time></div><div class="talk-details"><h3>Perturbative Bootstrap of the Wilson-line defect CFT</h3><p>Integrability in Gauge and String Theory, King&#x27;s College London, United Kingdom</p></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2024-09">September 2024</time></div><div class="talk-details"><h3>Perturbative Bootstrap of the Wilson-line defect CFT</h3><p>RTG Retreat, Humboldt-Universität zu Berlin, Germany</p></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2024-06">June 2024</time></div><div class="talk-details"><h3>Perturbative Bootstrap of the Wilson-line defect CFT</h3><p>Defects, from condensed matter to quantum gravity, Pollica, Italy</p></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2024-02">February 2024</time></div><div class="talk-details"><h3>Perturbative Bootstrap of the Wilson-line defect CFT</h3><p>RTG Evaluation Round, Humboldt-Universität zu Berlin, Germany</p></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2023-11">November 2023</time></div><div class="talk-details"><h3>IBPs and differential equations in parameter space</h3><p>Theory Meets Experiments School, GGI, Florence, Italy</p></div></li><li class="talk-entry"><div class="talk-date"><time datetime="2022-09">September 2022</time></div><div class="talk-details"><h3>UV Divergence Subtraction for Loop Tree Duality</h3><p>RTG Retreat, Humboldt-Universität zu Berlin, Germany</p></div></li></ol>
+      <ol class="talk-list">
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2026-06">June 2026</time></div><div class="talk-details"><h3>New Exotic Operators in the Spectrum of Wilson Lines in General Representations</h3><p>Integrability in Gauge and String Theory, King&#x27;s College London, United Kingdom</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2025-07">July 2025</time></div><div class="talk-details"><h3>Perturbative Bootstrap of the Wilson-line defect CFT</h3><p>Integrability in Gauge and String Theory, King&#x27;s College London, United Kingdom</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2024-09">September 2024</time></div><div class="talk-details"><h3>Perturbative Bootstrap of the Wilson-line defect CFT</h3><p>RTG Retreat, Humboldt-Universität zu Berlin, Germany</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2024-06">June 2024</time></div><div class="talk-details"><h3>Perturbative Bootstrap of the Wilson-line defect CFT</h3><p>Defects, from condensed matter to quantum gravity, Pollica, Italy</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2024-02">February 2024</time></div><div class="talk-details"><h3>Perturbative Bootstrap of the Wilson-line defect CFT</h3><p>RTG Evaluation Round, Humboldt-Universität zu Berlin, Germany</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2023-11">November 2023</time></div><div class="talk-details"><h3>IBPs and differential equations in parameter space</h3><p>Theory Meets Experiments School, GGI, Florence, Italy</p></div></li>
+        <li class="talk-entry">
+          <div class="talk-date"><time datetime="2022-09">September 2022</time></div><div class="talk-details"><h3>UV Divergence Subtraction for Loop Tree Duality</h3><p>RTG Retreat, Humboldt-Universität zu Berlin, Germany</p></div></li>
+      </ol>
       <h3>Available poster PDFs</h3>
-      <ul class="materials-list" id="materials-list"><li><a href="assets/posters/perturbative-defect-bootstrap.pdf">Perturbative defect bootstrap · Poster (PDF)</a></li><li><a href="assets/posters/ibp-identities.pdf">IBP identities in parameter space · Poster (PDF)</a></li></ul>
+      <ul class="materials-list"><li><a href="assets/posters/perturbative-defect-bootstrap.pdf">Perturbative defect bootstrap · Poster (PDF)</a></li>
+        <li><a href="assets/posters/ibp-identities.pdf">IBP identities in parameter space · Poster (PDF)</a></li></ul>
     </section>
     <p class="archive-footer"><a href="index.html">← Back to the homepage</a></p>
   </main>
-  <script>
-    const toggle = document.getElementById('theme-toggle');
-    function updateThemeIcon() {
-      const isDay = document.documentElement.dataset.theme === 'day';
-      toggle.textContent = isDay ? '☾' : '☀';
-      toggle.setAttribute('aria-label', isDay ? 'Switch to night theme' : 'Switch to day theme');
-    }
-    updateThemeIcon();
-    toggle.addEventListener('click', function(event) {
-      event.preventDefault();
-      const isDay = document.documentElement.dataset.theme === 'day';
-      if (isDay) document.documentElement.removeAttribute('data-theme');
-      else document.documentElement.dataset.theme = 'day';
-      try { localStorage.setItem('theme', isDay ? 'night' : 'day'); } catch (error) {}
-      updateThemeIcon();
-    });
-  </script>
-  <script src="talks.js" defer></script>
 </body>
 </html>
+
