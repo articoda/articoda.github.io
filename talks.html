@@ -41,8 +41,13 @@
 }
 
 /* Reuse the homepage calendar tiles in the talks archive. */
-.talk-date .event-date { width: 78px; }
-.talk-date .event-date-year-only .event-year { font-size: 1rem; opacity: 1; }
+.talk-date .event-date {
+  width: 78px;
+  background: var(--bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+.talk-date .event-date-year-only .event-year { margin-top: 0; font-size: 1.1rem; opacity: 1; }
   </style>
 </head>
 <body>
@@ -203,13 +208,23 @@
       <h2 id="short-heading">Short conference talks</h2>
       <ol class="talk-list">
         <li class="talk-entry">
-          <div class="talk-date">Short talk</div><div class="talk-details"><h3>Conformal Boundaries and Defects at Finite Temperature</h3><p>Thermal CFTs and Black Hole Physics, Kolymvari, Crete</p></div></li>
+          <div class="talk-date">
+            <!-- Conference year: https://www.theory-challenges.eu/events/2026 -->
+            <time class="event-date event-date-year-only" datetime="2026" aria-label="2026">
+              <span class="event-year">2026</span>
+            </time>
+          </div><div class="talk-details"><h3>Conformal Boundaries and Defects at Finite Temperature</h3><p>Thermal CFTs and Black Hole Physics, Kolymvari, Crete</p></div></li>
         <li class="talk-entry">
           <div class="talk-date"><time class="event-date event-date-year-only" datetime="2024" aria-label="2024">
             <span class="event-year">2024</span>
           </time></div><div class="talk-details"><h3>IBP identities in Feynman parameter space</h3><p>QCD Masterclass, Saint-Jacut-de-la-Mer, France</p></div></li>
         <li class="talk-entry">
-          <div class="talk-date">Short talk</div><div class="talk-details"><h3>IBP identities in Feynman parameter space</h3><p>Positive Geometry in Particle Physics and Cosmology, Leipzig, Germany</p></div></li>
+          <div class="talk-date">
+            <!-- Conference year: https://www.mis.mpg.de/de/events/series/positive-geometry-in-particle-physics-and-cosmology -->
+            <time class="event-date event-date-year-only" datetime="2024" aria-label="2024">
+              <span class="event-year">2024</span>
+            </time>
+          </div><div class="talk-details"><h3>IBP identities in Feynman parameter space</h3><p>Positive Geometry in Particle Physics and Cosmology, Leipzig, Germany</p></div></li>
         <li class="talk-entry">
           <div class="talk-date"><time class="event-date event-date-year-only" datetime="2022" aria-label="2022">
             <span class="event-year">2022</span>
