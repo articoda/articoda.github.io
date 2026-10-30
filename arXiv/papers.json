@@ -1,29 +1,73 @@
 {
-  "generated_at": "2026-10-29T14:01:41.065667+00:00",
+  "generated_at": "2026-10-30T13:56:06.925125+00:00",
   "papers": [
     {
-      "title": "On 2-loop AdS$_2$ superstring partition function in AdS$_5 \\times S^5$ and AdS$_4\\times CP^3$",
+      "title": "Bounds on the Diagonal Degree of the Biadjoint Scalar Amplitude Matrix",
       "authors": [
-        "Arkady A. Tseytlin"
+        "Freddy Cachazo",
+        "Rajbir Longia"
       ],
       "categories": [
-        "hep-th"
+        "hep-th",
+        "math.CO"
       ],
-      "link": "https://arxiv.org/abs/2610.37096v1",
-      "published": "2026-10-27T12:01:16Z"
+      "link": "https://arxiv.org/abs/2610.40355v1",
+      "published": "2026-10-29T16:10:00Z"
     },
     {
-      "title": "Electron-to-Muon Forward Annihilation at High Energy",
+      "title": "Searching for Dark Photons and ALPs using Gamma-rays from Nuclear Reactors",
       "authors": [
-        "Maximilian Delto",
-        "Alexander A. Penin",
-        "Lorenzo Tancredi"
+        "Lucia Angel",
+        "Manfred Lindner",
+        "Farinaldo S. Queiroz",
+        "Bilge S. Solak"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2610.38745v1",
+      "published": "2026-10-28T19:31:23Z"
+    },
+    {
+      "title": "Two-loop QCD contribution to the quark-initiated production of a top-antitop quark pair and a Higgs boson at the LHC",
+      "authors": [
+        "Xiang Chen",
+        "Massimiliano Grazzini",
+        "Stefan Kallweit"
       ],
       "categories": [
         "hep-ph"
       ],
-      "link": "https://arxiv.org/abs/2610.37531v1",
-      "published": "2026-10-27T16:51:27Z"
+      "link": "https://arxiv.org/abs/2610.40266v1",
+      "published": "2026-10-29T15:28:32Z"
+    },
+    {
+      "title": "Two-peak gravitational wave spectra from supercooled two-field phase transitions",
+      "authors": [
+        "Daniel Araújo",
+        "João Gonçalves",
+        "Danny Marfatia"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2610.40354v1",
+      "published": "2026-10-29T16:09:23Z"
+    },
+    {
+      "title": "virasoro_blocks: Software for the 2d bootstrap",
+      "authors": [
+        "David Poland"
+      ],
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "physics.comp-ph"
+      ],
+      "link": "https://arxiv.org/abs/2610.39106v1",
+      "published": "2026-10-29T00:45:47Z"
     }
   ]
 }
