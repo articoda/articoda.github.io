@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T13:56:06.925125+00:00",
+  "generated_at": "2026-10-31T13:28:50.611171+00:00",
   "papers": [
     {
       "title": "Bounds on the Diagonal Degree of the Biadjoint Scalar Amplitude Matrix",
@@ -13,22 +13,6 @@
       ],
       "link": "https://arxiv.org/abs/2610.40355v1",
       "published": "2026-10-29T16:10:00Z"
-    },
-    {
-      "title": "Searching for Dark Photons and ALPs using Gamma-rays from Nuclear Reactors",
-      "authors": [
-        "Lucia Angel",
-        "Manfred Lindner",
-        "Farinaldo S. Queiroz",
-        "Bilge S. Solak"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex",
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2610.38745v1",
-      "published": "2026-10-28T19:31:23Z"
     },
     {
       "title": "Two-loop QCD contribution to the quark-initiated production of a top-antitop quark pair and a Higgs boson at the LHC",
@@ -55,6 +39,22 @@
       ],
       "link": "https://arxiv.org/abs/2610.40354v1",
       "published": "2026-10-29T16:09:23Z"
+    },
+    {
+      "title": "Complex potential and the thermal width of quarkonium in quark-gluon plasma",
+      "authors": [
+        "Rasmus Normann Larsen",
+        "Peter Petreczky",
+        "Jorge Luis Dasilva Golan",
+        "Johannes H. Weber"
+      ],
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "link": "https://arxiv.org/abs/2610.40220v1",
+      "published": "2026-10-29T15:02:37Z"
     },
     {
       "title": "virasoro_blocks: Software for the 2d bootstrap",
