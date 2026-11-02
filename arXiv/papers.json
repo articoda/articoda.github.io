@@ -1,4 +1,118 @@
 {
-  "generated_at": "2026-11-01T14:10:12.688267+00:00",
-  "papers": []
+  "generated_at": "2026-11-02T16:55:52.769441+00:00",
+  "papers": [
+    {
+      "title": "Bounds on the Diagonal Degree of the Biadjoint Scalar Amplitude Matrix",
+      "authors": [
+        "Freddy Cachazo",
+        "Rajbir Longia"
+      ],
+      "categories": [
+        "hep-th",
+        "math.CO"
+      ],
+      "link": "https://arxiv.org/abs/2610.40355v1",
+      "published": "2026-10-29T16:10:00Z"
+    },
+    {
+      "title": "Numerical evaluation of one-loop integrals using quadrature rules",
+      "authors": [
+        "Jürgen Dölz",
+        "Claude Duhr",
+        "Bartul Kovačić",
+        "Cathrin Semper"
+      ],
+      "categories": [
+        "hep-ph",
+        "math.NA"
+      ],
+      "link": "https://arxiv.org/abs/2610.41872v1",
+      "published": "2026-10-30T15:21:44Z"
+    },
+    {
+      "title": "Two-loop QCD contribution to the quark-initiated production of a top-antitop quark pair and a Higgs boson at the LHC",
+      "authors": [
+        "Xiang Chen",
+        "Massimiliano Grazzini",
+        "Stefan Kallweit"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2610.40266v1",
+      "published": "2026-10-29T15:28:32Z"
+    },
+    {
+      "title": "The Yottascale at Tera-$Z$: Petascale SUSY?",
+      "authors": [
+        "Lukas Allwicher",
+        "Francisco N. C. Dahab",
+        "Christophe Grojean",
+        "Gabriel M. Salla",
+        "Lucine Tabatt"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2610.40821v1",
+      "published": "2026-10-29T18:04:53Z"
+    },
+    {
+      "title": "Two-loop matter power spectrum from FFTLog and kite integrals",
+      "authors": [
+        "Paola Cappellazzi",
+        "Johannes M. Henn",
+        "Marko Simonović"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2610.41914v1",
+      "published": "2026-10-30T15:48:37Z"
+    },
+    {
+      "title": "Two-peak gravitational wave spectra from supercooled two-field phase transitions",
+      "authors": [
+        "Daniel Araújo",
+        "João Gonçalves",
+        "Danny Marfatia"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "link": "https://arxiv.org/abs/2610.40354v1",
+      "published": "2026-10-29T16:09:23Z"
+    },
+    {
+      "title": "Complex potential and the thermal width of quarkonium in quark-gluon plasma",
+      "authors": [
+        "Rasmus Normann Larsen",
+        "Peter Petreczky",
+        "Jorge Luis Dasilva Golan",
+        "Johannes H. Weber"
+      ],
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "link": "https://arxiv.org/abs/2610.40220v2",
+      "published": "2026-10-29T15:02:37Z"
+    },
+    {
+      "title": "virasoro_blocks: Software for the 2d bootstrap",
+      "authors": [
+        "David Poland"
+      ],
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "physics.comp-ph"
+      ],
+      "link": "https://arxiv.org/abs/2610.39106v1",
+      "published": "2026-10-29T00:45:47Z"
+    }
+  ]
 }
