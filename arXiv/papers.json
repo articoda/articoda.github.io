@@ -1,18 +1,30 @@
 {
-  "generated_at": "2026-11-02T16:55:52.769441+00:00",
+  "generated_at": "2026-11-03T14:56:09.635721+00:00",
   "papers": [
     {
-      "title": "Bounds on the Diagonal Degree of the Biadjoint Scalar Amplitude Matrix",
+      "title": "The pinning-field line defect at finite temperature",
       "authors": [
-        "Freddy Cachazo",
-        "Rajbir Longia"
+        "Julien Barrat",
+        "Simone Giombi"
       ],
       "categories": [
-        "hep-th",
-        "math.CO"
+        "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2610.40355v1",
-      "published": "2026-10-29T16:10:00Z"
+      "link": "https://arxiv.org/abs/2611.00210v1",
+      "published": "2026-10-30T18:00:04Z"
+    },
+    {
+      "title": "The search for the Higgs Boson and the EBH mechanism",
+      "authors": [
+        "John Ellis"
+      ],
+      "categories": [
+        "physics.hist-ph",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2611.03315v1",
+      "published": "2026-11-02T15:41:53Z"
     },
     {
       "title": "Numerical evaluation of one-loop integrals using quadrature rules",
@@ -30,34 +42,6 @@
       "published": "2026-10-30T15:21:44Z"
     },
     {
-      "title": "Two-loop QCD contribution to the quark-initiated production of a top-antitop quark pair and a Higgs boson at the LHC",
-      "authors": [
-        "Xiang Chen",
-        "Massimiliano Grazzini",
-        "Stefan Kallweit"
-      ],
-      "categories": [
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2610.40266v1",
-      "published": "2026-10-29T15:28:32Z"
-    },
-    {
-      "title": "The Yottascale at Tera-$Z$: Petascale SUSY?",
-      "authors": [
-        "Lukas Allwicher",
-        "Francisco N. C. Dahab",
-        "Christophe Grojean",
-        "Gabriel M. Salla",
-        "Lucine Tabatt"
-      ],
-      "categories": [
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2610.40821v1",
-      "published": "2026-10-29T18:04:53Z"
-    },
-    {
       "title": "Two-loop matter power spectrum from FFTLog and kite integrals",
       "authors": [
         "Paola Cappellazzi",
@@ -72,47 +56,34 @@
       "published": "2026-10-30T15:48:37Z"
     },
     {
-      "title": "Two-peak gravitational wave spectra from supercooled two-field phase transitions",
+      "title": "5d SCFTs and Intersection Theory of Generalized Toric Threefolds",
       "authors": [
-        "Daniel Araújo",
-        "João Gonçalves",
-        "Danny Marfatia"
+        "Hülya Argüz",
+        "Antoine Bourget",
+        "Pierrick Bousseau",
+        "Julius F. Grimminger",
+        "Sakura Schafer-Nameki"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.00366v1",
+      "published": "2026-10-30T20:46:23Z"
+    },
+    {
+      "title": "Heavy quark thermalization using phonon-heavy quark EFT",
+      "authors": [
+        "Andreas Kirchner",
+        "Berndt Mueller",
+        "Jyotirmoy Roy",
+        "Sebastian Waeber"
       ],
       "categories": [
         "hep-ph",
-        "astro-ph.CO"
+        "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2610.40354v1",
-      "published": "2026-10-29T16:09:23Z"
-    },
-    {
-      "title": "Complex potential and the thermal width of quarkonium in quark-gluon plasma",
-      "authors": [
-        "Rasmus Normann Larsen",
-        "Peter Petreczky",
-        "Jorge Luis Dasilva Golan",
-        "Johannes H. Weber"
-      ],
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "nucl-th"
-      ],
-      "link": "https://arxiv.org/abs/2610.40220v2",
-      "published": "2026-10-29T15:02:37Z"
-    },
-    {
-      "title": "virasoro_blocks: Software for the 2d bootstrap",
-      "authors": [
-        "David Poland"
-      ],
-      "categories": [
-        "hep-th",
-        "cond-mat.stat-mech",
-        "physics.comp-ph"
-      ],
-      "link": "https://arxiv.org/abs/2610.39106v1",
-      "published": "2026-10-29T00:45:47Z"
+      "link": "https://arxiv.org/abs/2611.01309v1",
+      "published": "2026-10-31T22:15:35Z"
     }
   ]
 }
