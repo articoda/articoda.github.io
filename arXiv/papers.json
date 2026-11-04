@@ -1,17 +1,33 @@
 {
-  "generated_at": "2026-11-03T14:56:09.635721+00:00",
+  "generated_at": "2026-11-04T15:16:01.245130+00:00",
   "papers": [
     {
-      "title": "The pinning-field line defect at finite temperature",
+      "title": "Confining strings in the reconfined phase of trace deformed three dimensional $\\mathrm{SU}(2)$ Yang-Mills theory",
       "authors": [
-        "Julien Barrat",
-        "Simone Giombi"
+        "Claudio Bonati",
+        "Michele Caselle",
+        "Alessio Negro",
+        "Dario Panfalone",
+        "Lorenzo Verzichelli"
       ],
       "categories": [
+        "hep-lat",
         "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2611.00210v1",
-      "published": "2026-10-30T18:00:04Z"
+      "link": "https://arxiv.org/abs/2611.03874v1",
+      "published": "2026-11-02T19:46:02Z"
+    },
+    {
+      "title": "Electrically charged black holes with electroweak hair",
+      "authors": [
+        "Etevaldo dos Santos Costa Filho"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.03800v1",
+      "published": "2026-11-02T19:00:05Z"
     },
     {
       "title": "The search for the Higgs Boson and the EBH mechanism",
@@ -27,63 +43,65 @@
       "published": "2026-11-02T15:41:53Z"
     },
     {
-      "title": "Numerical evaluation of one-loop integrals using quadrature rules",
+      "title": "Toponium hadroproduction at next-to-next-to-leading order in NRQCD",
       "authors": [
-        "Jürgen Dölz",
-        "Claude Duhr",
-        "Bartul Kovačić",
-        "Cathrin Semper"
+        "Sven Yannick Klein",
+        "Fabio Maltoni",
+        "Hua-Sheng Shao",
+        "Lukas Simon",
+        "Guoxing Wang"
       ],
       "categories": [
         "hep-ph",
-        "math.NA"
+        "hep-ex"
       ],
-      "link": "https://arxiv.org/abs/2610.41872v1",
-      "published": "2026-10-30T15:21:44Z"
+      "link": "https://arxiv.org/abs/2611.03782v1",
+      "published": "2026-11-02T19:00:01Z"
     },
     {
-      "title": "Two-loop matter power spectrum from FFTLog and kite integrals",
+      "title": "From Z to all: cyclic sum rules for thermal CFT partition functions",
       "authors": [
-        "Paola Cappellazzi",
-        "Johannes M. Henn",
-        "Marko Simonović"
-      ],
-      "categories": [
-        "astro-ph.CO",
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2610.41914v1",
-      "published": "2026-10-30T15:48:37Z"
-    },
-    {
-      "title": "5d SCFTs and Intersection Theory of Generalized Toric Threefolds",
-      "authors": [
-        "Hülya Argüz",
-        "Antoine Bourget",
-        "Pierrick Bousseau",
-        "Julius F. Grimminger",
-        "Sakura Schafer-Nameki"
+        "Arnav Advant",
+        "Harsh Anand",
+        "Nathan Benjamin",
+        "Abhijit Gadde",
+        "Vipul Kumar",
+        "Shiraz Minwalla",
+        "Jyotirmoy Mukherjee",
+        "Sridip Pal",
+        "Asikur Rahaman",
+        "Pabitra Ray"
       ],
       "categories": [
         "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2611.00366v1",
-      "published": "2026-10-30T20:46:23Z"
+      "link": "https://arxiv.org/abs/2611.05281v1",
+      "published": "2026-11-03T18:00:02Z"
     },
     {
-      "title": "Heavy quark thermalization using phonon-heavy quark EFT",
+      "title": "Chaos on the mass shell",
       "authors": [
-        "Andreas Kirchner",
-        "Berndt Mueller",
-        "Jyotirmoy Roy",
-        "Sebastian Waeber"
+        "Alexandre Homrich",
+        "David Simmons-Duffin",
+        "George Yuzhe Zhou"
       ],
       "categories": [
-        "hep-ph",
         "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2611.01309v1",
-      "published": "2026-10-31T22:15:35Z"
+      "link": "https://arxiv.org/abs/2611.03787v1",
+      "published": "2026-11-02T19:00:01Z"
+    },
+    {
+      "title": "Horizon exchange and the universal all-spin response of Kerr",
+      "authors": [
+        "Pierre Vanhove"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "link": "https://arxiv.org/abs/2611.05054v1",
+      "published": "2026-11-03T15:19:32Z"
     }
   ]
 }
