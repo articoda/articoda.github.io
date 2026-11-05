@@ -1,62 +1,31 @@
 {
-  "generated_at": "2026-11-04T15:16:01.245130+00:00",
+  "generated_at": "2026-11-05T15:17:45.342991+00:00",
   "papers": [
     {
-      "title": "Confining strings in the reconfined phase of trace deformed three dimensional $\\mathrm{SU}(2)$ Yang-Mills theory",
+      "title": "Form Factors in AdS from the Worldsheet",
       "authors": [
-        "Claudio Bonati",
-        "Michele Caselle",
-        "Alessio Negro",
-        "Dario Panfalone",
-        "Lorenzo Verzichelli"
+        "Luis F. Alday",
+        "Clément Virally",
+        "Xinan Zhou"
       ],
       "categories": [
-        "hep-lat",
         "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2611.03874v1",
-      "published": "2026-11-02T19:46:02Z"
+      "link": "https://arxiv.org/abs/2611.06679v1",
+      "published": "2026-11-04T15:47:46Z"
     },
     {
-      "title": "Electrically charged black holes with electroweak hair",
+      "title": "Vertex Operator Algebras in Lean: a formal library and its companion book",
       "authors": [
-        "Etevaldo dos Santos Costa Filho"
+        "Fedor K. Popov",
+        "Leonardo Rastelli"
       ],
       "categories": [
-        "gr-qc",
+        "math.QA",
         "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2611.03800v1",
-      "published": "2026-11-02T19:00:05Z"
-    },
-    {
-      "title": "The search for the Higgs Boson and the EBH mechanism",
-      "authors": [
-        "John Ellis"
-      ],
-      "categories": [
-        "physics.hist-ph",
-        "hep-ex",
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2611.03315v1",
-      "published": "2026-11-02T15:41:53Z"
-    },
-    {
-      "title": "Toponium hadroproduction at next-to-next-to-leading order in NRQCD",
-      "authors": [
-        "Sven Yannick Klein",
-        "Fabio Maltoni",
-        "Hua-Sheng Shao",
-        "Lukas Simon",
-        "Guoxing Wang"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex"
-      ],
-      "link": "https://arxiv.org/abs/2611.03782v1",
-      "published": "2026-11-02T19:00:01Z"
+      "link": "https://arxiv.org/abs/2611.06616v1",
+      "published": "2026-11-04T15:02:03Z"
     },
     {
       "title": "From Z to all: cyclic sum rules for thermal CFT partition functions",
@@ -79,17 +48,17 @@
       "published": "2026-11-03T18:00:02Z"
     },
     {
-      "title": "Chaos on the mass shell",
+      "title": "Born spreading with consistent shower starting scales in MC@NLO and FxFx merging",
       "authors": [
-        "Alexandre Homrich",
-        "David Simmons-Duffin",
-        "George Yuzhe Zhou"
+        "Rikkert Frederix",
+        "Paolo Torrielli"
       ],
       "categories": [
-        "hep-th"
+        "hep-ph",
+        "hep-ex"
       ],
-      "link": "https://arxiv.org/abs/2611.03787v1",
-      "published": "2026-11-02T19:00:01Z"
+      "link": "https://arxiv.org/abs/2611.06769v1",
+      "published": "2026-11-04T16:50:05Z"
     },
     {
       "title": "Horizon exchange and the universal all-spin response of Kerr",
@@ -102,6 +71,19 @@
       ],
       "link": "https://arxiv.org/abs/2611.05054v1",
       "published": "2026-11-03T15:19:32Z"
+    },
+    {
+      "title": "A Note On Lattice Definition of Gauge Theories With Chiral Fermions",
+      "authors": [
+        "Edward Witten"
+      ],
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.05051v1",
+      "published": "2026-11-03T15:17:23Z"
     }
   ]
 }
