@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T15:17:45.342991+00:00",
+  "generated_at": "2026-11-06T14:52:50.624289+00:00",
   "papers": [
     {
       "title": "Form Factors in AdS from the Worldsheet",
@@ -15,6 +15,47 @@
       "published": "2026-11-04T15:47:46Z"
     },
     {
+      "title": "Investigating bottom quark effects in Higgs boson pair production",
+      "authors": [
+        "David Bürg",
+        "Gudrun Heinrich",
+        "Philipp Rendler"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2611.08183v1",
+      "published": "2026-11-05T15:38:16Z"
+    },
+    {
+      "title": "Matrix Theory from Holography II: Beyond Counting",
+      "authors": [
+        "Shota Komatsu",
+        "Eunwoo Lee",
+        "Chintan Patel"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.06999v1",
+      "published": "2026-11-04T19:00:01Z"
+    },
+    {
+      "title": "Conformal Bootstrap Unblocked",
+      "authors": [
+        "Li-Yuan Chiang",
+        "David Poland"
+      ],
+      "categories": [
+        "hep-th",
+        "cond-mat.stat-mech",
+        "hep-lat",
+        "math-ph"
+      ],
+      "link": "https://arxiv.org/abs/2611.07004v1",
+      "published": "2026-11-04T19:00:01Z"
+    },
+    {
       "title": "Vertex Operator Algebras in Lean: a formal library and its companion book",
       "authors": [
         "Fedor K. Popov",
@@ -28,26 +69,6 @@
       "published": "2026-11-04T15:02:03Z"
     },
     {
-      "title": "From Z to all: cyclic sum rules for thermal CFT partition functions",
-      "authors": [
-        "Arnav Advant",
-        "Harsh Anand",
-        "Nathan Benjamin",
-        "Abhijit Gadde",
-        "Vipul Kumar",
-        "Shiraz Minwalla",
-        "Jyotirmoy Mukherjee",
-        "Sridip Pal",
-        "Asikur Rahaman",
-        "Pabitra Ray"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.05281v1",
-      "published": "2026-11-03T18:00:02Z"
-    },
-    {
       "title": "Born spreading with consistent shower starting scales in MC@NLO and FxFx merging",
       "authors": [
         "Rikkert Frederix",
@@ -59,31 +80,6 @@
       ],
       "link": "https://arxiv.org/abs/2611.06769v1",
       "published": "2026-11-04T16:50:05Z"
-    },
-    {
-      "title": "Horizon exchange and the universal all-spin response of Kerr",
-      "authors": [
-        "Pierre Vanhove"
-      ],
-      "categories": [
-        "hep-th",
-        "gr-qc"
-      ],
-      "link": "https://arxiv.org/abs/2611.05054v1",
-      "published": "2026-11-03T15:19:32Z"
-    },
-    {
-      "title": "A Note On Lattice Definition of Gauge Theories With Chiral Fermions",
-      "authors": [
-        "Edward Witten"
-      ],
-      "categories": [
-        "hep-lat",
-        "hep-ph",
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.05051v1",
-      "published": "2026-11-03T15:17:23Z"
     }
   ]
 }
