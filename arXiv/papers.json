@@ -1,19 +1,6 @@
 {
-  "generated_at": "2026-11-06T14:52:50.624289+00:00",
+  "generated_at": "2026-11-07T13:50:04.339163+00:00",
   "papers": [
-    {
-      "title": "Form Factors in AdS from the Worldsheet",
-      "authors": [
-        "Luis F. Alday",
-        "Clément Virally",
-        "Xinan Zhou"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.06679v1",
-      "published": "2026-11-04T15:47:46Z"
-    },
     {
       "title": "Investigating bottom quark effects in Higgs boson pair production",
       "authors": [
@@ -26,60 +13,6 @@
       ],
       "link": "https://arxiv.org/abs/2611.08183v1",
       "published": "2026-11-05T15:38:16Z"
-    },
-    {
-      "title": "Matrix Theory from Holography II: Beyond Counting",
-      "authors": [
-        "Shota Komatsu",
-        "Eunwoo Lee",
-        "Chintan Patel"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.06999v1",
-      "published": "2026-11-04T19:00:01Z"
-    },
-    {
-      "title": "Conformal Bootstrap Unblocked",
-      "authors": [
-        "Li-Yuan Chiang",
-        "David Poland"
-      ],
-      "categories": [
-        "hep-th",
-        "cond-mat.stat-mech",
-        "hep-lat",
-        "math-ph"
-      ],
-      "link": "https://arxiv.org/abs/2611.07004v1",
-      "published": "2026-11-04T19:00:01Z"
-    },
-    {
-      "title": "Vertex Operator Algebras in Lean: a formal library and its companion book",
-      "authors": [
-        "Fedor K. Popov",
-        "Leonardo Rastelli"
-      ],
-      "categories": [
-        "math.QA",
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.06616v1",
-      "published": "2026-11-04T15:02:03Z"
-    },
-    {
-      "title": "Born spreading with consistent shower starting scales in MC@NLO and FxFx merging",
-      "authors": [
-        "Rikkert Frederix",
-        "Paolo Torrielli"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex"
-      ],
-      "link": "https://arxiv.org/abs/2611.06769v1",
-      "published": "2026-11-04T16:50:05Z"
     }
   ]
 }
