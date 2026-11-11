@@ -1,19 +1,6 @@
 {
-  "generated_at": "2026-11-10T15:29:22.580144+00:00",
+  "generated_at": "2026-11-11T14:59:58.951646+00:00",
   "papers": [
-    {
-      "title": "Integrable AdS$_2$ branes in mixed flux AdS$_3$",
-      "authors": [
-        "Davide Bonomi",
-        "Volker Schomerus"
-      ],
-      "categories": [
-        "hep-th",
-        "math-ph"
-      ],
-      "link": "https://arxiv.org/abs/2611.10120v1",
-      "published": "2026-11-06T19:00:02Z"
-    },
     {
       "title": "FORM 5.0 and further developments",
       "authors": [
@@ -26,6 +13,18 @@
       ],
       "link": "https://arxiv.org/abs/2611.12157v1",
       "published": "2026-11-09T10:05:57Z"
+    },
+    {
+      "title": "Moduli spaces in CFT: vortex defects",
+      "authors": [
+        "Gabriel Cuomo",
+        "Adar Sharon"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.13092v1",
+      "published": "2026-11-09T19:00:02Z"
     },
     {
       "title": "Deep Inelastic Scattering and Proton Structure Functions in AdS/QCD models",
@@ -41,29 +40,21 @@
       "published": "2026-11-09T16:52:45Z"
     },
     {
-      "title": "Interference effects in MSSM Higgs boson searches at low $tanβ$: the $gg\\to H\\to WW, ZZ, hh$ and $gg \\to A \\to Zh$ channels",
+      "title": "Effective scalar-fluid description of thermal first-order phase transitions and their spinodal instabilities",
       "authors": [
-        "Abdelhak Djouadi",
-        "John Ellis"
-      ],
-      "categories": [
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2611.09666v1",
-      "published": "2026-11-06T16:15:00Z"
-    },
-    {
-      "title": "Existence of extremal solutions in the 1d conformal bootstrap",
-      "authors": [
-        "Filip Herček",
-        "Nat Levine"
+        "Alessio Caddeo",
+        "Oscar Henriksson",
+        "Carlos Hoyos",
+        "Mikel Sanchez-Garitaonandia",
+        "Pedro Tarancón-Álvarez"
       ],
       "categories": [
         "hep-th",
-        "math-ph"
+        "gr-qc",
+        "hep-ph"
       ],
-      "link": "https://arxiv.org/abs/2611.09867v1",
-      "published": "2026-11-06T18:48:01Z"
+      "link": "https://arxiv.org/abs/2611.13102v1",
+      "published": "2026-11-09T19:00:10Z"
     },
     {
       "title": "Two-Loop $n$-Point Identical Helicity Amplitude for Gravity Minimally Coupled to a Chiral Fermion",
