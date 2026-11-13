@@ -1,4 +1,79 @@
 {
-  "generated_at": "2026-11-12T15:52:37.279719+00:00",
-  "papers": []
+  "generated_at": "2026-11-13T15:12:58.722949+00:00",
+  "papers": [
+    {
+      "title": "Holographic Counterterms from Restricted Weyl Symmetry in Even-Dimensional Einstein-AdS Gravity",
+      "authors": [
+        "Giorgos Anastasiou"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "link": "https://arxiv.org/abs/2611.16187v1",
+      "published": "2026-11-12T02:22:41Z"
+    },
+    {
+      "title": "Constraining Dark Matter Gravitational Production with the 21cm Signal at the Cosmic Dawn",
+      "authors": [
+        "André A. Costa",
+        "Valdir B. Bezerra"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2611.15454v1",
+      "published": "2026-11-11T13:25:49Z"
+    },
+    {
+      "title": "The three-loop QCD helicity amplitudes for $V$+jet production at hadron colliders in full color",
+      "authors": [
+        "Thomas Gehrmann",
+        "Petr Jakubčík",
+        "Andreas von Manteuffel",
+        "Cesare Carlo Mella",
+        "Lorenzo Tancredi"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.15836v1",
+      "published": "2026-11-11T18:47:28Z"
+    },
+    {
+      "title": "1-loop partition function of 11d supergravity on $\\mathrm{AdS}_4\\times S^7/\\mathbb{Z}_k$: matching $A(k)$ in ABJM free energy",
+      "authors": [
+        "Stefan A. Kurlyand",
+        "Arkady A. Tseytlin"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.15510v1",
+      "published": "2026-11-11T14:04:30Z"
+    },
+    {
+      "title": "Two-loop mixed QCD-EW corrections to bottom-pair production in electron-positron collisions",
+      "authors": [
+        "Simone Devoto",
+        "Chinmoy Dey",
+        "Michele Dradi",
+        "Justin T. Fagnoni",
+        "Ziyang Huang",
+        "Xinchen Li",
+        "Michael J. Ramsey-Musolf",
+        "Alessandro Vicini",
+        "Jiang Zhu"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "link": "https://arxiv.org/abs/2611.17171v1",
+      "published": "2026-11-12T17:44:18Z"
+    }
+  ]
 }
