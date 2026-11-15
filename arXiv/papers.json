@@ -1,37 +1,4 @@
 {
-  "generated_at": "2026-11-14T14:01:05.301366+00:00",
-  "papers": [
-    {
-      "title": "Holographic Counterterms from Restricted Weyl Symmetry in Even-Dimensional Einstein-AdS Gravity",
-      "authors": [
-        "Giorgos Anastasiou"
-      ],
-      "categories": [
-        "hep-th",
-        "gr-qc"
-      ],
-      "link": "https://arxiv.org/abs/2611.16187v1",
-      "published": "2026-11-12T02:22:41Z"
-    },
-    {
-      "title": "Two-loop mixed QCD-EW corrections to bottom-pair production in electron-positron collisions",
-      "authors": [
-        "Simone Devoto",
-        "Chinmoy Dey",
-        "Michele Dradi",
-        "Justin T. Fagnoni",
-        "Ziyang Huang",
-        "Xinchen Li",
-        "Michael J. Ramsey-Musolf",
-        "Alessandro Vicini",
-        "Jiang Zhu"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex"
-      ],
-      "link": "https://arxiv.org/abs/2611.17171v1",
-      "published": "2026-11-12T17:44:18Z"
-    }
-  ]
+  "generated_at": "2026-11-15T14:37:16.857474+00:00",
+  "papers": []
 }
