@@ -1,17 +1,52 @@
 {
-  "generated_at": "2026-11-16T16:53:15.016361+00:00",
+  "generated_at": "2026-11-17T16:47:15.386183+00:00",
   "papers": [
     {
-      "title": "Holographic Counterterms from Restricted Weyl Symmetry in Even-Dimensional Einstein-AdS Gravity",
+      "title": "Rational conformal interfaces between the Ising and tricritical Ising models from a tetrality web",
       "authors": [
-        "Giorgos Anastasiou"
+        "António Antunes",
+        "Jin Chen",
+        "Junchen Rong"
       ],
       "categories": [
         "hep-th",
-        "gr-qc"
+        "cond-mat.stat-mech"
       ],
-      "link": "https://arxiv.org/abs/2611.16187v1",
-      "published": "2026-11-12T02:22:41Z"
+      "link": "https://arxiv.org/abs/2611.18831v1",
+      "published": "2026-11-13T19:00:01Z"
+    },
+    {
+      "title": "Unruh-induced decoherence and entanglement degradation in Ramsey interferometry",
+      "authors": [
+        "E. D. C Brandão",
+        "O. P. de Sá Neto",
+        "F. C. E. Lima",
+        "H. A. S. Costa"
+      ],
+      "categories": [
+        "quant-ph",
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.19395v1",
+      "published": "2026-11-14T13:24:47Z"
+    },
+    {
+      "title": "Torsional Hall Viscosity of Massive Chern Insulators: Finite Temperature and Chemical Potential",
+      "authors": [
+        "Weizhen Jia",
+        "Ioannis Matthaiakakis",
+        "David Rodríguez Fernández",
+        "Zhuo-Yu Xian",
+        "Johanna Erdmenger",
+        "Ewelina M. Hankiewicz",
+        "René Meyer"
+      ],
+      "categories": [
+        "cond-mat.mes-hall",
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.21217v1",
+      "published": "2026-11-16T15:08:11Z"
     },
     {
       "title": "Geometric Quantization of the Giant Graviton Master Moduli Space",
@@ -27,24 +62,17 @@
       "published": "2026-11-13T18:48:14Z"
     },
     {
-      "title": "Two-loop mixed QCD-EW corrections to bottom-pair production in electron-positron collisions",
+      "title": "Inferring the neutral-current neutrino--nucleon cross section from IceCube data",
       "authors": [
-        "Simone Devoto",
-        "Chinmoy Dey",
-        "Michele Dradi",
-        "Justin T. Fagnoni",
-        "Ziyang Huang",
-        "Xinchen Li",
-        "Michael J. Ramsey-Musolf",
-        "Alessandro Vicini",
-        "Jiang Zhu"
+        "Reinaldo Francener",
+        "Victor P. Goncalves"
       ],
       "categories": [
         "hep-ph",
         "hep-ex"
       ],
-      "link": "https://arxiv.org/abs/2611.17171v1",
-      "published": "2026-11-12T17:44:18Z"
+      "link": "https://arxiv.org/abs/2611.20887v1",
+      "published": "2026-11-16T10:57:36Z"
     }
   ]
 }
