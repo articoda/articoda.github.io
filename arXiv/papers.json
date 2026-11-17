@@ -1,29 +1,50 @@
 {
-  "generated_at": "2026-10-28T13:54:55.934372+00:00",
+  "generated_at": "2026-11-16T16:53:15.016361+00:00",
   "papers": [
     {
-      "title": "On 2-loop AdS$_2$ superstring partition function in AdS$_5 \\times S^5$ and AdS$_4\\times CP^3$",
+      "title": "Holographic Counterterms from Restricted Weyl Symmetry in Even-Dimensional Einstein-AdS Gravity",
       "authors": [
-        "Arkady A. Tseytlin"
+        "Giorgos Anastasiou"
       ],
       "categories": [
-        "hep-th"
+        "hep-th",
+        "gr-qc"
       ],
-      "link": "https://arxiv.org/abs/2610.37096v1",
-      "published": "2026-10-27T12:01:16Z"
+      "link": "https://arxiv.org/abs/2611.16187v1",
+      "published": "2026-11-12T02:22:41Z"
     },
     {
-      "title": "Electron-to-Muon Forward Annihilation at High Energy",
+      "title": "Geometric Quantization of the Giant Graviton Master Moduli Space",
       "authors": [
-        "Maximilian Delto",
-        "Alexander A. Penin",
-        "Lorenzo Tancredi"
+        "Kasia Budzik",
+        "Davide Gaiotto"
       ],
       "categories": [
-        "hep-ph"
+        "hep-th",
+        "math-ph"
       ],
-      "link": "https://arxiv.org/abs/2610.37531v1",
-      "published": "2026-10-27T16:51:27Z"
+      "link": "https://arxiv.org/abs/2611.18539v1",
+      "published": "2026-11-13T18:48:14Z"
+    },
+    {
+      "title": "Two-loop mixed QCD-EW corrections to bottom-pair production in electron-positron collisions",
+      "authors": [
+        "Simone Devoto",
+        "Chinmoy Dey",
+        "Michele Dradi",
+        "Justin T. Fagnoni",
+        "Ziyang Huang",
+        "Xinchen Li",
+        "Michael J. Ramsey-Musolf",
+        "Alessandro Vicini",
+        "Jiang Zhu"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "link": "https://arxiv.org/abs/2611.17171v1",
+      "published": "2026-11-12T17:44:18Z"
     }
   ]
 }
