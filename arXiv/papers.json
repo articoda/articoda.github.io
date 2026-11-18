@@ -1,34 +1,44 @@
 {
-  "generated_at": "2026-11-17T16:47:15.386183+00:00",
+  "generated_at": "2026-11-18T16:18:53.009883+00:00",
   "papers": [
     {
-      "title": "Rational conformal interfaces between the Ising and tricritical Ising models from a tetrality web",
+      "title": "Top-Quark Physics after Evidence for Toponium",
       "authors": [
-        "António Antunes",
-        "Jin Chen",
-        "Junchen Rong"
+        "Howard Baer",
+        "Vernon Barger"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2611.22421v1",
+      "published": "2026-11-17T08:58:08Z"
+    },
+    {
+      "title": "An Effective Theory for Hot Lines",
+      "authors": [
+        "Julien Barrat",
+        "Alessio Miscioscia",
+        "Fedor K. Popov"
       ],
       "categories": [
         "hep-th",
         "cond-mat.stat-mech"
       ],
-      "link": "https://arxiv.org/abs/2611.18831v1",
-      "published": "2026-11-13T19:00:01Z"
+      "link": "https://arxiv.org/abs/2611.23169v1",
+      "published": "2026-11-17T18:18:45Z"
     },
     {
-      "title": "Unruh-induced decoherence and entanglement degradation in Ramsey interferometry",
+      "title": "Structure Constants of Planar N=4 SYM at Any Coupling",
       "authors": [
-        "E. D. C Brandão",
-        "O. P. de Sá Neto",
-        "F. C. E. Lima",
-        "H. A. S. Costa"
+        "Simon Ekhammar",
+        "Alessandro Georgoudis",
+        "Nikolay Gromov"
       ],
       "categories": [
-        "quant-ph",
         "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2611.19395v1",
-      "published": "2026-11-14T13:24:47Z"
+      "link": "https://arxiv.org/abs/2611.21843v1",
+      "published": "2026-11-16T20:00:24Z"
     },
     {
       "title": "Torsional Hall Viscosity of Massive Chern Insulators: Finite Temperature and Chemical Potential",
@@ -49,17 +59,33 @@
       "published": "2026-11-16T15:08:11Z"
     },
     {
-      "title": "Geometric Quantization of the Giant Graviton Master Moduli Space",
+      "title": "Localization identities for spectral determinants: two-dimensional QCD and Ising field theory",
       "authors": [
-        "Kasia Budzik",
-        "Davide Gaiotto"
+        "Bercel Boldis",
+        "Nikolay Gromov",
+        "Gregory P. Korchemsky",
+        "Alessandro Testa"
       ],
       "categories": [
         "hep-th",
         "math-ph"
       ],
-      "link": "https://arxiv.org/abs/2611.18539v1",
-      "published": "2026-11-13T18:48:14Z"
+      "link": "https://arxiv.org/abs/2611.21724v1",
+      "published": "2026-11-16T19:00:02Z"
+    },
+    {
+      "title": "Effects of QCD Equation of State on Cosmological Parameters and Stochastic Gravitational-Waves Spectrum",
+      "authors": [
+        "André V. Giannini",
+        "Victor P. Gonçalves",
+        "Samuel M. Sanches"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2611.22719v1",
+      "published": "2026-11-17T12:57:09Z"
     },
     {
       "title": "Inferring the neutral-current neutrino--nucleon cross section from IceCube data",
@@ -73,6 +99,62 @@
       ],
       "link": "https://arxiv.org/abs/2611.20887v1",
       "published": "2026-11-16T10:57:36Z"
+    },
+    {
+      "title": "Probing $τ$ lepton dipole moments at multi-TeV muon colliders",
+      "authors": [
+        "Dario Buttazzo",
+        "Gabriele Levati",
+        "Yang Ma",
+        "Fabio Maltoni",
+        "Paride Paradisi",
+        "ZeQiang Wang"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "link": "https://arxiv.org/abs/2611.21813v1",
+      "published": "2026-11-16T19:29:17Z"
+    },
+    {
+      "title": "Connectivity from activity in spiking neural networks",
+      "authors": [
+        "Albert J. Wakhloo",
+        "Sebastian Mizera"
+      ],
+      "categories": [
+        "cond-mat.dis-nn",
+        "hep-th",
+        "q-bio.NC"
+      ],
+      "link": "https://arxiv.org/abs/2611.21592v1",
+      "published": "2026-11-16T18:56:17Z"
+    },
+    {
+      "title": "An infrared-safe $S$-matrix for $\\mathcal N=4$ super Yang-Mills",
+      "authors": [
+        "Maria Nocchi",
+        "Leonardo Rastelli"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.21713v1",
+      "published": "2026-11-16T19:00:01Z"
+    },
+    {
+      "title": "Imprints of Non-local Top-Higgs Interaction on Loop Induced Higgs Processes",
+      "authors": [
+        "Avik Banerjee",
+        "Rohan Pramanick",
+        "Tirtha Sankar Ray"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2611.23028v1",
+      "published": "2026-11-17T16:32:31Z"
     }
   ]
 }
