@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T16:18:53.009883+00:00",
+  "generated_at": "2026-11-19T16:27:53.728953+00:00",
   "papers": [
     {
       "title": "Top-Quark Physics after Evidence for Toponium",
@@ -12,6 +12,20 @@
       ],
       "link": "https://arxiv.org/abs/2611.22421v1",
       "published": "2026-11-17T08:58:08Z"
+    },
+    {
+      "title": "Comment on \"Exact, nonsingular black holes from a phantom DBI field as primordial dark matter\"",
+      "authors": [
+        "Mustapha Azreg-Aïnou",
+        "Marco A. A. de Paula"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.23597v1",
+      "published": "2026-11-17T22:51:33Z"
     },
     {
       "title": "An Effective Theory for Hot Lines",
@@ -28,52 +42,6 @@
       "published": "2026-11-17T18:18:45Z"
     },
     {
-      "title": "Structure Constants of Planar N=4 SYM at Any Coupling",
-      "authors": [
-        "Simon Ekhammar",
-        "Alessandro Georgoudis",
-        "Nikolay Gromov"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.21843v1",
-      "published": "2026-11-16T20:00:24Z"
-    },
-    {
-      "title": "Torsional Hall Viscosity of Massive Chern Insulators: Finite Temperature and Chemical Potential",
-      "authors": [
-        "Weizhen Jia",
-        "Ioannis Matthaiakakis",
-        "David Rodríguez Fernández",
-        "Zhuo-Yu Xian",
-        "Johanna Erdmenger",
-        "Ewelina M. Hankiewicz",
-        "René Meyer"
-      ],
-      "categories": [
-        "cond-mat.mes-hall",
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.21217v1",
-      "published": "2026-11-16T15:08:11Z"
-    },
-    {
-      "title": "Localization identities for spectral determinants: two-dimensional QCD and Ising field theory",
-      "authors": [
-        "Bercel Boldis",
-        "Nikolay Gromov",
-        "Gregory P. Korchemsky",
-        "Alessandro Testa"
-      ],
-      "categories": [
-        "hep-th",
-        "math-ph"
-      ],
-      "link": "https://arxiv.org/abs/2611.21724v1",
-      "published": "2026-11-16T19:00:02Z"
-    },
-    {
       "title": "Effects of QCD Equation of State on Cosmological Parameters and Stochastic Gravitational-Waves Spectrum",
       "authors": [
         "André V. Giannini",
@@ -86,62 +54,6 @@
       ],
       "link": "https://arxiv.org/abs/2611.22719v1",
       "published": "2026-11-17T12:57:09Z"
-    },
-    {
-      "title": "Inferring the neutral-current neutrino--nucleon cross section from IceCube data",
-      "authors": [
-        "Reinaldo Francener",
-        "Victor P. Goncalves"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex"
-      ],
-      "link": "https://arxiv.org/abs/2611.20887v1",
-      "published": "2026-11-16T10:57:36Z"
-    },
-    {
-      "title": "Probing $τ$ lepton dipole moments at multi-TeV muon colliders",
-      "authors": [
-        "Dario Buttazzo",
-        "Gabriele Levati",
-        "Yang Ma",
-        "Fabio Maltoni",
-        "Paride Paradisi",
-        "ZeQiang Wang"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex"
-      ],
-      "link": "https://arxiv.org/abs/2611.21813v1",
-      "published": "2026-11-16T19:29:17Z"
-    },
-    {
-      "title": "Connectivity from activity in spiking neural networks",
-      "authors": [
-        "Albert J. Wakhloo",
-        "Sebastian Mizera"
-      ],
-      "categories": [
-        "cond-mat.dis-nn",
-        "hep-th",
-        "q-bio.NC"
-      ],
-      "link": "https://arxiv.org/abs/2611.21592v1",
-      "published": "2026-11-16T18:56:17Z"
-    },
-    {
-      "title": "An infrared-safe $S$-matrix for $\\mathcal N=4$ super Yang-Mills",
-      "authors": [
-        "Maria Nocchi",
-        "Leonardo Rastelli"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.21713v1",
-      "published": "2026-11-16T19:00:01Z"
     },
     {
       "title": "Imprints of Non-local Top-Higgs Interaction on Loop Induced Higgs Processes",
