@@ -1,72 +1,97 @@
 {
-  "generated_at": "2026-11-19T16:27:53.728953+00:00",
+  "generated_at": "2026-11-20T15:59:06.820363+00:00",
   "papers": [
     {
-      "title": "Top-Quark Physics after Evidence for Toponium",
+      "title": "Equivariant iterated Eisenstein integrals for congruence subgroups of level 2",
       "authors": [
-        "Howard Baer",
-        "Vernon Barger"
-      ],
-      "categories": [
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2611.22421v1",
-      "published": "2026-11-17T08:58:08Z"
-    },
-    {
-      "title": "Comment on \"Exact, nonsingular black holes from a phantom DBI field as primordial dark matter\"",
-      "authors": [
-        "Mustapha Azreg-Aïnou",
-        "Marco A. A. de Paula"
-      ],
-      "categories": [
-        "gr-qc",
-        "hep-ph",
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.23597v1",
-      "published": "2026-11-17T22:51:33Z"
-    },
-    {
-      "title": "An Effective Theory for Hot Lines",
-      "authors": [
-        "Julien Barrat",
-        "Alessio Miscioscia",
-        "Fedor K. Popov"
+        "Emiel Claasen",
+        "Mehregan Doroudiani",
+        "Claude Duhr",
+        "Axel Kleinschmidt",
+        "Franca Lippert",
+        "Oliver Schlotterer",
+        "Yoann Sohnle"
       ],
       "categories": [
         "hep-th",
-        "cond-mat.stat-mech"
+        "math.AG",
+        "math.NT"
       ],
-      "link": "https://arxiv.org/abs/2611.23169v1",
-      "published": "2026-11-17T18:18:45Z"
+      "link": "https://arxiv.org/abs/2611.26597v1",
+      "published": "2026-11-19T18:52:33Z"
     },
     {
-      "title": "Effects of QCD Equation of State on Cosmological Parameters and Stochastic Gravitational-Waves Spectrum",
+      "title": "From Integrability to Chaos in Tensionless AdS3 String Theory",
       "authors": [
-        "André V. Giannini",
-        "Victor P. Gonçalves",
-        "Samuel M. Sanches"
+        "Matthias R. Gaberdiel",
+        "Beat Nairz",
+        "Cheng Peng"
       ],
       "categories": [
-        "astro-ph.CO",
-        "hep-ph"
+        "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2611.22719v1",
-      "published": "2026-11-17T12:57:09Z"
+      "link": "https://arxiv.org/abs/2611.25576v1",
+      "published": "2026-11-19T06:16:17Z"
     },
     {
-      "title": "Imprints of Non-local Top-Higgs Interaction on Loop Induced Higgs Processes",
+      "title": "Inclusive and diffractive D meson photoproduction in $pPb$ collisions at the LHC using Pythia8 framework",
       "authors": [
-        "Avik Banerjee",
-        "Rohan Pramanick",
-        "Tirtha Sankar Ray"
+        "Victor P. Goncalves",
+        "Luana Santana",
+        "Wolfgang Schäfer"
       ],
       "categories": [
-        "hep-ph"
+        "hep-ph",
+        "hep-ex",
+        "nucl-ex",
+        "nucl-th"
       ],
-      "link": "https://arxiv.org/abs/2611.23028v1",
-      "published": "2026-11-17T16:32:31Z"
+      "link": "https://arxiv.org/abs/2611.25933v1",
+      "published": "2026-11-19T11:19:25Z"
+    },
+    {
+      "title": "Soft Factorisation of WQFT and the Spinning 4PM Magnusian",
+      "authors": [
+        "Riccardo Gonzo",
+        "Gustav Mogull",
+        "Benjamin Sauer"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "link": "https://arxiv.org/abs/2611.25090v1",
+      "published": "2026-11-18T19:28:45Z"
+    },
+    {
+      "title": "Conformal manifolds of $\\mathcal{N}=1$ orbifold theories - Part I: Marginal deformations and the one-loop spectrum",
+      "authors": [
+        "Fabio Mantegazza",
+        "Elli Pomoni",
+        "Torben Skrzypek"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.25021v1",
+      "published": "2026-11-18T19:00:01Z"
+    },
+    {
+      "title": "Dynamical Temperley-Lieb algebras from Quiver CFTs",
+      "authors": [
+        "Rob Klabbers",
+        "Elli Pomoni",
+        "Ana L. Retore",
+        "Paul Ryan",
+        "Konstantinos Zoubos"
+      ],
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "nlin.SI"
+      ],
+      "link": "https://arxiv.org/abs/2611.26285v1",
+      "published": "2026-11-19T15:45:49Z"
     }
   ]
 }
