@@ -1,4 +1,156 @@
 {
-  "generated_at": "2026-11-22T15:09:42.454562+00:00",
-  "papers": []
+  "generated_at": "2026-11-23T19:06:19.273174+00:00",
+  "papers": [
+    {
+      "title": "Feynman integrals, coactions and Lie-algebra representations",
+      "authors": [
+        "Emiel Claasen",
+        "Mehregan Doroudiani",
+        "Claude Duhr",
+        "Axel Kleinschmidt",
+        "Franca Lippert",
+        "Oliver Schlotterer",
+        "Yoann Sohnle"
+      ],
+      "categories": [
+        "hep-th",
+        "math.AG",
+        "math.NT"
+      ],
+      "link": "https://arxiv.org/abs/2611.26679v1",
+      "published": "2026-11-19T18:52:31Z"
+    },
+    {
+      "title": "Equivariant iterated Eisenstein integrals for congruence subgroups of level 2",
+      "authors": [
+        "Emiel Claasen",
+        "Mehregan Doroudiani",
+        "Claude Duhr",
+        "Axel Kleinschmidt",
+        "Franca Lippert",
+        "Oliver Schlotterer",
+        "Yoann Sohnle"
+      ],
+      "categories": [
+        "hep-th",
+        "math.AG",
+        "math.NT"
+      ],
+      "link": "https://arxiv.org/abs/2611.26597v1",
+      "published": "2026-11-19T18:52:33Z"
+    },
+    {
+      "title": "Bulk Wilson Loops from $\\mathscr{I}$",
+      "authors": [
+        "James Drummond",
+        "Bruno Giménez Umbert",
+        "Prahar Mitra"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.27739v1",
+      "published": "2026-11-20T15:35:09Z"
+    },
+    {
+      "title": "A pseudoscalar Higgs boson interfering with toponium: a QCD analysis of $\\mathbf{gg\\to A\\to t\\bar t}$ near threshold",
+      "authors": [
+        "Abdelhak Djouadi",
+        "John Ellis"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2611.27704v1",
+      "published": "2026-11-20T15:08:58Z"
+    },
+    {
+      "title": "From Integrability to Chaos in Tensionless AdS3 String Theory",
+      "authors": [
+        "Matthias R. Gaberdiel",
+        "Beat Nairz",
+        "Cheng Peng"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.25576v1",
+      "published": "2026-11-19T06:16:17Z"
+    },
+    {
+      "title": "Inclusive and diffractive D meson photoproduction in $pPb$ collisions at the LHC using Pythia8 framework",
+      "authors": [
+        "Victor P. Goncalves",
+        "Luana Santana",
+        "Wolfgang Schäfer"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.25933v1",
+      "published": "2026-11-19T11:19:25Z"
+    },
+    {
+      "title": "Dynamical Temperley-Lieb algebras from Quiver CFTs",
+      "authors": [
+        "Rob Klabbers",
+        "Elli Pomoni",
+        "Ana L. Retore",
+        "Paul Ryan",
+        "Konstantinos Zoubos"
+      ],
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "nlin.SI"
+      ],
+      "link": "https://arxiv.org/abs/2611.26285v1",
+      "published": "2026-11-19T15:45:49Z"
+    },
+    {
+      "title": "String breaking in a (1+1)-dimensional $e^+e^-$ collider",
+      "authors": [
+        "Ross Dempsey",
+        "Anna-Maria E. Glück",
+        "Silviu S. Pufu",
+        "Benjamin T. Søgaard"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-lat"
+      ],
+      "link": "https://arxiv.org/abs/2611.27134v1",
+      "published": "2026-11-20T05:08:04Z"
+    },
+    {
+      "title": "The Kerr Metric in Canonical Harmonic Coordinates to All Orders",
+      "authors": [
+        "Amina Sadu",
+        "Pierre Vanhove"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "link": "https://arxiv.org/abs/2611.27573v1",
+      "published": "2026-11-20T13:11:00Z"
+    },
+    {
+      "title": "Dijet production in $e^+e^-$ collisions at NNLO+PS accuracy",
+      "authors": [
+        "Florian König",
+        "Marius Wiesemann",
+        "Giulia Zanderighi"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "link": "https://arxiv.org/abs/2611.26718v1",
+      "published": "2026-11-19T19:17:41Z"
+    }
+  ]
 }
