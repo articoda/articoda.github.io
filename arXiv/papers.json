@@ -1,43 +1,45 @@
 {
-  "generated_at": "2026-11-23T19:06:19.273174+00:00",
+  "generated_at": "2026-11-24T18:45:04.551470+00:00",
   "papers": [
     {
-      "title": "Feynman integrals, coactions and Lie-algebra representations",
+      "title": "Scattering amplitudes in AdS$_5\\times$ S$^5$ from the pure spinor superstring",
       "authors": [
-        "Emiel Claasen",
-        "Mehregan Doroudiani",
-        "Claude Duhr",
-        "Axel Kleinschmidt",
-        "Franca Lippert",
-        "Oliver Schlotterer",
-        "Yoann Sohnle"
+        "Luis F. Alday",
+        "Thiago Fleury",
+        "Tobias Hansen",
+        "Lucas N. S. Martins",
+        "Dennis Zavaleta"
       ],
       "categories": [
-        "hep-th",
-        "math.AG",
-        "math.NT"
+        "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2611.26679v1",
-      "published": "2026-11-19T18:52:31Z"
+      "link": "https://arxiv.org/abs/2611.29622v1",
+      "published": "2026-11-22T17:20:52Z"
     },
     {
-      "title": "Equivariant iterated Eisenstein integrals for congruence subgroups of level 2",
+      "title": "Matter-decorated trumpets in double-scaled SYK",
       "authors": [
-        "Emiel Claasen",
-        "Mehregan Doroudiani",
-        "Claude Duhr",
-        "Axel Kleinschmidt",
-        "Franca Lippert",
-        "Oliver Schlotterer",
-        "Yoann Sohnle"
+        "Matteo Beccaria"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.30296v1",
+      "published": "2026-11-23T08:50:36Z"
+    },
+    {
+      "title": "Near-boundary and near-horizon momentum--Krylov response in noncommutative-inspired BTZ spacetime",
+      "authors": [
+        "F. A. Brito",
+        "F. G. Costa",
+        "J. A. V. Campos"
       ],
       "categories": [
         "hep-th",
-        "math.AG",
-        "math.NT"
+        "gr-qc"
       ],
-      "link": "https://arxiv.org/abs/2611.26597v1",
-      "published": "2026-11-19T18:52:33Z"
+      "link": "https://arxiv.org/abs/2611.31106v1",
+      "published": "2026-11-23T17:44:22Z"
     },
     {
       "title": "Bulk Wilson Loops from $\\mathscr{I}$",
@@ -65,24 +67,10 @@
       "published": "2026-11-20T15:08:58Z"
     },
     {
-      "title": "From Integrability to Chaos in Tensionless AdS3 String Theory",
+      "title": "Diffractive Photoproduction of High $p_T$ Photons in Ultraperipheral Collisions at the LHC",
       "authors": [
-        "Matthias R. Gaberdiel",
-        "Beat Nairz",
-        "Cheng Peng"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.25576v1",
-      "published": "2026-11-19T06:16:17Z"
-    },
-    {
-      "title": "Inclusive and diffractive D meson photoproduction in $pPb$ collisions at the LHC using Pythia8 framework",
-      "authors": [
-        "Victor P. Goncalves",
-        "Luana Santana",
-        "Wolfgang Schäfer"
+        "João V. Bulhões",
+        "Victor P. Goncalves"
       ],
       "categories": [
         "hep-ph",
@@ -90,25 +78,46 @@
         "nucl-ex",
         "nucl-th"
       ],
-      "link": "https://arxiv.org/abs/2611.25933v1",
-      "published": "2026-11-19T11:19:25Z"
+      "link": "https://arxiv.org/abs/2611.30966v1",
+      "published": "2026-11-23T16:33:31Z"
     },
     {
-      "title": "Dynamical Temperley-Lieb algebras from Quiver CFTs",
+      "title": "Dirichlet walls beyond JT gravity and their quantum group interpretation",
       "authors": [
-        "Rob Klabbers",
-        "Elli Pomoni",
-        "Ana L. Retore",
-        "Paul Ryan",
-        "Konstantinos Zoubos"
+        "Luca Griguolo",
+        "Jacopo Papalini",
+        "Lorenzo Russo",
+        "Domenico Seminara",
+        "Alex Tarana"
       ],
       "categories": [
-        "hep-th",
-        "math-ph",
-        "nlin.SI"
+        "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2611.26285v1",
-      "published": "2026-11-19T15:45:49Z"
+      "link": "https://arxiv.org/abs/2611.30567v1",
+      "published": "2026-11-23T12:12:42Z"
+    },
+    {
+      "title": "HEP-Ex-Bench: Evaluating Agentic Performance in High Energy Physics Experiment Data Analyses with Sealed Worlds",
+      "authors": [
+        "Andrzej Novák",
+        "Yiyang Zhao",
+        "Dolores Garcia",
+        "Eric A. Moreno",
+        "Jeffrey Krupa",
+        "Víctor Bresó-Pla",
+        "Samuel Bright-Thonney",
+        "Lukas Heinrich",
+        "Michael Kagan",
+        "Philip Harris"
+      ],
+      "categories": [
+        "physics.data-an",
+        "cs.AI",
+        "cs.LG",
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2611.28194v1",
+      "published": "2026-11-20T15:11:36Z"
     },
     {
       "title": "String breaking in a (1+1)-dimensional $e^+e^-$ collider",
@@ -137,20 +146,6 @@
       ],
       "link": "https://arxiv.org/abs/2611.27573v1",
       "published": "2026-11-20T13:11:00Z"
-    },
-    {
-      "title": "Dijet production in $e^+e^-$ collisions at NNLO+PS accuracy",
-      "authors": [
-        "Florian König",
-        "Marius Wiesemann",
-        "Giulia Zanderighi"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex"
-      ],
-      "link": "https://arxiv.org/abs/2611.26718v1",
-      "published": "2026-11-19T19:17:41Z"
     }
   ]
 }
