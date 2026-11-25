@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-11-24T18:45:04.551470+00:00",
+  "generated_at": "2026-11-25T17:53:14.376184+00:00",
   "papers": [
-    {
-      "title": "Scattering amplitudes in AdS$_5\\times$ S$^5$ from the pure spinor superstring",
-      "authors": [
-        "Luis F. Alday",
-        "Thiago Fleury",
-        "Tobias Hansen",
-        "Lucas N. S. Martins",
-        "Dennis Zavaleta"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.29622v1",
-      "published": "2026-11-22T17:20:52Z"
-    },
     {
       "title": "Matter-decorated trumpets in double-scaled SYK",
       "authors": [
@@ -26,6 +11,30 @@
       ],
       "link": "https://arxiv.org/abs/2611.30296v1",
       "published": "2026-11-23T08:50:36Z"
+    },
+    {
+      "title": "Exact Scalar and Fermionic Propagators in a Uniform Electric Background",
+      "authors": [
+        "Emerson B. S. Corrêa"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.31528v1",
+      "published": "2026-11-23T20:35:11Z"
+    },
+    {
+      "title": "The Eigenfunction Method to Calculate the Klein--Gordon Propa-gator in an Inhomogeneous Magnetic Field",
+      "authors": [
+        "Emerson B. S. Corrê",
+        "Mateus G. Lima",
+        "Suellen. C. Q. Arruda"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.31630v1",
+      "published": "2026-11-23T22:17:43Z"
     },
     {
       "title": "Near-boundary and near-horizon momentum--Krylov response in noncommutative-inspired BTZ spacetime",
@@ -42,29 +51,53 @@
       "published": "2026-11-23T17:44:22Z"
     },
     {
-      "title": "Bulk Wilson Loops from $\\mathscr{I}$",
+      "title": "Quarkonium Energy Correlators in Proton-Proton Collisions: Analytic Calculation and Angular-Momentum Hierarchy",
       "authors": [
-        "James Drummond",
-        "Bruno Giménez Umbert",
-        "Prahar Mitra"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.27739v1",
-      "published": "2026-11-20T15:35:09Z"
-    },
-    {
-      "title": "A pseudoscalar Higgs boson interfering with toponium: a QCD analysis of $\\mathbf{gg\\to A\\to t\\bar t}$ near threshold",
-      "authors": [
-        "Abdelhak Djouadi",
-        "John Ellis"
+        "June-Haak Ee",
+        "Christopher Lee",
+        "Bianka Meçaj",
+        "Hugo Pereira Da Costa",
+        "Bade Sayki"
       ],
       "categories": [
         "hep-ph"
       ],
-      "link": "https://arxiv.org/abs/2611.27704v1",
-      "published": "2026-11-20T15:08:58Z"
+      "link": "https://arxiv.org/abs/2611.31445v1",
+      "published": "2026-11-23T19:20:25Z"
+    },
+    {
+      "title": "A Kerr-black-hole worldline action to $\\mathcal{O}(G^5)$",
+      "authors": [
+        "Yilber Fabian Bautista",
+        "Mathias Driesse",
+        "Kays Haddad",
+        "Gustav Uhre Jakobsen"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "link": "https://arxiv.org/abs/2611.31377v1",
+      "published": "2026-11-23T19:00:05Z"
+    },
+    {
+      "title": "Triple-Higgs production: a window on the Higgs potential and anomalous top-Higgs couplings",
+      "authors": [
+        "John M. Campbell",
+        "Giuseppe De Laurentis",
+        "R. Keith Ellis",
+        "Michelle Gensmann",
+        "Ulrich Haisch",
+        "Luca Panizzi",
+        "Andreas Papaefstathiou",
+        "Gilberto Tetlalmatzi-Xolocotzi"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "link": "https://arxiv.org/abs/2611.33105v1",
+      "published": "2026-11-24T18:39:09Z"
     },
     {
       "title": "Diffractive Photoproduction of High $p_T$ Photons in Ultraperipheral Collisions at the LHC",
@@ -97,55 +130,59 @@
       "published": "2026-11-23T12:12:42Z"
     },
     {
-      "title": "HEP-Ex-Bench: Evaluating Agentic Performance in High Energy Physics Experiment Data Analyses with Sealed Worlds",
+      "title": "The Hidden Simplicity of the Classical Limit",
       "authors": [
-        "Andrzej Novák",
-        "Yiyang Zhao",
-        "Dolores Garcia",
-        "Eric A. Moreno",
-        "Jeffrey Krupa",
-        "Víctor Bresó-Pla",
-        "Samuel Bright-Thonney",
-        "Lukas Heinrich",
-        "Michael Kagan",
-        "Philip Harris"
-      ],
-      "categories": [
-        "physics.data-an",
-        "cs.AI",
-        "cs.LG",
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2611.28194v1",
-      "published": "2026-11-20T15:11:36Z"
-    },
-    {
-      "title": "String breaking in a (1+1)-dimensional $e^+e^-$ collider",
-      "authors": [
-        "Ross Dempsey",
-        "Anna-Maria E. Glück",
-        "Silviu S. Pufu",
-        "Benjamin T. Søgaard"
-      ],
-      "categories": [
-        "hep-th",
-        "hep-lat"
-      ],
-      "link": "https://arxiv.org/abs/2611.27134v1",
-      "published": "2026-11-20T05:08:04Z"
-    },
-    {
-      "title": "The Kerr Metric in Canonical Harmonic Coordinates to All Orders",
-      "authors": [
-        "Amina Sadu",
-        "Pierre Vanhove"
+        "Yilber Fabian Bautista",
+        "Stefano De Angelis",
+        "David A. Kosower",
+        "Donal O'Connell",
+        "Matteo Sergola"
       ],
       "categories": [
         "hep-th",
         "gr-qc"
       ],
-      "link": "https://arxiv.org/abs/2611.27573v1",
-      "published": "2026-11-20T13:11:00Z"
+      "link": "https://arxiv.org/abs/2611.31369v1",
+      "published": "2026-11-23T19:00:02Z"
+    },
+    {
+      "title": "The Four-Loop Ladder Integral Family for the QED Electron Self-Energy",
+      "authors": [
+        "Felix Forner",
+        "Andreas von Manteuffel",
+        "Christoph Nega",
+        "Lorenzo Tancredi"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2611.32854v1",
+      "published": "2026-11-24T15:57:07Z"
+    },
+    {
+      "title": "Radiation from periods: Bremsstrahlung functions, wound loops, latitudes and integral constraints in ABJM",
+      "authors": [
+        "Michelangelo Preti"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.31555v1",
+      "published": "2026-11-23T21:04:41Z"
+    },
+    {
+      "title": "A spin chain as a deformed conformal field theory: an ODE/IM approach",
+      "authors": [
+        "Sujay K. Ashok",
+        "Nicolò Primi",
+        "Roberto Tateo"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "link": "https://arxiv.org/abs/2611.31417v1",
+      "published": "2026-11-23T19:07:35Z"
     }
   ]
 }
