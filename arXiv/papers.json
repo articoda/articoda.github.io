@@ -1,84 +1,36 @@
 {
-  "generated_at": "2026-11-25T17:53:14.376184+00:00",
+  "generated_at": "2026-11-26T17:37:46.839188+00:00",
   "papers": [
     {
-      "title": "Matter-decorated trumpets in double-scaled SYK",
+      "title": "Black hole entropy from angular holonomies of Sine-Gordon soliton lattices in AdS$_3$",
       "authors": [
-        "Matteo Beccaria"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.30296v1",
-      "published": "2026-11-23T08:50:36Z"
-    },
-    {
-      "title": "Exact Scalar and Fermionic Propagators in a Uniform Electric Background",
-      "authors": [
-        "Emerson B. S. Corrêa"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.31528v1",
-      "published": "2026-11-23T20:35:11Z"
-    },
-    {
-      "title": "The Eigenfunction Method to Calculate the Klein--Gordon Propa-gator in an Inhomogeneous Magnetic Field",
-      "authors": [
-        "Emerson B. S. Corrê",
-        "Mateus G. Lima",
-        "Suellen. C. Q. Arruda"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.31630v1",
-      "published": "2026-11-23T22:17:43Z"
-    },
-    {
-      "title": "Near-boundary and near-horizon momentum--Krylov response in noncommutative-inspired BTZ spacetime",
-      "authors": [
-        "F. A. Brito",
-        "F. G. Costa",
-        "J. A. V. Campos"
+        "Marcela Cárdenas",
+        "Francisco Correa",
+        "Nicolás Salazar"
       ],
       "categories": [
         "hep-th",
-        "gr-qc"
+        "gr-qc",
+        "math-ph",
+        "nlin.PS",
+        "nlin.SI"
       ],
-      "link": "https://arxiv.org/abs/2611.31106v1",
-      "published": "2026-11-23T17:44:22Z"
+      "link": "https://arxiv.org/abs/2611.34444v1",
+      "published": "2026-11-25T14:24:49Z"
     },
     {
-      "title": "Quarkonium Energy Correlators in Proton-Proton Collisions: Analytic Calculation and Angular-Momentum Hierarchy",
+      "title": "Screening of New Abelian Long-Range Forces",
       "authors": [
-        "June-Haak Ee",
-        "Christopher Lee",
-        "Bianka Meçaj",
-        "Hugo Pereira Da Costa",
-        "Bade Sayki"
+        "Marco Costa",
+        "Andrey Shkerin",
+        "Ananda Thomlinson"
       ],
       "categories": [
-        "hep-ph"
+        "hep-ph",
+        "astro-ph.HE"
       ],
-      "link": "https://arxiv.org/abs/2611.31445v1",
-      "published": "2026-11-23T19:20:25Z"
-    },
-    {
-      "title": "A Kerr-black-hole worldline action to $\\mathcal{O}(G^5)$",
-      "authors": [
-        "Yilber Fabian Bautista",
-        "Mathias Driesse",
-        "Kays Haddad",
-        "Gustav Uhre Jakobsen"
-      ],
-      "categories": [
-        "hep-th",
-        "gr-qc"
-      ],
-      "link": "https://arxiv.org/abs/2611.31377v1",
-      "published": "2026-11-23T19:00:05Z"
+      "link": "https://arxiv.org/abs/2611.34838v1",
+      "published": "2026-11-25T18:18:06Z"
     },
     {
       "title": "Triple-Higgs production: a window on the Higgs potential and anomalous top-Higgs couplings",
@@ -100,50 +52,56 @@
       "published": "2026-11-24T18:39:09Z"
     },
     {
-      "title": "Diffractive Photoproduction of High $p_T$ Photons in Ultraperipheral Collisions at the LHC",
+      "title": "KEBBABS: Kilometric Enhanced Balloon-Baseline for Axion Birefringence Search",
       "authors": [
-        "João V. Bulhões",
-        "Victor P. Goncalves"
+        "Tommaso Feri",
+        "Silvia Gasparotto"
       ],
       "categories": [
         "hep-ph",
-        "hep-ex",
-        "nucl-ex",
-        "nucl-th"
+        "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2611.30966v1",
-      "published": "2026-11-23T16:33:31Z"
+      "link": "https://arxiv.org/abs/2611.34927v1",
+      "published": "2026-11-25T18:59:07Z"
     },
     {
-      "title": "Dirichlet walls beyond JT gravity and their quantum group interpretation",
+      "title": "An Argument for the Weak Gravity Conjecture from Constrained Wormholes",
       "authors": [
-        "Luca Griguolo",
-        "Jacopo Papalini",
-        "Lorenzo Russo",
-        "Domenico Seminara",
-        "Alex Tarana"
+        "Gabriele Di Ubaldo",
+        "Luca V. Iliesiu",
+        "Dawid Maskalaniec"
       ],
       "categories": [
         "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2611.30567v1",
-      "published": "2026-11-23T12:12:42Z"
+      "link": "https://arxiv.org/abs/2611.33415v1",
+      "published": "2026-11-24T20:40:41Z"
     },
     {
-      "title": "The Hidden Simplicity of the Classical Limit",
+      "title": "Quantum critical collapse to an extremal black hole",
       "authors": [
-        "Yilber Fabian Bautista",
-        "Stefano De Angelis",
-        "David A. Kosower",
-        "Donal O'Connell",
-        "Matteo Sergola"
+        "Hugo Lange",
+        "Harvey S. Reall"
       ],
       "categories": [
-        "hep-th",
-        "gr-qc"
+        "hep-th"
       ],
-      "link": "https://arxiv.org/abs/2611.31369v1",
-      "published": "2026-11-23T19:00:02Z"
+      "link": "https://arxiv.org/abs/2611.33264v1",
+      "published": "2026-11-24T18:24:13Z"
+    },
+    {
+      "title": "Heavy quark drag coefficient using phonon-heavy quark EFT",
+      "authors": [
+        "Andreas Kirchner",
+        "Noah Koliadko",
+        "Berndt Mueller",
+        "Jyotirmoy Roy"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "link": "https://arxiv.org/abs/2611.33709v1",
+      "published": "2026-11-25T03:23:40Z"
     },
     {
       "title": "The Four-Loop Ladder Integral Family for the QED Electron Self-Energy",
@@ -159,30 +117,6 @@
       ],
       "link": "https://arxiv.org/abs/2611.32854v1",
       "published": "2026-11-24T15:57:07Z"
-    },
-    {
-      "title": "Radiation from periods: Bremsstrahlung functions, wound loops, latitudes and integral constraints in ABJM",
-      "authors": [
-        "Michelangelo Preti"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.31555v1",
-      "published": "2026-11-23T21:04:41Z"
-    },
-    {
-      "title": "A spin chain as a deformed conformal field theory: an ODE/IM approach",
-      "authors": [
-        "Sujay K. Ashok",
-        "Nicolò Primi",
-        "Roberto Tateo"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.31417v1",
-      "published": "2026-11-23T19:07:35Z"
     }
   ]
 }
