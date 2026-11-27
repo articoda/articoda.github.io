@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:37:46.839188+00:00",
+  "generated_at": "2026-11-27T17:20:55.403506+00:00",
   "papers": [
     {
       "title": "Black hole entropy from angular holonomies of Sine-Gordon soliton lattices in AdS$_3$",
@@ -33,25 +33,6 @@
       "published": "2026-11-25T18:18:06Z"
     },
     {
-      "title": "Triple-Higgs production: a window on the Higgs potential and anomalous top-Higgs couplings",
-      "authors": [
-        "John M. Campbell",
-        "Giuseppe De Laurentis",
-        "R. Keith Ellis",
-        "Michelle Gensmann",
-        "Ulrich Haisch",
-        "Luca Panizzi",
-        "Andreas Papaefstathiou",
-        "Gilberto Tetlalmatzi-Xolocotzi"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex"
-      ],
-      "link": "https://arxiv.org/abs/2611.33105v1",
-      "published": "2026-11-24T18:39:09Z"
-    },
-    {
       "title": "KEBBABS: Kilometric Enhanced Balloon-Baseline for Axion Birefringence Search",
       "authors": [
         "Tommaso Feri",
@@ -63,31 +44,6 @@
       ],
       "link": "https://arxiv.org/abs/2611.34927v1",
       "published": "2026-11-25T18:59:07Z"
-    },
-    {
-      "title": "An Argument for the Weak Gravity Conjecture from Constrained Wormholes",
-      "authors": [
-        "Gabriele Di Ubaldo",
-        "Luca V. Iliesiu",
-        "Dawid Maskalaniec"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.33415v1",
-      "published": "2026-11-24T20:40:41Z"
-    },
-    {
-      "title": "Quantum critical collapse to an extremal black hole",
-      "authors": [
-        "Hugo Lange",
-        "Harvey S. Reall"
-      ],
-      "categories": [
-        "hep-th"
-      ],
-      "link": "https://arxiv.org/abs/2611.33264v1",
-      "published": "2026-11-24T18:24:13Z"
     },
     {
       "title": "Heavy quark drag coefficient using phonon-heavy quark EFT",
@@ -102,21 +58,6 @@
       ],
       "link": "https://arxiv.org/abs/2611.33709v1",
       "published": "2026-11-25T03:23:40Z"
-    },
-    {
-      "title": "The Four-Loop Ladder Integral Family for the QED Electron Self-Energy",
-      "authors": [
-        "Felix Forner",
-        "Andreas von Manteuffel",
-        "Christoph Nega",
-        "Lorenzo Tancredi"
-      ],
-      "categories": [
-        "hep-th",
-        "hep-ph"
-      ],
-      "link": "https://arxiv.org/abs/2611.32854v1",
-      "published": "2026-11-24T15:57:07Z"
     }
   ]
 }
